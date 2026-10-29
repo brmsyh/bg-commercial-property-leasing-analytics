@@ -1,0 +1,4473 @@
+tenant_id,industry,segment,first_seen
+T00001,Education,Mid,2020-02-01
+T00002,Professional Services,SME,2020-10-01
+T00003,Pharma & Healthcare,SME,2018-01-01
+T00004,Finance & Insurance,SME,2020-12-01
+T00005,Finance & Insurance,SME,2018-10-01
+T00006,Professional Services,SME,2024-11-01
+T00007,Engineering,Mid,2018-10-01
+T00008,BPO / Shared Services,Mid,2018-01-01
+T00009,Media & Marketing,Mid,2023-07-01
+T00010,Professional Services,SME,2019-04-01
+T00011,Finance & Insurance,SME,2020-09-01
+T00012,IT & Software,SME,2023-10-01
+T00013,,SME,2017-06-01
+T00014,IT & Software,SME,2022-09-01
+T00015,,SME,2019-10-01
+T00016,BPO / Shared Services,Mid,2017-02-01
+T00017,Pharma & Healthcare,Mid,2025-07-01
+T00018,IT & Software,SME,2019-07-01
+T00019,BPO / Shared Services,SME,2025-09-01
+T00019,BPO / Shared Services,SME,2025-09-01
+T00020,Professional Services,Mid,2020-09-01
+T00021,Engineering  ,SME,2021-02-01
+T00022,Professional Services,SME,2020-08-01
+T00023,Education,SME,2017-04-01
+T00024,BPO / Shared Services,Mid,2016-04-01
+T00025,BPO / Shared Services,Mid,2024-06-01
+T00026,Professional Services,SME,2019-06-01
+T00027,Pharma & Healthcare,Mid,2020-08-01
+T00028,Pharma & Healthcare,Mid,2023-09-01
+T00029,BPO / Shared Services,Mid,2019-12-01
+T00030,BPO / Shared Services,SME,2020-12-01
+T00031,Finance & Insurance,SME,2019-01-01
+T00032,IT & Software,SME,2022-02-01
+T00033,IT & Software  ,Mid,2020-07-01
+T00034,Education,Mid,2019-02-01
+T00035,Public Sector / NGO,Mid,2024-03-01
+T00036,Finance & Insurance,SME,2017-01-01
+T00037,Pharma & Healthcare,SME,2025-02-01
+T00038,Professional Services,Mid,2021-10-01
+T00039,Pharma & Healthcare,SME,2020-09-01
+T00040,BPO / Shared Services,SME,2023-10-01
+T00041,IT & Software,SME,2020-01-01
+T00042,IT & Software,SME,2019-01-01
+T00043,Professional Services,Mid,2016-10-01
+T00044,IT & Software,Mid,2025-04-01
+T00045,IT & Software,SME,2019-08-01
+T00046,IT & Software,SME,2019-04-01
+T00047,Professional Services,SME,2024-06-01
+T00048,BPO / Shared Services,SME,2019-10-01
+T00049,Professional Services,SME,2020-01-01
+T00050,IT & Software,SME,2023-02-01
+T00051,Education,Mid,2020-08-01
+T00052,Professional Services,Mid,2023-10-01
+T00053,IT & Software,SME,2020-10-01
+T00054,Professional Services,SME,2024-02-01
+T00055,BPO / Shared Services,Mid,2018-02-01
+T00056,Pharma & Healthcare,Mid,2023-04-01
+T00057,Engineering,Mid,2018-05-01
+T00058,IT & Software,Mid,2024-08-01
+T00059,,Mid,2019-10-01
+T00060,IT & Software,SME,2016-08-01
+T00061,Professional Services,SME,2022-01-01
+T00062,Professional Services,SME,2020-05-01
+T00063,IT & Software,SME,2020-09-01
+T00064,,SME,2020-03-01
+T00065,,Mid,2019-07-01
+T00066,Pharma & Healthcare,Mid,2022-09-01
+T00067,,SME,2019-07-01
+T00068,Pharma & Healthcare,Mid,2019-02-01
+T00069,BPO / Shared Services,SME,2019-12-01
+T00070,Media & Marketing,SME,2020-08-01
+T00071,Pharma & Healthcare,SME,2023-09-01
+T00072,Professional Services,SME,2020-05-01
+T00073,BPO / Shared Services,SME,2018-04-01
+T00074,Finance & Insurance,SME,2018-07-01
+T00075,,SME,2024-06-01
+T00076,Pharma & Healthcare,SME,2020-10-01
+T00077,IT & Software,Mid,2021-05-01
+T00078,BPO / Shared Services,Mid,2025-09-01
+T00079,Engineering,Mid,2019-04-01
+T00080,,Mid,2025-05-01
+T00081,BPO / Shared Services,Mid,2016-08-01
+T00082,IT & Software,Mid,2024-09-01
+T00083,BPO / Shared Services,SME,2018-07-01
+T00084,Professional Services,SME,2021-03-01
+T00085,IT & Software,SME,2019-04-01
+T00086,BPO / Shared Services,SME,2020-12-01
+T00087,IT & Software,Mid,2019-06-01
+T00088,,Mid,2019-08-01
+T00089,Professional Services,SME,2019-09-01
+T00090,Professional Services,Mid,2018-08-01
+T00091,Professional Services,SME,2020-03-01
+T00092,Public Sector / NGO,SME,2023-05-01
+T00093,Pharma & Healthcare,SME,2019-07-01
+T00094,Pharma & Healthcare,Mid,2017-08-01
+T00095,Education,Mid,2023-03-01
+T00096,BPO / Shared Services,Mid,2019-11-01
+T00097,IT & Software,Mid,2023-01-01
+T00098,Media & Marketing,Mid,2016-10-01
+T00099,BPO / Shared Services,Mid,2022-03-01
+T00100,IT & Software,SME,2020-07-01
+T00101,BPO / Shared Services,SME,2020-04-01
+T00102,Public Sector / NGO,Mid,2018-09-01
+T00103,BPO / Shared Services,Mid,2017-07-01
+T00104,Pharma & Healthcare,Mid,2022-09-01
+T00105,IT & Software,Mid,2019-03-01
+T00106,IT & Software,Mid,2018-07-01
+T00107,Public Sector / NGO,SME,2018-08-01
+T00108,BPO / Shared Services,Mid,2019-02-01
+T00109,Professional Services,Mid,2022-03-01
+T00110,BPO / Shared Services,Mid,2018-11-01
+T00111,Media & Marketing,Mid,2020-04-01
+T00112,Pharma & Healthcare,Mid,2017-06-01
+T00113,Engineering,Mid,2022-07-01
+T00114,Finance & Insurance,Mid,2020-02-01
+T00115,Pharma & Healthcare,Mid,2018-02-01
+T00116,IT & Software,SME,2016-10-01
+T00117,,SME,2021-12-01
+T00118,,Mid,2018-02-01
+T00119,IT & Software,SME,2018-07-01
+T00120,Pharma & Healthcare,Large,2020-07-01
+T00121,Education,Mid,2020-09-01
+T00122,IT & Software,Mid,2016-10-01
+T00123,IT & Software,SME,2017-04-01
+T00124,Professional Services,SME,2018-02-01
+T00125,IT & Software,Mid,2018-06-01
+T00126,BPO / Shared Services,Mid,2021-08-01
+T00127,IT & Software,Mid,2020-04-01
+T00128,IT & Software,Mid,2025-05-01
+T00129,Professional Services,SME,2019-04-01
+T00130,Professional Services,SME,2022-01-01
+T00131,IT & Software,SME,2018-12-01
+T00132,IT & Software  ,SME,2019-12-01
+T00133,IT & Software,SME,2023-03-01
+T00134,BPO / Shared Services,Mid,2020-02-01
+T00135,IT & Software,Mid,2023-03-01
+T00136,Media & Marketing,SME,2020-07-01
+T00137,Media & Marketing,SME,2023-08-01
+T00138,Media & Marketing,SME,2019-02-01
+T00139,Public Sector / NGO,SME,2020-05-01
+T00140,IT & Software,Mid,2018-09-01
+T00141,IT & Software,SME,2017-01-01
+T00142,IT & Software,SME,2021-05-01
+T00143,Pharma & Healthcare,Mid,2020-11-01
+T00144,Engineering,Mid,2018-04-01
+T00145,Professional Services,Mid,2023-12-01
+T00146,Professional Services,SME,2019-03-01
+T00147,BPO / Shared Services,SME,2022-04-01
+T00148,Engineering,Mid,2018-03-01
+T00149,Pharma & Healthcare,SME,2020-05-01
+T00150,BPO / Shared Services,SME,2020-10-01
+T00151,Media & Marketing,SME,2021-08-01
+T00152,Engineering,Mid,2017-10-01
+T00153,Engineering,Mid,2022-11-01
+T00154,IT & Software,SME,2018-11-01
+T00155,,SME,2022-01-01
+T00156,BPO / Shared Services,SME,2025-02-01
+T00157,IT & Software,SME,2019-01-01
+T00158,Finance & Insurance,Mid,2018-05-01
+T00159,Education,Mid,2024-11-01
+T00160,Education  ,SME,2018-01-01
+T00161,Public Sector / NGO,SME,2022-01-01
+T00162,Public Sector / NGO,SME,2020-04-01
+T00163,IT & Software,Mid,2017-02-01
+T00164,Engineering,Mid,2020-06-01
+T00165,Education,Mid,2023-08-01
+T00166,,SME,2018-10-01
+T00167,,SME,2024-07-01
+T00168,BPO / Shared Services,Mid,2019-02-01
+T00169,BPO / Shared Services,Mid,2025-05-01
+T00170,BPO / Shared Services,SME,2018-08-01
+T00171,Engineering,Mid,2019-07-01
+T00172,IT & Software,SME,2019-10-01
+T00173,Engineering,SME,2022-12-01
+T00174,Finance & Insurance,SME,2019-05-01
+T00175,Education,SME,2018-09-01
+T00176,BPO / Shared Services,SME,2025-09-01
+T00177,IT & Software,SME,2019-05-01
+T00178,Professional Services,SME,2019-02-01
+T00179,Professional Services  ,SME,2023-04-01
+T00180,IT & Software  ,Mid,2020-01-01
+T00181,IT & Software,Mid,2023-06-01
+T00182,IT & Software,SME,2021-02-01
+T00183,IT & Software  ,SME,2018-05-01
+T00184,IT & Software,Mid,2016-02-01
+T00185,Pharma & Healthcare,SME,2016-06-01
+T00186,IT & Software,SME,2022-01-01
+T00187,BPO / Shared Services,SME,2025-05-01
+T00188,BPO / Shared Services,Mid,2019-04-01
+T00189,IT & Software,Mid,2019-10-01
+T00190,Public Sector / NGO,SME,2019-06-01
+T00191,IT & Software,Mid,2019-03-01
+T00192,IT & Software,Mid,2018-05-01
+T00193,,Mid,2018-08-01
+T00194,Finance & Insurance,Mid,2024-04-01
+T00195,Professional Services,SME,2017-07-01
+T00196,Media & Marketing,SME,2019-11-01
+T00197,BPO / Shared Services,Mid,2020-02-01
+T00198,IT & Software,Mid,2025-03-01
+T00199,Public Sector / NGO,Mid,2018-12-01
+T00200,Pharma & Healthcare,Mid,2024-01-01
+T00201,Public Sector / NGO,SME,2018-03-01
+T00202,IT & Software,SME,2023-06-01
+T00203,IT & Software,SME,2019-07-01
+T00204,BPO / Shared Services  ,SME,2024-10-01
+T00205,IT & Software,SME,2018-07-01
+T00206,IT & Software,SME,2018-09-01
+T00207,BPO / Shared Services,SME,2021-03-01
+T00208,IT & Software,SME,2019-12-01
+T00209,Professional Services,SME,2023-02-01
+T00210,BPO / Shared Services  ,SME,2021-03-01
+T00211,IT & Software,Mid,2019-12-01
+T00212,BPO / Shared Services,SME,2018-12-01
+T00213,Pharma & Healthcare,SME,2019-11-01
+T00214,Public Sector / NGO  ,SME,2020-12-01
+T00215,Finance & Insurance,Mid,2020-01-01
+T00216,Professional Services,Mid,2023-02-01
+T00217,BPO / Shared Services,SME,2021-02-01
+T00218,Pharma & Healthcare,SME,2017-03-01
+T00219,Pharma & Healthcare,SME,2021-04-01
+T00220,Professional Services,SME,2025-01-01
+T00221,IT & Software,SME,2021-08-01
+T00222,BPO / Shared Services,SME,2019-09-01
+T00223,IT & Software,SME,2025-01-01
+T00224,Pharma & Healthcare,SME,2020-09-01
+T00225,Engineering,Mid,2020-02-01
+T00226,Public Sector / NGO,SME,2020-12-01
+T00227,Finance & Insurance,SME,2016-03-01
+T00228,Pharma & Healthcare,SME,2022-05-01
+T00229,IT & Software,Mid,2018-05-01
+T00230,Pharma & Healthcare,Mid,2021-10-01
+T00231,Finance & Insurance,Mid,2025-11-01
+T00232,IT & Software,Mid,2019-11-01
+T00233,IT & Software,Mid,2020-04-01
+T00234,BPO / Shared Services,Mid,2018-05-01
+T00235,BPO / Shared Services,Mid,2017-02-01
+T00236,Engineering  ,SME,2021-10-01
+T00237,Pharma & Healthcare,Mid,2018-01-01
+T00238,Professional Services,Large,2020-07-01
+T00239,Finance & Insurance,Mid,2016-07-01
+T00240,Finance & Insurance,SME,2016-05-01
+T00241,Engineering,SME,2016-12-01
+T00242,Education,Mid,2017-06-01
+T00243,Public Sector / NGO,Mid,2018-11-01
+T00244,Media & Marketing,SME,2019-01-01
+T00245,IT & Software,SME,2021-04-01
+T00246,Media & Marketing,SME,2019-05-01
+T00247,Finance & Insurance,SME,2020-06-01
+T00248,IT & Software,SME,2025-11-01
+T00249,Professional Services,Mid,2018-10-01
+T00250,Professional Services,SME,2020-09-01
+T00251,Professional Services,SME,2021-10-01
+T00252,Media & Marketing,SME,2024-11-01
+T00253,Media & Marketing,Mid,2022-02-01
+T00254,BPO / Shared Services,Mid,2025-04-01
+T00255,Engineering,Large,2021-06-01
+T00256,Professional Services,SME,2020-08-01
+T00257,BPO / Shared Services,Mid,2021-05-01
+T00258,Public Sector / NGO,SME,2019-02-01
+T00259,Professional Services  ,Mid,2019-11-01
+T00260,IT & Software,Mid,2025-12-01
+T00261,BPO / Shared Services,SME,2018-12-01
+T00262,BPO / Shared Services,SME,2025-02-01
+T00263,IT & Software,SME,2016-02-01
+T00264,IT & Software,SME,2021-03-01
+T00265,Pharma & Healthcare,SME,2020-04-01
+T00266,IT & Software  ,Mid,2020-11-01
+T00267,IT & Software,SME,2018-04-01
+T00268,IT & Software,Mid,2021-11-01
+T00269,Finance & Insurance,SME,2017-06-01
+T00270,Media & Marketing,Mid,2021-03-01
+T00271,BPO / Shared Services,Mid,2024-05-01
+T00272,Education,SME,2019-12-01
+T00273,Media & Marketing,Mid,2020-05-01
+T00274,Finance & Insurance,Mid,2020-11-01
+T00275,Professional Services,Mid,2024-03-01
+T00276,Professional Services  ,SME,2020-08-01
+T00277,Public Sector / NGO,Mid,2021-02-01
+T00278,Education,SME,2019-03-01
+T00279,Professional Services,Mid,2021-06-01
+T00280,Professional Services,SME,2020-03-01
+T00281,Engineering,SME,2020-12-01
+T00282,Media & Marketing,SME,2018-10-01
+T00283,Finance & Insurance,SME,2021-11-01
+T00284,Professional Services,Mid,2018-07-01
+T00285,Education,Mid,2020-03-01
+T00286,Public Sector / NGO,SME,2018-04-01
+T00287,Education,Mid,2019-05-01
+T00288,Professional Services,Mid,2024-07-01
+T00289,Engineering  ,SME,2016-07-01
+T00290,IT & Software,Mid,2020-10-01
+T00291,Professional Services,Mid,2023-12-01
+T00292,Professional Services  ,Mid,2019-08-01
+T00293,Professional Services,SME,2018-08-01
+T00294,IT & Software,SME,2024-09-01
+T00295,IT & Software,Mid,2020-11-01
+T00296,Media & Marketing,SME,2018-07-01
+T00297,Finance & Insurance  ,SME,2021-07-01
+T00298,IT & Software,SME,2018-09-01
+T00299,Finance & Insurance,SME,2018-10-01
+T00300,BPO / Shared Services,SME,2025-02-01
+T00301,Pharma & Healthcare,SME,2020-02-01
+T00302,Engineering,Mid,2019-03-01
+T00303,Public Sector / NGO,Mid,2020-07-01
+T00304,Finance & Insurance,SME,2019-08-01
+T00305,IT & Software,SME,2024-06-01
+T00306,Finance & Insurance,Large,2019-08-01
+T00307,IT & Software,SME,2019-01-01
+T00308,IT & Software,SME,2022-04-01
+T00309,Engineering,SME,2019-01-01
+T00310,IT & Software,SME,2024-10-01
+T00311,IT & Software,Mid,2021-05-01
+T00312,BPO / Shared Services,SME,2018-11-01
+T00313,BPO / Shared Services,SME,2023-12-01
+T00314,IT & Software,SME,2021-06-01
+T00315,IT & Software,SME,2024-07-01
+T00316,Pharma & Healthcare,Mid,2020-01-01
+T00317,BPO / Shared Services,SME,2019-02-01
+T00318,IT & Software  ,Mid,2018-07-01
+T00319,Media & Marketing  ,Mid,2018-04-01
+T00320,Media & Marketing,SME,2021-03-01
+T00321,Finance & Insurance,SME,2020-02-01
+T00322,,SME,2023-04-01
+T00323,Pharma & Healthcare,Mid,2018-02-01
+T00324,Professional Services,Mid,2018-07-01
+T00325,Engineering,Mid,2025-11-01
+T00326,Media & Marketing,SME,2019-10-01
+T00327,IT & Software,SME,2025-02-01
+T00328,Professional Services,Mid,2020-07-01
+T00329,IT & Software,Mid,2018-07-01
+T00330,IT & Software,Mid,2021-08-01
+T00331,,SME,2017-09-01
+T00332,,Mid,2020-07-01
+T00333,BPO / Shared Services,SME,2017-05-01
+T00334,IT & Software,SME,2022-06-01
+T00335,Finance & Insurance,SME,2017-12-01
+T00336,Finance & Insurance,Mid,2018-06-01
+T00337,Finance & Insurance,SME,2019-07-01
+T00338,Media & Marketing,SME,2022-09-01
+T00339,Engineering,SME,2019-04-01
+T00340,Education,SME,2022-05-01
+T00341,Finance & Insurance,SME,2019-07-01
+T00342,Professional Services,SME,2025-08-01
+T00343,IT & Software,SME,2018-02-01
+T00344,Pharma & Healthcare,SME,2019-11-01
+T00345,IT & Software,SME,2022-12-01
+T00346,Media & Marketing,SME,2021-02-01
+T00347,Professional Services,Mid,2021-09-01
+T00348,Pharma & Healthcare,SME,2020-05-01
+T00349,IT & Software,SME,2023-12-01
+T00350,BPO / Shared Services,SME,2016-10-01
+T00351,Pharma & Healthcare,SME,2022-04-01
+T00351,Pharma & Healthcare,SME,2022-04-01
+T00352,Finance & Insurance,SME,2021-02-01
+T00353,BPO / Shared Services,SME,2021-09-01
+T00354,IT & Software,Mid,2018-08-01
+T00355,Professional Services,SME,2020-10-01
+T00356,IT & Software,Mid,2019-11-01
+T00357,IT & Software,SME,2016-09-01
+T00358,IT & Software,SME,2024-12-01
+T00359,Pharma & Healthcare,Mid,2020-09-01
+T00360,BPO / Shared Services,SME,2019-07-01
+T00361,Engineering  ,SME,2018-10-01
+T00362,Professional Services,SME,2025-01-01
+T00363,BPO / Shared Services,SME,2021-05-01
+T00364,BPO / Shared Services,Mid,2019-06-01
+T00365,Media & Marketing,Mid,2025-07-01
+T00366,,Mid,2018-09-01
+T00367,Pharma & Healthcare,Mid,2019-05-01
+T00368,IT & Software,Mid,2019-01-01
+T00369,Media & Marketing,Mid,2018-11-01
+T00370,Professional Services  ,Mid,2025-02-01
+T00371,Public Sector / NGO,SME,2020-03-01
+T00372,Engineering,SME,2018-05-01
+T00373,Engineering,SME,2023-02-01
+T00374,BPO / Shared Services,SME,2018-10-01
+T00375,IT & Software,SME,2021-08-01
+T00376,IT & Software,SME,2024-11-01
+T00377,Engineering,SME,2016-08-01
+T00378,Media & Marketing,Mid,2017-05-01
+T00379,Public Sector / NGO,Mid,2022-06-01
+T00380,Professional Services,Mid,2018-07-01
+T00381,IT & Software,Mid,2022-02-01
+T00382,Finance & Insurance,Mid,2025-04-01
+T00383,Public Sector / NGO  ,Mid,2019-09-01
+T00384,BPO / Shared Services,SME,2019-04-01
+T00385,Public Sector / NGO,SME,2019-11-01
+T00386,BPO / Shared Services,Mid,2020-09-01
+T00387,Professional Services,SME,2018-02-01
+T00388,BPO / Shared Services,SME,2021-02-01
+T00389,BPO / Shared Services,Mid,2019-05-01
+T00390,BPO / Shared Services,Mid,2022-07-01
+T00391,Education,SME,2019-09-01
+T00392,BPO / Shared Services,SME,2023-02-01
+T00393,IT & Software,Mid,2021-02-01
+T00394,BPO / Shared Services,Mid,2016-04-01
+T00395,BPO / Shared Services,SME,2018-02-01
+T00396,BPO / Shared Services,Mid,2023-06-01
+T00397,Professional Services,SME,2021-08-01
+T00398,Finance & Insurance,Mid,2018-11-01
+T00399,Finance & Insurance,SME,2020-09-01
+T00400,Engineering,SME,2020-01-01
+T00401,IT & Software,SME,2017-08-01
+T00402,BPO / Shared Services,SME,2022-10-01
+T00403,BPO / Shared Services,Mid,2018-10-01
+T00404,BPO / Shared Services,Mid,2022-02-01
+T00405,BPO / Shared Services,Mid,2018-04-01
+T00406,Pharma & Healthcare,Mid,2019-10-01
+T00407,BPO / Shared Services,SME,2018-09-01
+T00408,Pharma & Healthcare,Mid,2019-11-01
+T00409,Engineering,Mid,2022-12-01
+T00410,Pharma & Healthcare,SME,2017-12-01
+T00411,Professional Services,SME,2020-02-01
+T00412,Professional Services,SME,2024-08-01
+T00413,Finance & Insurance,SME,2018-03-01
+T00414,BPO / Shared Services,SME,2020-05-01
+T00415,BPO / Shared Services,SME,2016-11-01
+T00416,IT & Software,Mid,2020-09-01
+T00417,Pharma & Healthcare,SME,2021-04-01
+T00418,IT & Software,Mid,2018-10-01
+T00419,IT & Software,SME,2021-11-01
+T00420,,SME,2018-09-01
+T00421,Finance & Insurance,SME,2024-10-01
+T00422,Public Sector / NGO,SME,2018-09-01
+T00423,Professional Services,SME,2022-11-01
+T00424,,Large,2020-06-01
+T00425,IT & Software,Large,2023-10-01
+T00426,Media & Marketing,SME,2020-07-01
+T00427,Engineering,SME,2018-06-01
+T00428,IT & Software,SME,2023-10-01
+T00429,Public Sector / NGO,Large,2017-09-01
+T00430,Engineering,SME,2021-03-01
+T00431,BPO / Shared Services,Mid,2020-12-01
+T00432,BPO / Shared Services,Mid,2019-10-01
+T00433,BPO / Shared Services,Mid,2020-05-01
+T00434,Professional Services,Mid,2019-10-01
+T00435,IT & Software,SME,2017-07-01
+T00436,IT & Software,SME,2020-01-01
+T00437,IT & Software,Mid,2019-06-01
+T00438,BPO / Shared Services,Mid,2019-04-01
+T00439,Pharma & Healthcare,SME,2018-12-01
+T00440,IT & Software,Large,2020-09-01
+T00441,Professional Services,Large,2022-08-01
+T00442,Professional Services,SME,2018-07-01
+T00443,IT & Software,SME,2019-02-01
+T00444,IT & Software,SME,2024-07-01
+T00445,BPO / Shared Services,Large,2019-03-01
+T00446,BPO / Shared Services,SME,2018-05-01
+T00447,Pharma & Healthcare,SME,2021-09-01
+T00448,,SME,2024-12-01
+T00449,Professional Services,SME,2021-03-01
+T00450,IT & Software  ,SME,2024-10-01
+T00451,Professional Services,SME,2021-08-01
+T00452,IT & Software,SME,2019-01-01
+T00453,Pharma & Healthcare,SME,2018-09-01
+T00454,IT & Software,SME,2020-07-01
+T00455,IT & Software,Mid,2017-02-01
+T00456,Professional Services  ,SME,2018-02-01
+T00457,Professional Services,Mid,2019-09-01
+T00458,IT & Software,Mid,2022-10-01
+T00459,Engineering,Mid,2018-04-01
+T00460,IT & Software,SME,2020-05-01
+T00461,BPO / Shared Services,Mid,2019-08-01
+T00462,BPO / Shared Services,SME,2020-05-01
+T00463,BPO / Shared Services,SME,2023-09-01
+T00464,IT & Software,SME,2016-06-01
+T00465,Engineering,Mid,2021-03-01
+T00466,IT & Software,Mid,2018-12-01
+T00467,Finance & Insurance,SME,2019-04-01
+T00468,BPO / Shared Services  ,SME,2016-12-01
+T00469,Engineering,SME,2025-01-01
+T00470,Finance & Insurance,Mid,2021-04-01
+T00471,IT & Software,Mid,2024-05-01
+T00472,Finance & Insurance,SME,2019-08-01
+T00473,BPO / Shared Services,Mid,2019-06-01
+T00474,Pharma & Healthcare,SME,2020-09-01
+T00475,IT & Software,SME,2023-08-01
+T00476,Media & Marketing,SME,2018-07-01
+T00477,BPO / Shared Services,SME,2022-04-01
+T00478,Professional Services,Mid,2017-04-01
+T00479,Media & Marketing,SME,2020-06-01
+T00480,Engineering,SME,2023-08-01
+T00481,,Mid,2019-12-01
+T00482,Engineering,SME,2020-01-01
+T00483,IT & Software,Mid,2020-12-01
+T00484,Public Sector / NGO,SME,2019-02-01
+T00485,Professional Services,Mid,2019-05-01
+T00486,Pharma & Healthcare,SME,2020-04-01
+T00487,Media & Marketing,SME,2020-05-01
+T00488,IT & Software,Mid,2018-04-01
+T00489,BPO / Shared Services,Mid,2024-10-01
+T00490,Public Sector / NGO,SME,2020-01-01
+T00491,Public Sector / NGO,SME,2018-07-01
+T00492,Professional Services,SME,2020-06-01
+T00493,IT & Software,SME,2024-04-01
+T00494,IT & Software,SME,2019-06-01
+T00495,Finance & Insurance,SME,2016-09-01
+T00496,Pharma & Healthcare,SME,2022-10-01
+T00497,Public Sector / NGO,SME,2018-08-01
+T00498,Professional Services,SME,2022-05-01
+T00499,Media & Marketing,SME,2018-03-01
+T00500,,SME,2021-09-01
+T00501,,Mid,2018-09-01
+T00502,BPO / Shared Services,SME,2018-03-01
+T00503,Professional Services,Mid,2018-05-01
+T00504,Engineering,Mid,2018-01-01
+T00505,IT & Software,Mid,2018-08-01
+T00506,Professional Services,Mid,2023-09-01
+T00507,Media & Marketing,SME,2019-11-01
+T00508,IT & Software,SME,2025-04-01
+T00509,BPO / Shared Services,SME,2020-07-01
+T00510,IT & Software,SME,2020-09-01
+T00511,IT & Software,SME,2019-02-01
+T00512,IT & Software,SME,2022-04-01
+T00513,Education,SME,2018-06-01
+T00514,Public Sector / NGO,Mid,2019-03-01
+T00515,Engineering,SME,2016-06-01
+T00516,IT & Software,SME,2024-04-01
+T00516,IT & Software,SME,2024-04-01
+T00517,Professional Services,SME,2016-07-01
+T00518,BPO / Shared Services  ,Mid,2017-10-01
+T00519,Pharma & Healthcare,SME,2019-02-01
+T00520,IT & Software,SME,2019-06-01
+T00521,BPO / Shared Services,SME,2024-09-01
+T00522,Professional Services,Mid,2016-07-01
+T00523,IT & Software,Mid,2024-08-01
+T00524,BPO / Shared Services,SME,2020-04-01
+T00525,Engineering,SME,2023-09-01
+T00526,Pharma & Healthcare,Mid,2019-12-01
+T00527,Professional Services,Mid,2023-02-01
+T00528,BPO / Shared Services,SME,2018-03-01
+T00529,BPO / Shared Services,Mid,2020-09-01
+T00530,,Mid,2019-12-01
+T00531,IT & Software,SME,2020-05-01
+T00532,Pharma & Healthcare,Mid,2018-07-01
+T00533,IT & Software,Mid,2023-10-01
+T00534,Professional Services,Mid,2018-07-01
+T00535,Engineering,SME,2020-10-01
+T00536,IT & Software,SME,2019-12-01
+T00537,IT & Software,SME,2023-04-01
+T00538,IT & Software,SME,2016-07-01
+T00539,BPO / Shared Services,SME,2016-06-01
+T00540,Education,SME,2016-07-01
+T00541,Professional Services,SME,2024-10-01
+T00542,BPO / Shared Services,SME,2016-04-01
+T00543,IT & Software,Mid,2016-08-01
+T00544,,Mid,2021-09-01
+T00545,Professional Services,Mid,2024-10-01
+T00546,Finance & Insurance,SME,2021-09-01
+T00547,IT & Software,SME,2017-06-01
+T00548,Public Sector / NGO,SME,2022-09-01
+T00549,BPO / Shared Services,SME,2020-05-01
+T00550,Media & Marketing,Mid,2018-11-01
+T00551,Finance & Insurance,Mid,2023-12-01
+T00552,Pharma & Healthcare,Mid,2020-02-01
+T00553,Media & Marketing,SME,2018-04-01
+T00553,Media & Marketing,SME,2018-04-01
+T00554,Pharma & Healthcare,SME,2024-03-01
+T00555,IT & Software,Mid,2018-02-01
+T00556,Finance & Insurance,Mid,2020-06-01
+T00557,BPO / Shared Services,Mid,2023-09-01
+T00558,IT & Software,SME,2022-07-01
+T00559,IT & Software,Mid,2018-08-01
+T00560,Engineering,SME,2020-02-01
+T00561,Professional Services  ,Mid,2018-10-01
+T00562,IT & Software,Mid,2024-12-01
+T00563,Finance & Insurance,Mid,2020-11-01
+T00564,Finance & Insurance,SME,2019-04-01
+T00565,IT & Software,SME,2024-06-01
+T00566,Finance & Insurance,Mid,2020-09-01
+T00567,BPO / Shared Services,Mid,2019-07-01
+T00568,Engineering,Mid,2020-08-01
+T00569,Professional Services,Mid,2020-11-01
+T00570,IT & Software  ,Mid,2025-10-01
+T00571,BPO / Shared Services,SME,2019-09-01
+T00572,Finance & Insurance,SME,2022-10-01
+T00573,Finance & Insurance,SME,2019-11-01
+T00574,IT & Software  ,SME,2023-05-01
+T00575,IT & Software,Mid,2020-07-01
+T00576,Engineering,SME,2020-08-01
+T00577,Pharma & Healthcare,SME,2020-05-01
+T00578,Engineering,SME,2020-11-01
+T00579,Engineering,SME,2024-01-01
+T00580,Engineering,Mid,2020-02-01
+T00581,IT & Software,SME,2018-12-01
+T00582,Professional Services,SME,2022-01-01
+T00583,IT & Software,SME,2018-03-01
+T00584,Pharma & Healthcare,Mid,2021-03-01
+T00585,Public Sector / NGO,SME,2018-12-01
+T00586,BPO / Shared Services,SME,2018-12-01
+T00587,Pharma & Healthcare,Mid,2019-01-01
+T00588,Professional Services,Mid,2016-10-01
+T00589,Finance & Insurance,Mid,2019-09-01
+T00590,Pharma & Healthcare  ,SME,2019-09-01
+T00591,Finance & Insurance,SME,2018-06-01
+T00592,Public Sector / NGO,Mid,2020-10-01
+T00593,BPO / Shared Services,SME,2019-09-01
+T00594,Professional Services,Large,2016-07-01
+T00595,IT & Software,Mid,2019-01-01
+T00596,Media & Marketing,Mid,2022-11-01
+T00597,IT & Software,SME,2022-04-01
+T00598,IT & Software,Mid,2018-08-01
+T00599,Public Sector / NGO,Mid,2021-04-01
+T00600,IT & Software,Mid,2024-05-01
+T00601,Media & Marketing,Mid,2019-11-01
+T00602,Engineering,Mid,2025-02-01
+T00603,BPO / Shared Services,SME,2020-05-01
+T00604,BPO / Shared Services,SME,2024-05-01
+T00605,Engineering,Mid,2021-05-01
+T00606,BPO / Shared Services,SME,2020-08-01
+T00607,BPO / Shared Services,SME,2023-11-01
+T00608,IT & Software,Mid,2018-04-01
+T00609,BPO / Shared Services,Mid,2021-05-01
+T00610,BPO / Shared Services  ,Mid,2025-11-01
+T00611,BPO / Shared Services,SME,2021-11-01
+T00612,Professional Services,Mid,2021-05-01
+T00613,IT & Software,Mid,2019-10-01
+T00614,IT & Software,Mid,2023-04-01
+T00615,Media & Marketing,Mid,2018-05-01
+T00616,IT & Software,Mid,2021-08-01
+T00617,,Mid,2024-09-01
+T00618,Pharma & Healthcare,Large,2018-08-01
+T00619,IT & Software,Large,2021-12-01
+T00620,IT & Software,Large,2025-03-01
+T00621,Media & Marketing,Mid,2021-09-01
+T00622,IT & Software,Mid,2020-04-01
+T00623,Engineering,Mid,2017-02-01
+T00624,IT & Software,SME,2020-09-01
+T00625,IT & Software,Large,2019-02-01
+T00626,Professional Services,Large,2024-08-01
+T00627,IT & Software,SME,2022-02-01
+T00628,IT & Software,SME,2021-10-01
+T00629,Finance & Insurance,SME,2025-06-01
+T00630,Finance & Insurance,SME,2025-05-01
+T00631,BPO / Shared Services,SME,2019-01-01
+T00632,Media & Marketing,SME,2022-03-01
+T00633,IT & Software,SME,2025-04-01
+T00634,BPO / Shared Services,SME,2018-07-01
+T00635,BPO / Shared Services,Mid,2020-07-01
+T00636,IT & Software,Mid,2023-10-01
+T00637,IT & Software,Mid,2019-11-01
+T00638,Professional Services,Mid,2019-09-01
+T00639,Finance & Insurance,Mid,2022-11-01
+T00640,Professional Services,Mid,2021-12-01
+T00641,Media & Marketing,SME,2018-03-01
+T00642,Professional Services,SME,2020-10-01
+T00643,,SME,2024-02-01
+T00644,Professional Services,SME,2019-08-01
+T00645,Pharma & Healthcare,SME,2025-12-01
+T00646,Media & Marketing,SME,2021-02-01
+T00647,IT & Software,SME,2020-01-01
+T00648,BPO / Shared Services,Mid,2020-05-01
+T00649,BPO / Shared Services,SME,2019-07-01
+T00650,Professional Services,Large,2020-08-01
+T00651,BPO / Shared Services,SME,2018-11-01
+T00652,Pharma & Healthcare,Mid,2018-06-01
+T00653,Professional Services,Large,2017-10-01
+T00654,Media & Marketing,Large,2024-11-01
+T00655,Finance & Insurance,Mid,2022-01-01
+T00656,Finance & Insurance,SME,2019-12-01
+T00657,Finance & Insurance,SME,2024-02-01
+T00658,Education,SME,2019-08-01
+T00659,Education,SME,2024-08-01
+T00660,Finance & Insurance  ,Mid,2016-08-01
+T00661,Public Sector / NGO,Mid,2022-03-01
+T00662,IT & Software,Mid,2020-07-01
+T00663,BPO / Shared Services,SME,2019-09-01
+T00664,IT & Software,Mid,2019-06-01
+T00665,IT & Software,Mid,2018-12-01
+T00666,Media & Marketing,SME,2017-02-01
+T00667,Engineering,SME,2022-07-01
+T00668,Finance & Insurance,SME,2020-05-01
+T00669,Pharma & Healthcare,SME,2025-09-01
+T00670,Professional Services,SME,2018-02-01
+T00671,Education,SME,2023-04-01
+T00672,Pharma & Healthcare,SME,2016-10-01
+T00673,IT & Software,SME,2021-12-01
+T00674,Finance & Insurance,SME,2019-08-01
+T00675,BPO / Shared Services,SME,2019-11-01
+T00676,Pharma & Healthcare  ,Large,2019-01-01
+T00677,IT & Software  ,SME,2020-08-01
+T00678,BPO / Shared Services,SME,2018-03-01
+T00679,Finance & Insurance,SME,2024-02-01
+T00680,Engineering,SME,2018-04-01
+T00681,BPO / Shared Services,SME,2025-10-01
+T00682,Finance & Insurance,Mid,2020-06-01
+T00683,Media & Marketing,Mid,2025-07-01
+T00684,Pharma & Healthcare,SME,2018-12-01
+T00685,BPO / Shared Services,SME,2018-04-01
+T00686,BPO / Shared Services  ,Mid,2020-12-01
+T00687,Engineering,Mid,2020-01-01
+T00688,Professional Services,SME,2021-03-01
+T00689,IT & Software,Mid,2019-02-01
+T00690,Engineering,SME,2019-10-01
+T00691,Professional Services,SME,2023-01-01
+T00692,Professional Services,Mid,2018-09-01
+T00693,Pharma & Healthcare,Mid,2025-05-01
+T00694,Finance & Insurance,SME,2020-11-01
+T00695,Professional Services,SME,2020-02-01
+T00696,,SME,2023-03-01
+T00697,Professional Services,Mid,2022-03-01
+T00698,Professional Services,Mid,2018-07-01
+T00699,BPO / Shared Services,Mid,2023-07-01
+T00700,Professional Services,SME,2016-02-01
+T00701,Professional Services,SME,2022-03-01
+T00702,BPO / Shared Services,SME,2025-06-01
+T00703,BPO / Shared Services,Large,2019-08-01
+T00704,IT & Software,Large,2024-09-01
+T00705,BPO / Shared Services,Mid,2021-06-01
+T00706,Media & Marketing,SME,2020-09-01
+T00707,Professional Services,SME,2019-10-01
+T00708,IT & Software,Mid,2018-12-01
+T00709,Pharma & Healthcare,Mid,2020-03-01
+T00710,Professional Services,SME,2018-01-01
+T00711,IT & Software,SME,2023-02-01
+T00712,Professional Services,Mid,2020-02-01
+T00713,BPO / Shared Services,Mid,2016-03-01
+T00714,IT & Software,Mid,2022-06-01
+T00715,Pharma & Healthcare,SME,2020-11-01
+T00716,BPO / Shared Services,SME,2023-01-01
+T00717,BPO / Shared Services,SME,2016-07-01
+T00718,Media & Marketing,SME,2022-02-01
+T00719,Public Sector / NGO,SME,2025-07-01
+T00720,BPO / Shared Services,SME,2018-02-01
+T00721,Finance & Insurance,SME,2023-07-01
+T00722,Public Sector / NGO,Mid,2018-12-01
+T00723,IT & Software,Mid,2018-07-01
+T00724,Public Sector / NGO,SME,2021-02-01
+T00725,Education,SME,2018-02-01
+T00726,IT & Software,SME,2021-06-01
+T00727,BPO / Shared Services,SME,2019-07-01
+T00728,Engineering,SME,2022-08-01
+T00729,BPO / Shared Services,SME,2019-06-01
+T00730,Pharma & Healthcare,SME,2022-07-01
+T00731,Public Sector / NGO,SME,2018-09-01
+T00732,Public Sector / NGO,SME,2021-11-01
+T00733,BPO / Shared Services,Mid,2018-07-01
+T00734,Professional Services,Mid,2023-10-01
+T00735,IT & Software,SME,2020-02-01
+T00736,Professional Services,SME,2021-02-01
+T00737,IT & Software,SME,2019-01-01
+T00738,,SME,2019-06-01
+T00739,BPO / Shared Services,SME,2023-05-01
+T00740,Finance & Insurance,Mid,2017-06-01
+T00741,Media & Marketing,Mid,2025-07-01
+T00742,IT & Software,SME,2019-03-01
+T00743,Pharma & Healthcare,SME,2024-10-01
+T00744,Finance & Insurance,SME,2018-11-01
+T00745,Professional Services,Mid,2018-06-01
+T00746,Professional Services,Mid,2021-07-01
+T00747,Pharma & Healthcare,SME,2020-04-01
+T00748,Media & Marketing,SME,2023-10-01
+T00749,IT & Software,SME,2021-05-01
+T00750,Finance & Insurance,SME,2024-06-01
+T00751,Professional Services  ,SME,2020-04-01
+T00752,IT & Software  ,SME,2021-11-01
+T00753,IT & Software,Mid,2020-06-01
+T00754,Finance & Insurance,SME,2018-09-01
+T00755,IT & Software,SME,2024-07-01
+T00756,BPO / Shared Services,Large,2021-09-01
+T00757,BPO / Shared Services,Large,2024-10-01
+T00758,,SME,2020-06-01
+T00759,Finance & Insurance,Mid,2019-01-01
+T00760,IT & Software,SME,2020-03-01
+T00761,Professional Services,SME,2019-12-01
+T00762,Finance & Insurance,Mid,2017-10-01
+T00763,Professional Services,SME,2019-12-01
+T00764,Pharma & Healthcare  ,Large,2019-07-01
+T00765,Pharma & Healthcare,Large,2023-03-01
+T00766,IT & Software,SME,2024-03-01
+T00767,Media & Marketing,SME,2019-05-01
+T00768,IT & Software,Large,2017-12-01
+T00769,IT & Software,Large,2023-06-01
+T00770,Education,SME,2019-02-01
+T00771,BPO / Shared Services,SME,2023-04-01
+T00772,Education,Mid,2018-06-01
+T00773,BPO / Shared Services,SME,2018-02-01
+T00774,Media & Marketing,SME,2022-01-01
+T00775,Professional Services,Mid,2020-08-01
+T00776,Finance & Insurance,Mid,2019-01-01
+T00777,BPO / Shared Services,Mid,2017-09-01
+T00778,IT & Software,SME,2018-07-01
+T00779,IT & Software,SME,2022-03-01
+T00780,IT & Software,SME,2018-11-01
+T00781,Professional Services,SME,2025-09-01
+T00782,IT & Software,Mid,2020-10-01
+T00783,Public Sector / NGO,SME,2020-06-01
+T00784,Engineering,SME,2018-04-01
+T00785,IT & Software,SME,2021-05-01
+T00786,IT & Software,SME,2019-11-01
+T00787,Media & Marketing,SME,2025-01-01
+T00788,IT & Software,Mid,2018-05-01
+T00789,Education,Mid,2019-04-01
+T00790,IT & Software,Mid,2022-06-01
+T00791,Public Sector / NGO,SME,2021-03-01
+T00792,Engineering,SME,2021-12-01
+T00793,Professional Services,SME,2018-06-01
+T00794,IT & Software,SME,2021-08-01
+T00795,Pharma & Healthcare,SME,2025-10-01
+T00796,IT & Software,SME,2020-02-01
+T00797,Finance & Insurance,SME,2024-04-01
+T00798,Finance & Insurance,SME,2017-04-01
+T00799,Finance & Insurance,SME,2025-06-01
+T00800,IT & Software,Mid,2019-06-01
+T00801,,Mid,2023-04-01
+T00802,,Mid,2018-06-01
+T00803,IT & Software,Mid,2024-12-01
+T00804,BPO / Shared Services,SME,2018-02-01
+T00805,IT & Software,SME,2018-07-01
+T00806,BPO / Shared Services,Mid,2019-12-01
+T00807,Professional Services,SME,2018-09-01
+T00808,BPO / Shared Services,Mid,2018-11-01
+T00809,Public Sector / NGO,Mid,2024-02-01
+T00810,IT & Software,SME,2017-08-01
+T00811,Professional Services,SME,2022-09-01
+T00812,BPO / Shared Services,SME,2017-08-01
+T00813,Professional Services,SME,2025-02-01
+T00814,Engineering,Mid,2019-03-01
+T00815,IT & Software,Mid,2019-08-01
+T00816,Education,SME,2019-08-01
+T00817,,SME,2024-09-01
+T00818,BPO / Shared Services,Mid,2018-11-01
+T00819,IT & Software,SME,2020-04-01
+T00820,IT & Software,SME,2023-09-01
+T00821,Professional Services,SME,2019-07-01
+T00822,Media & Marketing,SME,2016-05-01
+T00823,BPO / Shared Services,SME,2020-09-01
+T00824,Engineering  ,Mid,2019-10-01
+T00825,Education,Mid,2023-08-01
+T00826,Finance & Insurance,SME,2019-10-01
+T00827,Media & Marketing,SME,2025-03-01
+T00828,,Large,2021-09-01
+T00829,Public Sector / NGO,Mid,2019-02-01
+T00830,Professional Services,Mid,2018-04-01
+T00831,Engineering,Mid,2022-03-01
+T00832,Finance & Insurance,Mid,2025-09-01
+T00833,Engineering,Mid,2019-09-01
+T00834,IT & Software,Mid,2025-11-01
+T00835,IT & Software,SME,2019-10-01
+T00836,Media & Marketing,SME,2016-08-01
+T00837,Engineering,SME,2019-09-01
+T00838,IT & Software,SME,2024-10-01
+T00839,Finance & Insurance,Mid,2016-04-01
+T00840,Professional Services,Mid,2021-11-01
+T00841,Media & Marketing,SME,2020-01-01
+T00842,Education,SME,2020-09-01
+T00843,Professional Services  ,Mid,2019-07-01
+T00844,Finance & Insurance,Mid,2019-09-01
+T00845,IT & Software  ,Mid,2020-05-01
+T00846,Engineering,Mid,2021-07-01
+T00847,IT & Software,Mid,2024-08-01
+T00848,Public Sector / NGO,SME,2018-08-01
+T00849,,SME,2023-09-01
+T00850,BPO / Shared Services,SME,2022-02-01
+T00851,IT & Software,SME,2019-11-01
+T00852,IT & Software,SME,2023-09-01
+T00853,BPO / Shared Services,Mid,2018-08-01
+T00854,Public Sector / NGO,Mid,2021-09-01
+T00855,IT & Software,SME,2018-11-01
+T00856,BPO / Shared Services,Mid,2022-11-01
+T00857,Pharma & Healthcare,SME,2020-10-01
+T00858,Finance & Insurance,SME,2019-10-01
+T00859,IT & Software,SME,2023-09-01
+T00860,Finance & Insurance,SME,2020-05-01
+T00861,Professional Services,SME,2025-09-01
+T00862,Pharma & Healthcare,SME,2021-02-01
+T00863,BPO / Shared Services,Mid,2019-02-01
+T00864,IT & Software,SME,2018-06-01
+T00865,Professional Services,SME,2025-02-01
+T00866,Professional Services,Mid,2020-12-01
+T00867,BPO / Shared Services,SME,2019-08-01
+T00868,Education,SME,2025-09-01
+T00869,BPO / Shared Services,SME,2016-08-01
+T00870,IT & Software,SME,2025-08-01
+T00871,IT & Software,Mid,2019-12-01
+T00872,Media & Marketing,Mid,2020-03-01
+T00873,IT & Software,Mid,2020-02-01
+T00874,BPO / Shared Services,Mid,2022-05-01
+T00875,Public Sector / NGO,Mid,2019-08-01
+T00876,Pharma & Healthcare,SME,2018-03-01
+T00877,IT & Software,Mid,2017-09-01
+T00878,Professional Services,Mid,2025-11-01
+T00879,BPO / Shared Services,Large,2019-04-01
+T00880,Professional Services,Mid,2020-12-01
+T00881,Engineering  ,Large,2020-09-01
+T00882,IT & Software,SME,2020-11-01
+T00883,Engineering,Mid,2018-05-01
+T00884,Professional Services,Mid,2022-08-01
+T00885,BPO / Shared Services,SME,2020-09-01
+T00886,Finance & Insurance,SME,2025-12-01
+T00887,IT & Software,Large,2020-01-01
+T00888,IT & Software,Mid,2020-05-01
+T00889,,Mid,2024-07-01
+T00890,IT & Software,Mid,2019-07-01
+T00891,Public Sector / NGO,Mid,2018-05-01
+T00892,Engineering,SME,2019-03-01
+T00893,Pharma & Healthcare,SME,2022-11-01
+T00894,BPO / Shared Services,SME,2020-11-01
+T00895,IT & Software,Mid,2016-05-01
+T00896,IT & Software,SME,2020-03-01
+T00897,IT & Software,SME,2019-09-01
+T00898,BPO / Shared Services,SME,2022-10-01
+T00899,Pharma & Healthcare,SME,2019-06-01
+T00900,,SME,2021-04-01
+T00901,Education,SME,2018-03-01
+T00902,BPO / Shared Services,SME,2024-10-01
+T00903,IT & Software,SME,2016-06-01
+T00904,Professional Services,SME,2020-09-01
+T00905,BPO / Shared Services,SME,2023-11-01
+T00906,IT & Software,SME,2021-07-01
+T00907,IT & Software,SME,2025-07-01
+T00908,IT & Software  ,Mid,2018-05-01
+T00909,IT & Software,Mid,2025-08-01
+T00910,Pharma & Healthcare,Mid,2020-07-01
+T00911,Finance & Insurance,SME,2021-09-01
+T00912,IT & Software,SME,2025-09-01
+T00913,Professional Services,Mid,2019-08-01
+T00914,BPO / Shared Services,Mid,2023-08-01
+T00915,Finance & Insurance,SME,2023-05-01
+T00916,BPO / Shared Services,Mid,2019-09-01
+T00917,Finance & Insurance,Mid,2022-12-01
+T00918,Finance & Insurance,SME,2019-01-01
+T00919,IT & Software,Mid,2019-02-01
+T00920,Media & Marketing,Mid,2024-03-01
+T00921,Media & Marketing,SME,2018-06-01
+T00922,BPO / Shared Services,SME,2018-03-01
+T00923,Media & Marketing,SME,2020-01-01
+T00924,Finance & Insurance,SME,2024-02-01
+T00925,IT & Software,Mid,2019-05-01
+T00926,BPO / Shared Services,Mid,2024-05-01
+T00927,Engineering,SME,2020-07-01
+T00928,IT & Software,SME,2019-08-01
+T00929,BPO / Shared Services,Mid,2019-12-01
+T00930,,Mid,2023-07-01
+T00931,IT & Software,SME,2020-02-01
+T00932,Engineering,Mid,2019-03-01
+T00933,Professional Services,Mid,2020-10-01
+T00934,Media & Marketing,Mid,2019-02-01
+T00935,Finance & Insurance,SME,2021-09-01
+T00936,Professional Services,Mid,2020-06-01
+T00937,Media & Marketing,SME,2018-11-01
+T00938,BPO / Shared Services  ,SME,2020-03-01
+T00939,,SME,2017-04-01
+T00940,Finance & Insurance,SME,2022-05-01
+T00941,IT & Software,SME,2019-08-01
+T00942,Media & Marketing,SME,2022-09-01
+T00943,IT & Software,SME,2025-10-01
+T00944,IT & Software,Mid,2018-09-01
+T00945,IT & Software,Mid,2021-10-01
+T00946,Finance & Insurance,Mid,2025-02-01
+T00947,Engineering,SME,2019-06-01
+T00948,IT & Software,SME,2022-07-01
+T00949,BPO / Shared Services,SME,2020-03-01
+T00950,Professional Services,Mid,2020-04-01
+T00951,IT & Software,Mid,2021-11-01
+T00952,Media & Marketing,Mid,2025-06-01
+T00953,IT & Software,SME,2020-05-01
+T00954,BPO / Shared Services,SME,2023-10-01
+T00955,IT & Software,SME,2019-10-01
+T00956,Engineering,SME,2020-09-01
+T00957,Media & Marketing,SME,2025-02-01
+T00958,Professional Services  ,Mid,2018-12-01
+T00959,IT & Software,Mid,2025-10-01
+T00960,Engineering,SME,2021-04-01
+T00961,Finance & Insurance,SME,2024-07-01
+T00962,IT & Software,Mid,2018-10-01
+T00963,Professional Services,SME,2018-02-01
+T00964,Professional Services  ,SME,2024-01-01
+T00965,IT & Software,Mid,2019-11-01
+T00966,Education,SME,2021-11-01
+T00967,IT & Software,Mid,2018-03-01
+T00968,Pharma & Healthcare,Mid,2024-04-01
+T00969,Finance & Insurance,Mid,2020-10-01
+T00970,Education,SME,2019-11-01
+T00971,Pharma & Healthcare,SME,2022-12-01
+T00972,BPO / Shared Services,Mid,2020-04-01
+T00973,IT & Software,SME,2020-02-01
+T00974,IT & Software,SME,2025-04-01
+T00975,IT & Software,Mid,2021-05-01
+T00976,BPO / Shared Services,Large,2017-08-01
+T00977,Finance & Insurance,Mid,2019-08-01
+T00978,Professional Services,Mid,2022-11-01
+T00979,Professional Services,Mid,2018-12-01
+T00980,IT & Software,Mid,2023-01-01
+T00981,Engineering,Mid,2019-09-01
+T00982,Finance & Insurance,Mid,2022-12-01
+T00983,Public Sector / NGO,SME,2018-11-01
+T00984,,SME,2022-01-01
+T00985,,SME,2025-06-01
+T00986,Public Sector / NGO,SME,2019-08-01
+T00987,BPO / Shared Services,SME,2020-12-01
+T00988,Professional Services,SME,2024-10-01
+T00989,BPO / Shared Services,SME,2018-06-01
+T00990,IT & Software,SME,2022-02-01
+T00991,Professional Services,Mid,2016-08-01
+T00992,Professional Services,Mid,2022-05-01
+T00993,IT & Software,Mid,2025-06-01
+T00994,Public Sector / NGO,Mid,2018-04-01
+T00995,Finance & Insurance,Mid,2023-11-01
+T00996,Engineering,Mid,2018-10-01
+T00997,Education,Mid,2023-06-01
+T00998,IT & Software,SME,2018-12-01
+T00999,IT & Software,SME,2023-07-01
+T01000,Engineering,Mid,2021-05-01
+T01001,Engineering,Mid,2025-03-01
+T01002,Professional Services,Mid,2019-10-01
+T01003,BPO / Shared Services,Mid,2023-11-01
+T01004,IT & Software,Mid,2025-07-01
+T01005,Engineering,SME,2017-04-01
+T01006,Professional Services,SME,2022-12-01
+T01007,BPO / Shared Services,SME,2023-09-01
+T01008,Professional Services,SME,2020-03-01
+T01009,BPO / Shared Services,SME,2024-03-01
+T01010,Professional Services,Mid,2020-10-01
+T01011,Professional Services,Mid,2020-02-01
+T01012,BPO / Shared Services,SME,2021-08-01
+T01013,Finance & Insurance,SME,2019-01-01
+T01014,Engineering,SME,2022-04-01
+T01015,BPO / Shared Services,SME,2021-12-01
+T01016,Pharma & Healthcare,Mid,2020-05-01
+T01017,Professional Services,Mid,2023-08-01
+T01018,BPO / Shared Services,SME,2019-05-01
+T01019,IT & Software,SME,2021-06-01
+T01020,Professional Services,SME,2025-07-01
+T01021,Finance & Insurance,Large,2020-04-01
+T01022,Professional Services,Large,2020-06-01
+T01023,Engineering,Large,2025-08-01
+T01024,BPO / Shared Services,SME,2019-02-01
+T01025,Pharma & Healthcare,SME,2022-09-01
+T01026,Professional Services,Mid,2016-07-01
+T01027,IT & Software,SME,2021-09-01
+T01028,Professional Services,Large,2018-07-01
+T01029,Finance & Insurance,Large,2024-03-01
+T01030,IT & Software,SME,2018-06-01
+T01031,Pharma & Healthcare,SME,2019-11-01
+T01031,Pharma & Healthcare,SME,2019-11-01
+T01032,Professional Services,SME,2022-12-01
+T01033,BPO / Shared Services,SME,2020-10-01
+T01034,Professional Services,SME,2025-04-01
+T01035,IT & Software,Mid,2019-04-01
+T01036,IT & Software,Mid,2023-10-01
+T01037,IT & Software,Large,2019-07-01
+T01038,IT & Software,Large,2024-06-01
+T01039,Finance & Insurance,Mid,2018-08-01
+T01040,IT & Software,Mid,2021-09-01
+T01041,Public Sector / NGO,Mid,2019-07-01
+T01042,Engineering,Mid,2022-11-01
+T01043,BPO / Shared Services,Mid,2020-07-01
+T01044,Media & Marketing,SME,2018-07-01
+T01045,Finance & Insurance,SME,2022-10-01
+T01046,Public Sector / NGO,Mid,2020-10-01
+T01047,IT & Software,SME,2019-04-01
+T01048,Finance & Insurance,SME,2022-11-01
+T01049,Engineering,Mid,2020-02-01
+T01050,Media & Marketing,Mid,2025-04-01
+T01051,Media & Marketing,SME,2019-05-01
+T01052,BPO / Shared Services,SME,2025-02-01
+T01053,Professional Services,Mid,2021-03-01
+T01054,Public Sector / NGO  ,Mid,2024-11-01
+T01055,IT & Software,SME,2020-09-01
+T01056,BPO / Shared Services,SME,2024-02-01
+T01057,IT & Software,SME,2020-06-01
+T01058,IT & Software,SME,2020-05-01
+T01059,BPO / Shared Services,SME,2023-09-01
+T01060,Professional Services,SME,2024-12-01
+T01061,IT & Software  ,Large,2017-12-01
+T01062,IT & Software,Large,2023-06-01
+T01063,Engineering,SME,2020-02-01
+T01064,Finance & Insurance,SME,2023-03-01
+T01065,BPO / Shared Services,Mid,2021-07-01
+T01066,Pharma & Healthcare,Mid,2025-01-01
+T01067,Professional Services,SME,2016-02-01
+T01068,Professional Services,SME,2020-06-01
+T01069,BPO / Shared Services,Mid,2018-12-01
+T01070,BPO / Shared Services,Mid,2022-02-01
+T01071,Engineering,Mid,2016-07-01
+T01072,Finance & Insurance,SME,2018-10-01
+T01073,,SME,2024-08-01
+T01074,IT & Software,SME,2021-02-01
+T01075,BPO / Shared Services,SME,2024-04-01
+T01076,Finance & Insurance,Mid,2019-10-01
+T01077,BPO / Shared Services,Mid,2024-12-01
+T01078,BPO / Shared Services,Mid,2018-11-01
+T01079,Engineering,Mid,2024-09-01
+T01080,Engineering,Mid,2020-09-01
+T01081,IT & Software,SME,2018-05-01
+T01082,IT & Software,SME,2020-12-01
+T01083,Pharma & Healthcare,SME,2024-03-01
+T01084,,Mid,2019-07-01
+T01085,Engineering,Mid,2022-08-01
+T01086,Professional Services,Mid,2021-09-01
+T01087,Finance & Insurance,Mid,2024-12-01
+T01088,IT & Software,SME,2019-12-01
+T01089,Finance & Insurance,SME,2023-01-01
+T01090,Media & Marketing,SME,2018-02-01
+T01091,Pharma & Healthcare,SME,2023-04-01
+T01092,IT & Software,Mid,2021-06-01
+T01093,Professional Services,Mid,2024-11-01
+T01094,Engineering,SME,2019-12-01
+T01095,Pharma & Healthcare,SME,2021-05-01
+T01096,BPO / Shared Services  ,SME,2024-06-01
+T01097,Professional Services,SME,2019-07-01
+T01098,Public Sector / NGO,SME,2019-08-01
+T01099,IT & Software,Mid,2017-08-01
+T01100,Finance & Insurance,Mid,2022-09-01
+T01101,Finance & Insurance,Large,2019-06-01
+T01102,Media & Marketing,Large,2023-02-01
+T01103,BPO / Shared Services,Mid,2016-12-01
+T01104,Pharma & Healthcare,Mid,2022-03-01
+T01105,Finance & Insurance,Mid,2025-07-01
+T01106,Pharma & Healthcare,Mid,2020-10-01
+T01107,Finance & Insurance,Mid,2024-06-01
+T01108,Finance & Insurance,Mid,2019-09-01
+T01109,Professional Services,Mid,2022-10-01
+T01110,Public Sector / NGO,SME,2019-07-01
+T01111,Engineering,SME,2023-01-01
+T01112,Pharma & Healthcare,Mid,2020-08-01
+T01113,Pharma & Healthcare,Mid,2024-03-01
+T01114,Professional Services,Mid,2021-04-01
+T01115,Pharma & Healthcare,Mid,2024-05-01
+T01116,Media & Marketing,SME,2021-03-01
+T01117,Media & Marketing,Mid,2018-07-01
+T01118,BPO / Shared Services,SME,2017-07-01
+T01119,Public Sector / NGO,SME,2022-10-01
+T01120,Professional Services,SME,2021-04-01
+T01121,IT & Software,SME,2024-12-01
+T01122,IT & Software,Mid,2017-04-01
+T01123,Finance & Insurance  ,Mid,2025-07-01
+T01124,Pharma & Healthcare,SME,2021-11-01
+T01125,IT & Software,SME,2021-08-01
+T01126,BPO / Shared Services,Mid,2019-08-01
+T01127,Professional Services,Mid,2025-09-01
+T01128,IT & Software,SME,2020-03-01
+T01129,IT & Software,SME,2019-11-01
+T01130,Professional Services,SME,2020-12-01
+T01131,Finance & Insurance,Mid,2018-12-01
+T01132,IT & Software,SME,2018-02-01
+T01133,IT & Software,SME,2022-12-01
+T01134,Engineering  ,Mid,2019-07-01
+T01135,Engineering,Mid,2023-06-01
+T01136,Finance & Insurance,Mid,2019-02-01
+T01137,Public Sector / NGO,Mid,2025-05-01
+T01138,Pharma & Healthcare,SME,2020-08-01
+T01139,Professional Services,Mid,2020-08-01
+T01140,Media & Marketing,Mid,2023-09-01
+T01141,Engineering,Mid,2018-12-01
+T01142,Professional Services,Mid,2025-07-01
+T01143,IT & Software,Mid,2019-06-01
+T01144,IT & Software,Mid,2022-09-01
+T01145,Media & Marketing,SME,2016-04-01
+T01146,Finance & Insurance,SME,2018-05-01
+T01147,Professional Services,SME,2025-06-01
+T01148,,SME,2020-06-01
+T01149,,SME,2023-11-01
+T01150,Professional Services,SME,2018-04-01
+T01151,Finance & Insurance,SME,2021-05-01
+T01152,Professional Services,SME,2019-12-01
+T01153,Media & Marketing,SME,2025-09-01
+T01154,Media & Marketing,SME,2018-07-01
+T01155,Finance & Insurance,SME,2018-09-01
+T01156,Professional Services,SME,2023-10-01
+T01157,Media & Marketing,SME,2022-05-01
+T01158,Pharma & Healthcare,SME,2019-03-01
+T01159,Professional Services,SME,2023-02-01
+T01160,Public Sector / NGO,Mid,2018-06-01
+T01161,BPO / Shared Services,Mid,2018-04-01
+T01162,IT & Software,Mid,2021-06-01
+T01163,IT & Software,SME,2017-03-01
+T01164,BPO / Shared Services  ,SME,2022-08-01
+T01165,IT & Software,Large,2018-05-01
+T01166,IT & Software,Mid,2021-09-01
+T01167,Media & Marketing,Mid,2023-01-01
+T01168,Pharma & Healthcare,Mid,2018-02-01
+T01169,BPO / Shared Services,Mid,2019-04-01
+T01170,BPO / Shared Services,Mid,2016-04-01
+T01171,IT & Software,SME,2016-06-01
+T01172,Professional Services,SME,2025-04-01
+T01173,Engineering,SME,2019-02-01
+T01174,Engineering,Mid,2018-06-01
+T01175,Engineering,Mid,2021-10-01
+T01176,IT & Software,Mid,2018-09-01
+T01177,IT & Software,SME,2020-08-01
+T01178,Pharma & Healthcare,Mid,2020-08-01
+T01179,IT & Software,Mid,2019-09-01
+T01180,Professional Services,Mid,2021-07-01
+T01181,BPO / Shared Services,SME,2020-10-01
+T01182,Professional Services,SME,2019-01-01
+T01183,BPO / Shared Services,SME,2020-07-01
+T01184,IT & Software,SME,2024-04-01
+T01185,BPO / Shared Services,Large,2018-05-01
+T01186,BPO / Shared Services,Mid,2018-10-01
+T01187,Professional Services,SME,2019-11-01
+T01188,,SME,2025-12-01
+T01189,BPO / Shared Services,Mid,2019-03-01
+T01190,Education,Mid,2025-04-01
+T01191,Public Sector / NGO,Mid,2020-06-01
+T01192,Finance & Insurance,Mid,2019-02-01
+T01193,BPO / Shared Services,SME,2019-09-01
+T01194,Engineering,SME,2018-01-01
+T01195,IT & Software,SME,2017-03-01
+T01196,IT & Software,SME,2020-04-01
+T01197,Engineering,Mid,2021-09-01
+T01198,Education,Mid,2022-06-01
+T01199,BPO / Shared Services,SME,2020-05-01
+T01200,Professional Services,Mid,2020-06-01
+T01201,IT & Software,Mid,2025-09-01
+T01202,IT & Software,Mid,2018-11-01
+T01203,BPO / Shared Services  ,Large,2021-05-01
+T01204,BPO / Shared Services  ,Large,2025-01-01
+T01205,IT & Software,SME,2019-04-01
+T01206,BPO / Shared Services,SME,2019-11-01
+T01207,IT & Software,Mid,2016-09-01
+T01208,IT & Software,SME,2019-06-01
+T01209,BPO / Shared Services,SME,2017-01-01
+T01210,IT & Software,SME,2025-08-01
+T01211,Pharma & Healthcare,Mid,2019-05-01
+T01212,Pharma & Healthcare,SME,2020-09-01
+T01213,IT & Software,Mid,2018-04-01
+T01214,Finance & Insurance,Mid,2019-11-01
+T01215,IT & Software,SME,2019-09-01
+T01216,BPO / Shared Services,Mid,2020-03-01
+T01217,Finance & Insurance,Mid,2023-05-01
+T01218,Education,Mid,2021-04-01
+T01219,Professional Services,Mid,2024-12-01
+T01220,BPO / Shared Services,Mid,2019-01-01
+T01221,Media & Marketing  ,Mid,2020-04-01
+T01222,Engineering,SME,2021-05-01
+T01223,,SME,2023-10-01
+T01224,Pharma & Healthcare,Mid,2019-03-01
+T01225,Finance & Insurance,Mid,2022-04-01
+T01226,IT & Software,SME,2020-03-01
+T01227,IT & Software,SME,2018-12-01
+T01228,IT & Software,SME,2019-01-01
+T01229,IT & Software,SME,2024-04-01
+T01230,Public Sector / NGO,Mid,2021-06-01
+T01231,Finance & Insurance,Mid,2022-07-01
+T01232,BPO / Shared Services,SME,2021-11-01
+T01233,BPO / Shared Services,Large,2016-05-01
+T01234,Pharma & Healthcare,Mid,2016-12-01
+T01235,BPO / Shared Services,Mid,2023-10-01
+T01236,IT & Software,Mid,2020-11-01
+T01237,IT & Software,Mid,2017-04-01
+T01238,IT & Software,Mid,2022-05-01
+T01239,,Mid,2025-06-01
+T01240,Professional Services,Large,2017-04-01
+T01241,IT & Software,Large,2025-07-01
+T01242,Professional Services,SME,2020-06-01
+T01243,BPO / Shared Services,SME,2020-03-01
+T01244,Professional Services,SME,2023-04-01
+T01245,IT & Software,Mid,2020-06-01
+T01246,IT & Software,Mid,2024-03-01
+T01247,IT & Software,SME,2021-04-01
+T01248,Engineering,SME,2024-07-01
+T01249,IT & Software,SME,2018-03-01
+T01250,IT & Software,Mid,2021-08-01
+T01251,BPO / Shared Services,Mid,2020-12-01
+T01252,BPO / Shared Services,Mid,2018-09-01
+T01253,Professional Services,SME,2020-12-01
+T01254,Professional Services,SME,2021-12-01
+T01255,Engineering,Mid,2018-11-01
+T01256,IT & Software,Mid,2020-07-01
+T01257,BPO / Shared Services,Large,2018-05-01
+T01258,IT & Software,Large,2022-04-01
+T01259,IT & Software,Mid,2020-08-01
+T01260,IT & Software,SME,2018-12-01
+T01261,Pharma & Healthcare,SME,2021-01-01
+T01262,BPO / Shared Services,Mid,2019-02-01
+T01263,IT & Software,Mid,2025-05-01
+T01264,Media & Marketing,SME,2020-10-01
+T01265,IT & Software  ,Mid,2018-02-01
+T01266,IT & Software,SME,2016-09-01
+T01267,Public Sector / NGO,SME,2022-03-01
+T01268,IT & Software,SME,2020-01-01
+T01269,BPO / Shared Services,SME,2024-06-01
+T01270,,Mid,2018-09-01
+T01271,IT & Software,Mid,2022-04-01
+T01272,Finance & Insurance,Mid,2020-08-01
+T01273,Finance & Insurance,Mid,2024-07-01
+T01274,IT & Software,SME,2019-08-01
+T01275,IT & Software,SME,2017-03-01
+T01276,IT & Software,SME,2023-01-01
+T01277,IT & Software,Large,2020-08-01
+T01278,,Mid,2018-10-01
+T01279,Finance & Insurance,SME,2020-09-01
+T01280,BPO / Shared Services,SME,2024-02-01
+T01281,Finance & Insurance,Mid,2020-12-01
+T01282,IT & Software,Large,2018-04-01
+T01283,IT & Software,Large,2020-08-01
+T01284,Finance & Insurance,SME,2020-01-01
+T01285,Media & Marketing,SME,2017-02-01
+T01286,Pharma & Healthcare,SME,2023-01-01
+T01287,Engineering,SME,2018-03-01
+T01288,Engineering,SME,2024-07-01
+T01289,BPO / Shared Services,SME,2021-09-01
+T01290,IT & Software,SME,2019-05-01
+T01291,Finance & Insurance,SME,2022-06-01
+T01292,Media & Marketing,Mid,2020-06-01
+T01293,BPO / Shared Services,SME,2018-08-01
+T01294,IT & Software,SME,2019-08-01
+T01295,BPO / Shared Services,Large,2019-12-01
+T01296,Pharma & Healthcare,SME,2020-12-01
+T01297,BPO / Shared Services,SME,2019-09-01
+T01298,Professional Services,SME,2022-11-01
+T01299,Education,Mid,2019-10-01
+T01300,Media & Marketing,Mid,2023-03-01
+T01301,Professional Services,SME,2019-05-01
+T01302,Engineering,SME,2020-10-01
+T01303,IT & Software,Mid,2019-11-01
+T01304,BPO / Shared Services,Mid,2016-08-01
+T01305,BPO / Shared Services,Mid,2021-02-01
+T01306,Pharma & Healthcare,SME,2019-01-01
+T01307,Professional Services,SME,2025-05-01
+T01308,Professional Services,SME,2019-10-01
+T01309,Finance & Insurance,SME,2020-08-01
+T01310,Public Sector / NGO,SME,2018-03-01
+T01311,Media & Marketing,SME,2021-12-01
+T01312,Engineering,Mid,2019-04-01
+T01313,Pharma & Healthcare,Mid,2025-12-01
+T01314,Engineering,SME,2017-03-01
+T01315,BPO / Shared Services,SME,2020-11-01
+T01316,Pharma & Healthcare,Mid,2019-02-01
+T01317,Public Sector / NGO,Mid,2024-08-01
+T01318,Professional Services,Mid,2016-11-01
+T01319,Public Sector / NGO,Mid,2025-04-01
+T01320,Electronics,SME,2017-05-01
+T01321,Fashion & Apparel,SME,2025-08-01
+T01322,Health & Beauty,SME,2020-12-01
+T01323,Fashion & Apparel,SME,2020-09-01
+T01324,Health & Beauty,Mid,2019-08-01
+T01325,Fashion & Apparel,Mid,2016-04-01
+T01326,Health & Beauty,SME,2020-02-01
+T01327,Fashion & Apparel,SME,2023-07-01
+T01328,Services  ,SME,2021-02-01
+T01329,Fashion & Apparel,SME,2024-08-01
+T01330,Food & Beverage,SME,2019-05-01
+T01331,,SME,2019-05-01
+T01332,Food & Beverage,Mid,2018-01-01
+T01333,Fashion & Apparel,SME,2019-11-01
+T01333,Fashion & Apparel,SME,2019-11-01
+T01334,Food & Beverage,Mid,2020-12-01
+T01335,Grocery,SME,2020-04-01
+T01336,Health & Beauty,SME,2020-10-01
+T01337,Health & Beauty,Mid,2020-11-01
+T01338,Food & Beverage,SME,2016-06-01
+T01339,Fashion & Apparel,SME,2021-12-01
+T01340,Grocery,SME,2024-01-01
+T01341,Fashion & Apparel,SME,2019-04-01
+T01342,Home & Furnishing,SME,2020-01-01
+T01343,Food & Beverage,SME,2023-01-01
+T01344,Fashion & Apparel,Mid,2019-12-01
+T01345,Services,SME,2020-09-01
+T01346,Food & Beverage,Large,2018-11-01
+T01347,Electronics,Large,2024-12-01
+T01348,Fashion & Apparel,SME,2018-03-01
+T01349,Fashion & Apparel,SME,2024-08-01
+T01350,Food & Beverage,SME,2019-03-01
+T01351,Home & Furnishing,SME,2020-05-01
+T01352,Health & Beauty,SME,2022-11-01
+T01353,Services,Mid,2019-09-01
+T01354,Services,SME,2019-10-01
+T01355,Fashion & Apparel,Mid,2017-04-01
+T01356,Food & Beverage,Mid,2022-12-01
+T01357,Fashion & Apparel  ,SME,2019-02-01
+T01358,Fashion & Apparel,SME,2023-03-01
+T01359,Food & Beverage,SME,2021-02-01
+T01360,Grocery,SME,2023-03-01
+T01361,Services,SME,2019-07-01
+T01362,Food & Beverage  ,SME,2024-10-01
+T01362,Food & Beverage  ,SME,2024-10-01
+T01363,Services  ,SME,2020-09-01
+T01364,Entertainment,SME,2022-12-01
+T01365,Health & Beauty,Mid,2019-01-01
+T01366,Food & Beverage,SME,2019-03-01
+T01367,Services,SME,2023-12-01
+T01368,IT & Software,SME,2018-02-01
+T01369,Professional Services,SME,2024-03-01
+T01370,Finance & Insurance,SME,2019-12-01
+T01371,IT & Software,SME,2023-08-01
+T01372,Public Sector / NGO,SME,2020-10-01
+T01373,Professional Services,SME,2023-11-01
+T01374,Professional Services,SME,2018-10-01
+T01375,BPO / Shared Services,SME,2024-02-01
+T01376,BPO / Shared Services,SME,2021-06-01
+T01377,BPO / Shared Services,Mid,2017-08-01
+T01378,,Mid,2023-01-01
+T01379,Pharma & Healthcare,SME,2019-08-01
+T01380,Finance & Insurance,SME,2017-11-01
+T01381,Pharma & Healthcare,SME,2020-09-01
+T01382,IT & Software,SME,2023-11-01
+T01383,Engineering,Mid,2018-08-01
+T01384,BPO / Shared Services,SME,2019-05-01
+T01385,,Mid,2019-08-01
+T01386,Media & Marketing,SME,2017-02-01
+T01387,IT & Software,SME,2022-08-01
+T01388,Finance & Insurance,SME,2025-09-01
+T01389,Media & Marketing,SME,2016-08-01
+T01390,Engineering,SME,2019-11-01
+T01391,Professional Services,SME,2020-02-01
+T01392,Education,SME,2020-01-01
+T01393,Engineering,SME,2023-03-01
+T01394,Finance & Insurance,Mid,2018-08-01
+T01395,Media & Marketing,Mid,2018-07-01
+T01396,Public Sector / NGO,SME,2021-05-01
+T01397,Public Sector / NGO,SME,2024-09-01
+T01398,Public Sector / NGO,Mid,2018-02-01
+T01399,Professional Services,Mid,2023-03-01
+T01400,IT & Software,Mid,2021-02-01
+T01401,BPO / Shared Services,SME,2018-07-01
+T01402,Pharma & Healthcare,SME,2019-10-01
+T01403,Media & Marketing,SME,2021-02-01
+T01404,Finance & Insurance,SME,2024-06-01
+T01405,Media & Marketing,Mid,2018-07-01
+T01406,IT & Software,Mid,2021-10-01
+T01407,IT & Software,SME,2019-02-01
+T01408,BPO / Shared Services,Mid,2019-03-01
+T01409,Finance & Insurance,Mid,2020-09-01
+T01410,IT & Software,Mid,2023-10-01
+T01411,IT & Software,Mid,2020-09-01
+T01412,IT & Software,Mid,2023-12-01
+T01413,IT & Software,Mid,2018-04-01
+T01414,IT & Software,Large,2021-03-01
+T01415,IT & Software,Large,2024-06-01
+T01416,Engineering,Mid,2017-03-01
+T01417,IT & Software,Mid,2021-05-01
+T01418,Media & Marketing,Mid,2024-07-01
+T01419,IT & Software,SME,2019-02-01
+T01420,BPO / Shared Services,SME,2020-12-01
+T01421,Finance & Insurance,SME,2024-01-01
+T01422,Finance & Insurance,SME,2020-11-01
+T01423,Public Sector / NGO,SME,2017-04-01
+T01424,IT & Software,SME,2022-06-01
+T01425,IT & Software,SME,2016-03-01
+T01426,Professional Services,SME,2021-02-01
+T01427,BPO / Shared Services,SME,2024-08-01
+T01428,IT & Software,Mid,2018-06-01
+T01429,Professional Services,Mid,2019-04-01
+T01430,Engineering,SME,2020-11-01
+T01431,Public Sector / NGO,SME,2023-12-01
+T01432,Professional Services,Mid,2020-03-01
+T01433,Professional Services,Mid,2023-04-01
+T01434,Professional Services,Mid,2019-08-01
+T01435,Engineering  ,Mid,2022-11-01
+T01436,Professional Services,MID,2021-06-01
+T01436,Professional Services,Mid,2021-06-01
+T01437,Professional Services,SME,2020-01-01
+T01438,BPO / Shared Services,SME,2023-02-01
+T01439,Pharma & Healthcare,Mid,2018-03-01
+T01440,BPO / Shared Services,SME,2022-06-01
+T01441,Professional Services,Mid,2017-05-01
+T01442,IT & Software,Mid,2016-11-01
+T01443,Professional Services,Mid,2020-03-01
+T01444,Finance & Insurance,SME,2020-10-01
+T01445,IT & Software,Mid,2018-04-01
+T01446,Professional Services,Mid,2018-12-01
+T01447,IT & Software,Mid,2025-07-01
+T01448,Media & Marketing,Large,2020-07-01
+T01449,Media & Marketing,Mid,2020-08-01
+T01450,IT & Software,Mid,2020-07-01
+T01451,BPO / Shared Services,Mid,2019-04-01
+T01452,IT & Software,SME,2018-08-01
+T01453,IT & Software,Mid,2020-11-01
+T01454,Finance & Insurance,Mid,2017-11-01
+T01455,Engineering,Mid,2022-12-01
+T01456,IT & Software,Mid,2018-06-01
+T01457,Professional Services,Mid,2023-07-01
+T01458,Finance & Insurance,Mid,2020-11-01
+T01459,BPO / Shared Services,SME,2020-03-01
+T01460,IT & Software,SME,2021-05-01
+T01461,Pharma & Healthcare,Mid,2020-04-01
+T01462,BPO / Shared Services,Mid,2023-05-01
+T01463,Engineering,SME,2018-10-01
+T01464,Media & Marketing,SME,2019-11-01
+T01465,Media & Marketing,SME,2022-12-01
+T01466,IT & Software  ,Mid,2020-08-01
+T01467,IT & Software,SME,2021-03-01
+T01468,Pharma & Healthcare  ,SME,2017-11-01
+T01469,IT & Software,Mid,2018-12-01
+T01470,Media & Marketing,Mid,2020-01-01
+T01471,Finance & Insurance,SME,2021-08-01
+T01472,Pharma & Healthcare,Mid,2018-11-01
+T01473,IT & Software  ,SME,2018-02-01
+T01474,Professional Services,Mid,2016-07-01
+T01475,Professional Services,Mid,2025-01-01
+T01476,IT & Software,SME,2020-11-01
+T01477,Public Sector / NGO,SME,2019-12-01
+T01478,IT & Software,SME,2019-10-01
+T01479,IT & Software,SME,2021-06-01
+T01480,Engineering,Mid,2019-06-01
+T01481,BPO / Shared Services,Mid,2020-12-01
+T01482,IT & Software,Mid,2018-12-01
+T01483,IT & Software,SME,2019-07-01
+T01484,IT & Software,SME,2022-10-01
+T01485,Professional Services,Mid,2020-10-01
+T01486,Professional Services,Mid,2017-06-01
+T01487,Professional Services,SME,2019-02-01
+T01488,BPO / Shared Services,SME,2022-09-01
+T01489,IT & Software,Mid,2016-12-01
+T01490,Professional Services,SME,2020-05-01
+T01491,Media & Marketing,SME,2023-09-01
+T01492,Electronics,SME,2019-08-01
+T01493,Electronics,SME,2022-09-01
+T01494,Fashion & Apparel,SME,2025-01-01
+T01495,Food & Beverage,SME,2021-06-01
+T01496,Food & Beverage,SME,2025-11-01
+T01497,Home & Furnishing,SME,2018-03-01
+T01498,Home & Furnishing,SME,2020-08-01
+T01499,Services,SME,2021-03-01
+T01500,Grocery,SME,2017-10-01
+T01501,Food & Beverage,SME,2020-04-01
+T01502,Health & Beauty,SME,2018-10-01
+T01503,Food & Beverage,SME,2023-12-01
+T01504,Fashion & Apparel,SME,2021-04-01
+T01505,Food & Beverage  ,SME,2019-08-01
+T01506,Grocery,SME,2019-06-01
+T01507,Fashion & Apparel,SME,2022-02-01
+T01508,Health & Beauty,SME,2019-06-01
+T01509,Services,SME,2020-02-01
+T01510,Services,SME,2019-12-01
+T01511,Electronics,SME,2021-06-01
+T01512,Fashion & Apparel,SME,2017-11-01
+T01513,Food & Beverage  ,SME,2022-12-01
+T01514,Fashion & Apparel,SME,2019-08-01
+T01515,Fashion & Apparel,Mid,2019-06-01
+T01516,Food & Beverage,Mid,2025-12-01
+T01517,Fashion & Apparel,SME,2020-09-01
+T01518,Food & Beverage,SME,2019-04-01
+T01519,Food & Beverage,SME,2020-11-01
+T01520,Fashion & Apparel,SME,2018-03-01
+T01521,Fashion & Apparel,Mid,2020-06-01
+T01522,Fashion & Apparel,SME,2021-03-01
+T01523,Fashion & Apparel,SME,2020-10-01
+T01524,Food & Beverage,SME,2023-05-01
+T01525,Food & Beverage,SME,2024-07-01
+T01526,Grocery,SME,2021-11-01
+T01527,Food & Beverage,SME,2024-02-01
+T01528,Entertainment,SME,2020-11-01
+T01529,Grocery,SME,2024-04-01
+T01530,Health & Beauty,Mid,2019-10-01
+T01531,Health & Beauty,Mid,2021-12-01
+T01532,Food & Beverage,SME,2017-09-01
+T01533,Food & Beverage,SME,2019-11-01
+T01534,Food & Beverage,SME,2019-12-01
+T01535,Food & Beverage,Large,2018-08-01
+T01536,Food & Beverage,Large,2022-11-01
+T01537,Fashion & Apparel,SME,2020-09-01
+T01538,Health & Beauty  ,SME,2024-12-01
+T01539,Services,SME,2018-04-01
+T01540,Entertainment,SME,2023-06-01
+T01541,Electronics,SME,2020-04-01
+T01542,Food & Beverage,SME,2022-10-01
+T01543,Health & Beauty,SME,2019-09-01
+T01544,Entertainment,SME,2025-11-01
+T01545,Fashion & Apparel,SME,2017-02-01
+T01546,Food & Beverage,SME,2022-06-01
+T01547,Electronics,SME,2021-02-01
+T01548,IT & Software,Mid,2021-07-01
+T01549,Finance & Insurance,Mid,2019-04-01
+T01550,Engineering,SME,2018-03-01
+T01551,Professional Services,SME,2024-12-01
+T01552,Engineering,SME,2019-11-01
+T01553,Pharma & Healthcare,SME,2016-08-01
+T01554,Pharma & Healthcare,Mid,2019-08-01
+T01555,IT & Software,Mid,2018-08-01
+T01556,Engineering,Mid,2019-10-01
+T01557,Finance & Insurance,Mid,2019-09-01
+T01558,Professional Services,SME,2016-02-01
+T01559,Professional Services,SME,2022-08-01
+T01560,Media & Marketing,SME,2019-06-01
+T01561,Professional Services,SME,2025-07-01
+T01562,Engineering,SME,2020-09-01
+T01563,Finance & Insurance,SME,2023-11-01
+T01564,Media & Marketing,Mid,2016-04-01
+T01565,BPO / Shared Services,SME,2019-12-01
+T01566,IT & Software,SME,2023-05-01
+T01567,Public Sector / NGO,SME,2018-07-01
+T01568,,SME,2017-02-01
+T01569,Pharma & Healthcare,Mid,2019-10-01
+T01570,BPO / Shared Services,SME,2020-02-01
+T01571,IT & Software,SME,2018-02-01
+T01572,IT & Software,SME,2023-07-01
+T01573,BPO / Shared Services,SME,2019-05-01
+T01574,Pharma & Healthcare,Mid,2019-02-01
+T01575,IT & Software,SME,2020-03-01
+T01576,BPO / Shared Services,SME,2018-06-01
+T01577,Education,SME,2024-07-01
+T01578,Professional Services  ,Large,2019-03-01
+T01579,IT & Software,Mid,2020-05-01
+T01580,Public Sector / NGO,SME,2019-05-01
+T01581,Professional Services,SME,2025-09-01
+T01582,IT & Software,SME,2021-06-01
+T01583,BPO / Shared Services,Large,2021-04-01
+T01584,IT & Software,SME,2017-01-01
+T01585,IT & Software,Mid,2019-04-01
+T01586,IT & Software,Mid,2019-04-01
+T01587,Pharma & Healthcare,SME,2020-06-01
+T01588,IT & Software,Mid,2016-10-01
+T01589,IT & Software,Mid,2021-02-01
+T01590,Professional Services,Mid,2020-07-01
+T01591,BPO / Shared Services,SME,2019-01-01
+T01592,Professional Services,Mid,2019-02-01
+T01593,Professional Services,Mid,2022-03-01
+T01594,Engineering,SME,2019-02-01
+T01595,BPO / Shared Services,SME,2018-12-01
+T01596,BPO / Shared Services,SME,2024-01-01
+T01597,Finance & Insurance,Mid,2018-12-01
+T01598,Engineering,Mid,2024-06-01
+T01599,Public Sector / NGO,Mid,2019-08-01
+T01600,Professional Services,Mid,2024-12-01
+T01601,Pharma & Healthcare,SME,2018-11-01
+T01602,IT & Software,Mid,2018-04-01
+T01603,,Mid,2025-03-01
+T01604,IT & Software,SME,2019-10-01
+T01605,Professional Services  ,SME,2020-09-01
+T01606,Media & Marketing,SME,2020-04-01
+T01607,Finance & Insurance,SME,2023-05-01
+T01608,IT & Software,Mid,2020-04-01
+T01609,Engineering,SME,2019-10-01
+T01610,Professional Services,SME,2023-01-01
+T01611,Professional Services,Mid,2020-10-01
+T01612,Finance & Insurance,Mid,2019-10-01
+T01613,Pharma & Healthcare,Mid,2022-12-01
+T01614,Finance & Insurance,Mid,2020-08-01
+T01615,IT & Software,Mid,2019-10-01
+T01616,Professional Services,Mid,2025-05-01
+T01617,Pharma & Healthcare,Mid,2020-09-01
+T01618,IT & Software  ,SME,2019-03-01
+T01619,IT & Software,Mid,2021-05-01
+T01620,IT & Software,Mid,2020-10-01
+T01621,BPO / Shared Services,SME,2020-08-01
+T01622,Finance & Insurance,SME,2023-12-01
+T01623,Professional Services,SME,2019-11-01
+T01624,Engineering,SME,2019-02-01
+T01625,IT & Software,Mid,2020-12-01
+T01626,BPO / Shared Services,SME,2021-07-01
+T01627,IT & Software,SME,2024-08-01
+T01628,Finance & Insurance,Mid,2018-04-01
+T01629,IT & Software,SME,2020-06-01
+T01630,IT & Software,Mid,2020-05-01
+T01631,Engineering,Mid,2018-10-01
+T01632,Professional Services,Mid,2019-03-01
+T01633,Professional Services  ,Mid,2025-04-01
+T01634,Engineering,SME,2016-12-01
+T01635,IT & Software,Mid,2017-11-01
+T01636,IT & Software,Mid,2019-12-01
+T01637,BPO / Shared Services,Mid,2025-03-01
+T01638,IT & Software,SME,2021-02-01
+T01639,BPO / Shared Services,Mid,2017-11-01
+T01640,IT & Software,Mid,2023-01-01
+T01641,Public Sector / NGO,SME,2019-12-01
+T01642,,SME,2025-04-01
+T01643,BPO / Shared Services,Large,2019-12-01
+T01644,Engineering,SME,2021-02-01
+T01645,IT & Software,SME,2024-09-01
+T01646,Finance & Insurance,Mid,2019-01-01
+T01647,Pharma & Healthcare,SME,2020-05-01
+T01648,IT & Software,SME,2019-01-01
+T01649,Finance & Insurance,SME,2021-10-01
+T01650,BPO / Shared Services  ,SME,2018-12-01
+T01651,IT & Software,SME,2020-11-01
+T01652,Professional Services  ,SME,2020-01-01
+T01653,Professional Services  ,SME,2023-03-01
+T01654,BPO / Shared Services,Mid,2020-11-01
+T01654,BPO / Shared Services,MID,2020-11-01
+T01655,IT & Software,Mid,2020-06-01
+T01656,Education,SME,2020-06-01
+T01657,,SME,2023-08-01
+T01658,IT & Software,Mid,2018-08-01
+T01659,Engineering,SME,2018-05-01
+T01660,Professional Services,SME,2020-07-01
+T01661,Finance & Insurance,SME,2016-04-01
+T01662,Pharma & Healthcare,SME,2025-02-01
+T01663,BPO / Shared Services,Mid,2020-06-01
+T01664,Pharma & Healthcare,Large,2021-04-01
+T01665,IT & Software,Large,2024-05-01
+T01666,IT & Software,SME,2019-10-01
+T01667,IT & Software,SME,2020-11-01
+T01668,Professional Services,SME,2020-12-01
+T01669,IT & Software,Mid,2018-09-01
+T01670,Pharma & Healthcare,Mid,2023-12-01
+T01671,Finance & Insurance,Mid,2017-01-01
+T01672,IT & Software,SME,2019-10-01
+T01673,Public Sector / NGO,SME,2018-05-01
+T01674,Education  ,SME,2024-07-01
+T01675,Professional Services,Mid,2018-06-01
+T01676,BPO / Shared Services,Mid,2018-08-01
+T01677,Engineering,SME,2018-06-01
+T01678,Grocery,SME,2019-04-01
+T01679,Fashion & Apparel,SME,2024-07-01
+T01680,Fashion & Apparel,Mid,2019-04-01
+T01681,Fashion & Apparel,Mid,2021-10-01
+T01682,Services,SME,2020-03-01
+T01683,Health & Beauty,SME,2022-11-01
+T01684,Health & Beauty,Mid,2018-05-01
+T01685,Fashion & Apparel,Mid,2020-07-01
+T01686,Food & Beverage,SME,2019-04-01
+T01687,Fashion & Apparel,SME,2020-12-01
+T01688,Services,SME,2019-12-01
+T01689,Fashion & Apparel,Mid,2020-03-01
+T01690,Electronics,SME,2019-09-01
+T01691,Fashion & Apparel,SME,2022-03-01
+T01692,Food & Beverage,SME,2021-05-01
+T01693,Electronics,SME,2023-07-01
+T01694,Fashion & Apparel,SME,2019-08-01
+T01695,Food & Beverage,SME,2020-08-01
+T01696,Electronics,SME,2023-01-01
+T01697,Fashion & Apparel,SME,2019-07-01
+T01698,Services,SME,2023-08-01
+T01699,Home & Furnishing,SME,2025-04-01
+T01700,Fashion & Apparel,SME,2019-08-01
+T01701,Food & Beverage,Mid,2020-01-01
+T01702,Home & Furnishing,Mid,2019-05-01
+T01703,,Mid,2020-05-01
+T01704,Food & Beverage,Mid,2023-01-01
+T01705,Services,SME,2019-01-01
+T01706,Fashion & Apparel,SME,2018-04-01
+T01707,Services,SME,2020-10-01
+T01708,Fashion & Apparel,SME,2023-01-01
+T01709,Home & Furnishing,SME,2019-10-01
+T01710,Food & Beverage  ,SME,2018-12-01
+T01711,Food & Beverage,SME,2022-01-01
+T01712,Fashion & Apparel  ,SME,2025-06-01
+T01713,Fashion & Apparel,SME,2016-04-01
+T01714,Health & Beauty,SME,2016-02-01
+T01715,Home & Furnishing,SME,2024-09-01
+T01716,Fashion & Apparel,SME,2018-07-01
+T01717,Food & Beverage,Mid,2018-07-01
+T01718,Food & Beverage,Mid,2023-08-01
+T01719,Food & Beverage,SME,2017-07-01
+T01720,Entertainment,SME,2025-05-01
+T01721,Entertainment,SME,2019-10-01
+T01721,Entertainment,SME,2019-10-01
+T01722,Food & Beverage,SME,2021-11-01
+T01723,Health & Beauty,Mid,2020-05-01
+T01724,Grocery,Mid,2020-05-01
+T01725,Services,SME,2020-10-01
+T01726,Fashion & Apparel,SME,2021-05-01
+T01727,Fashion & Apparel,SME,2025-11-01
+T01728,Fashion & Apparel,SME,2020-07-01
+T01729,Food & Beverage,SME,2019-08-01
+T01730,Electronics,SME,2020-06-01
+T01731,Fashion & Apparel,Mid,2020-10-01
+T01732,Health & Beauty,Mid,2022-12-01
+T01733,Electronics,SME,2018-08-01
+T01734,Fashion & Apparel,SME,2025-01-01
+T01735,Fashion & Apparel,SME,2017-05-01
+T01736,Fashion & Apparel,SME,2020-03-01
+T01737,Food & Beverage,SME,2020-09-01
+T01738,Home & Furnishing,SME,2022-12-01
+T01739,Electronics,SME,2024-11-01
+T01740,Services,SME,2020-01-01
+T01741,Health & Beauty,SME,2021-03-01
+T01742,Fashion & Apparel,Mid,2018-09-01
+T01743,Entertainment,Mid,2022-06-01
+T01744,Health & Beauty  ,Mid,2020-02-01
+T01745,Electronics,SME,2018-05-01
+T01746,Home & Furnishing,SME,2019-06-01
+T01747,Food & Beverage,SME,2019-07-01
+T01748,Electronics,Mid,2018-05-01
+T01749,Health & Beauty,Mid,2021-02-01
+T01750,Food & Beverage,SME,2020-05-01
+T01751,Health & Beauty,Mid,2019-08-01
+T01752,Electronics  ,Mid,2022-12-01
+T01753,Health & Beauty,SME,2021-02-01
+T01754,Fashion & Apparel,SME,2019-09-01
+T01755,Fashion & Apparel,SME,2022-04-01
+T01756,Health & Beauty,SME,2019-03-01
+T01757,Electronics,SME,2019-05-01
+T01758,Home & Furnishing,Mid,2020-04-01
+T01759,Services,SME,2018-02-01
+T01760,Entertainment,SME,2020-03-01
+T01761,Health & Beauty,SME,2024-02-01
+T01762,Home & Furnishing,Mid,2020-10-01
+T01763,Grocery,SME,2020-10-01
+T01764,Services,SME,2021-02-01
+T01765,Food & Beverage,Mid,2019-10-01
+T01766,Health & Beauty,Mid,2023-01-01
+T01767,Fashion & Apparel,Mid,2025-03-01
+T01768,Food & Beverage,SME,2018-04-01
+T01769,Home & Furnishing,SME,2018-07-01
+T01770,Food & Beverage,SME,2021-08-01
+T01771,Food & Beverage,SME,2023-12-01
+T01772,Fashion & Apparel  ,SME,2020-08-01
+T01773,Services,SME,2020-11-01
+T01774,Health & Beauty,SME,2020-04-01
+T01775,,SME,2023-06-01
+T01776,Food & Beverage,SME,2021-09-01
+T01777,Health & Beauty,SME,2016-09-01
+T01778,Electronics,SME,2022-05-01
+T01779,Fashion & Apparel,SME,2019-08-01
+T01780,Health & Beauty,SME,2022-04-01
+T01781,Fashion & Apparel,Mid,2018-07-01
+T01782,Food & Beverage,Mid,2025-08-01
+T01783,Food & Beverage,SME,2018-10-01
+T01784,Food & Beverage,SME,2022-08-01
+T01785,,SME,2020-05-01
+T01786,Health & Beauty,Mid,2020-09-01
+T01787,Food & Beverage,Mid,2021-08-01
+T01788,Health & Beauty  ,Mid,2023-10-01
+T01789,Home & Furnishing,SME,2020-12-01
+T01790,Home & Furnishing,SME,2020-01-01
+T01791,Fashion & Apparel,SME,2025-07-01
+T01792,Electronics,SME,2018-06-01
+T01793,Health & Beauty,Mid,2019-02-01
+T01794,Health & Beauty,Mid,2019-10-01
+T01795,Fashion & Apparel,Mid,2025-01-01
+T01796,Fashion & Apparel,SME,2020-10-01
+T01796,Fashion & Apparel,SME,2020-10-01
+T01797,Fashion & Apparel  ,SME,2018-11-01
+T01798,Services,SME,2019-11-01
+T01799,Food & Beverage,SME,2022-03-01
+T01800,Fashion & Apparel,SME,2024-02-01
+T01801,Food & Beverage,SME,2017-05-01
+T01802,Electronics,SME,2024-06-01
+T01803,Services  ,SME,2020-01-01
+T01804,Food & Beverage,SME,2025-04-01
+T01805,Health & Beauty,SME,2020-12-01
+T01806,Food & Beverage,SME,2020-04-01
+T01807,Fashion & Apparel,SME,2022-10-01
+T01808,Food & Beverage,SME,2021-09-01
+T01809,Food & Beverage,SME,2017-02-01
+T01810,Fashion & Apparel,Mid,2017-10-01
+T01811,Electronics,Mid,2019-05-01
+T01812,Food & Beverage,Mid,2021-06-01
+T01813,Fashion & Apparel,Mid,2024-09-01
+T01814,Fashion & Apparel,Mid,2017-07-01
+T01815,,Mid,2023-03-01
+T01816,Home & Furnishing,Mid,2022-08-01
+T01817,Services,Mid,2016-02-01
+T01818,Electronics,SME,2019-11-01
+T01819,Fashion & Apparel,SME,2025-12-01
+T01820,Services  ,SME,2019-03-01
+T01821,Fashion & Apparel,SME,2022-10-01
+T01822,Fashion & Apparel,SME,2020-05-01
+T01823,Food & Beverage,SME,2019-04-01
+T01824,Fashion & Apparel,SME,2019-10-01
+T01825,Entertainment,SME,2025-03-01
+T01826,Home & Furnishing,SME,2020-03-01
+T01827,Fashion & Apparel,SME,2022-06-01
+T01828,Food & Beverage,SME,2025-09-01
+T01829,Food & Beverage,SME,2019-03-01
+T01830,Health & Beauty,SME,2016-05-01
+T01831,Home & Furnishing,SME,2024-08-01
+T01832,Food & Beverage,Mid,2019-06-01
+T01833,Services,SME,2019-02-01
+T01834,Fashion & Apparel,SME,2019-06-01
+T01835,Services,Mid,2020-12-01
+T01836,Services  ,Mid,2020-04-01
+T01837,Home & Furnishing,SME,2021-07-01
+T01838,Services,SME,2020-12-01
+T01839,,Mid,2019-10-01
+T01840,Home & Furnishing,SME,2016-06-01
+T01841,Grocery,SME,2018-12-01
+T01842,Health & Beauty,SME,2022-03-01
+T01843,Entertainment,SME,2021-06-01
+T01844,Entertainment,Mid,2019-07-01
+T01845,Electronics,SME,2019-10-01
+T01846,Fashion & Apparel,SME,2020-02-01
+T01847,Fashion & Apparel,SME,2020-12-01
+T01848,Electronics,Mid,2018-09-01
+T01849,Electronics,Mid,2024-05-01
+T01850,Grocery,Mid,2019-05-01
+T01851,Grocery,SME,2019-10-01
+T01852,Fashion & Apparel,SME,2025-06-01
+T01853,Food & Beverage,SME,2020-12-01
+T01854,Services,SME,2022-11-01
+T01855,Fashion & Apparel,SME,2019-11-01
+T01856,Services,SME,2016-05-01
+T01857,Health & Beauty,SME,2017-05-01
+T01858,Health & Beauty,SME,2022-07-01
+T01859,Fashion & Apparel,SME,2025-03-01
+T01860,Fashion & Apparel,Mid,2019-09-01
+T01861,Services,Mid,2022-04-01
+T01862,Services,SME,2016-07-01
+T01863,Electronics,SME,2020-04-01
+T01864,Food & Beverage,SME,2025-08-01
+T01865,Services,Mid,2018-03-01
+T01866,Services,SME,2018-04-01
+T01867,Health & Beauty,SME,2022-09-01
+T01868,Food & Beverage,SME,2020-05-01
+T01869,Health & Beauty,SME,2023-09-01
+T01870,Food & Beverage,SME,2019-01-01
+T01871,Health & Beauty,SME,2020-05-01
+T01872,,SME,2024-04-01
+T01873,Grocery,Mid,2020-03-01
+T01874,Fashion & Apparel,Mid,2024-09-01
+T01875,Grocery,SME,2022-07-01
+T01876,Fashion & Apparel,Mid,2019-02-01
+T01877,Food & Beverage,SME,2019-05-01
+T01878,Fashion & Apparel,SME,2018-03-01
+T01879,Electronics,SME,2018-10-01
+T01880,Entertainment,SME,2023-11-01
+T01881,Fashion & Apparel,Large,2018-06-01
+T01882,Food & Beverage,Large,2025-03-01
+T01883,Fashion & Apparel,SME,2020-08-01
+T01884,Health & Beauty,SME,2018-02-01
+T01885,Food & Beverage,SME,2023-08-01
+T01886,Food & Beverage,SME,2018-09-01
+T01887,Fashion & Apparel,SME,2023-12-01
+T01888,Electronics,SME,2017-11-01
+T01889,Fashion & Apparel,SME,2025-05-01
+T01890,Food & Beverage,Mid,2016-12-01
+T01891,Home & Furnishing,SME,2024-10-01
+T01892,Food & Beverage,Large,2021-06-01
+T01893,Food & Beverage,Mid,2020-10-01
+T01894,Home & Furnishing,Mid,2024-12-01
+T01895,Electronics,SME,2020-04-01
+T01896,Fashion & Apparel,SME,2016-07-01
+T01897,Fashion & Apparel,Mid,2018-12-01
+T01898,Fashion & Apparel,Mid,2024-01-01
+T01899,Food & Beverage,SME,2018-10-01
+T01900,Food & Beverage,SME,2019-08-01
+T01901,Food & Beverage  ,SME,2025-09-01
+T01902,Electronics,SME,2020-06-01
+T01903,Health & Beauty,Mid,2020-05-01
+T01904,Entertainment,SME,2019-03-01
+T01905,Food & Beverage  ,SME,2024-04-01
+T01906,Food & Beverage,SME,2019-02-01
+T01907,Electronics,SME,2019-08-01
+T01908,Electronics,Mid,2022-08-01
+T01909,Services,SME,2020-01-01
+T01910,Health & Beauty,SME,2022-12-01
+T01911,Entertainment,SME,2020-07-01
+T01912,Fashion & Apparel,SME,2025-10-01
+T01913,Grocery,SME,2021-06-01
+T01914,Services,Mid,2021-04-01
+T01915,Fashion & Apparel,SME,2019-04-01
+T01916,Services,SME,2021-07-01
+T01917,Fashion & Apparel,Mid,2019-07-01
+T01918,,SME,2019-02-01
+T01919,Health & Beauty,SME,2020-06-01
+T01920,,SME,2025-04-01
+T01921,Fashion & Apparel,SME,2018-06-01
+T01922,,SME,2020-11-01
+T01923,Food & Beverage,SME,2021-08-01
+T01924,Fashion & Apparel,SME,2021-03-01
+T01925,Health & Beauty,SME,2023-05-01
+T01926,Health & Beauty,SME,2021-07-01
+T01927,Home & Furnishing  ,SME,2024-08-01
+T01928,Food & Beverage,Mid,2019-04-01
+T01929,,Mid,2022-07-01
+T01930,Fashion & Apparel,SME,2024-11-01
+T01931,Fashion & Apparel,SME,2020-11-01
+T01932,Services,SME,2025-11-01
+T01933,Fashion & Apparel,SME,2019-11-01
+T01934,Fashion & Apparel,SME,2025-02-01
+T01935,Fashion & Apparel,Mid,2020-07-01
+T01936,Food & Beverage,Mid,2022-03-01
+T01937,Fashion & Apparel,Mid,2025-01-01
+T01938,Home & Furnishing,SME,2018-02-01
+T01939,Food & Beverage,SME,2019-05-01
+T01940,Fashion & Apparel,SME,2019-08-01
+T01941,Fashion & Apparel,SME,2022-11-01
+T01942,Electronics,SME,2025-07-01
+T01943,Home & Furnishing,SME,2020-03-01
+T01944,Electronics,SME,2023-12-01
+T01945,Fashion & Apparel,SME,2016-07-01
+T01946,Fashion & Apparel,SME,2022-01-01
+T01947,Fashion & Apparel,Mid,2018-04-01
+T01948,Fashion & Apparel,SME,2020-10-01
+T01949,Food & Beverage,SME,2019-04-01
+T01950,Home & Furnishing,SME,2021-05-01
+T01951,Fashion & Apparel,SME,2021-06-01
+T01952,Electronics,SME,2020-02-01
+T01953,Home & Furnishing,SME,2020-11-01
+T01954,Fashion & Apparel,SME,2023-11-01
+T01955,Fashion & Apparel,SME,2020-07-01
+T01956,Services,SME,2025-03-01
+T01957,Food & Beverage,SME,2020-07-01
+T01958,Services,SME,2017-05-01
+T01959,Fashion & Apparel,SME,2018-07-01
+T01960,Services,SME,2020-03-01
+T01961,Fashion & Apparel,Mid,2020-12-01
+T01962,Health & Beauty,Mid,2025-06-01
+T01963,Grocery  ,Mid,2019-11-01
+T01964,Health & Beauty,SME,2021-09-01
+T01965,Services,Mid,2020-10-01
+T01966,Home & Furnishing,SME,2020-08-01
+T01967,Health & Beauty,SME,2024-06-01
+T01967,Health & Beauty,SME,2024-06-01
+T01968,Health & Beauty,SME,2019-08-01
+T01969,Fashion & Apparel,SME,2025-06-01
+T01970,Fashion & Apparel,SME,2020-12-01
+T01971,Services,SME,2017-05-01
+T01972,Home & Furnishing,Mid,2020-11-01
+T01973,Fashion & Apparel,SME,2019-10-01
+T01974,Health & Beauty,SME,2025-01-01
+T01975,Food & Beverage,SME,2019-04-01
+T01976,,SME,2025-07-01
+T01977,Electronics,SME,2021-08-01
+T01978,Fashion & Apparel,SME,2025-07-01
+T01979,Food & Beverage,SME,2019-04-01
+T01980,Services,SME,2020-06-01
+T01981,Fashion & Apparel,SME,2023-08-01
+T01982,Electronics,SME,2020-08-01
+T01983,Food & Beverage,Mid,2019-12-01
+T01984,Home & Furnishing,SME,2019-05-01
+T01985,Services,Mid,2019-03-01
+T01986,Home & Furnishing,Mid,2023-02-01
+T01987,Fashion & Apparel,Mid,2025-03-01
+T01988,Services,SME,2020-06-01
+T01989,Grocery,SME,2023-11-01
+T01990,Grocery,SME,2020-08-01
+T01991,Food & Beverage,SME,2021-03-01
+T01992,Fashion & Apparel,SME,2020-09-01
+T01993,Electronics,SME,2023-06-01
+T01994,Home & Furnishing  ,SME,2020-10-01
+T01995,Fashion & Apparel,SME,2016-10-01
+T01996,Services,SME,2019-12-01
+T01997,Services,SME,2022-05-01
+T01998,Fashion & Apparel,SME,2019-08-01
+T01999,Grocery,SME,2023-11-01
+T02000,Home & Furnishing,SME,2020-02-01
+T02001,Fashion & Apparel,SME,2022-12-01
+T02002,Electronics,SME,2019-06-01
+T02003,Fashion & Apparel,SME,2019-08-01
+T02004,Fashion & Apparel,SME,2019-02-01
+T02005,Services,SME,2018-02-01
+T02006,Services,SME,2019-04-01
+T02007,Electronics,Mid,2018-04-01
+T02008,Food & Beverage,Mid,2018-08-01
+T02009,Health & Beauty,Mid,2023-02-01
+T02010,Services,Mid,2025-02-01
+T02011,Electronics  ,SME,2019-05-01
+T02011,Electronics  ,SME,2019-05-01
+T02012,Fashion & Apparel,SME,2021-02-01
+T02013,Entertainment,SME,2022-12-01
+T02014,Food & Beverage,SME,2016-02-01
+T02015,Home & Furnishing,Mid,2021-05-01
+T02016,Fashion & Apparel,Mid,2023-10-01
+T02017,,SME,2020-02-01
+T02018,Services,SME,2019-07-01
+T02019,Grocery,Large,2021-04-01
+T02020,Grocery  ,SME,2019-04-01
+T02021,Fashion & Apparel,SME,2019-07-01
+T02022,Fashion & Apparel,SME,2016-02-01
+T02023,Fashion & Apparel,SME,2020-06-01
+T02024,Fashion & Apparel,Mid,2020-04-01
+T02025,,SME,2020-03-01
+T02026,Food & Beverage,SME,2025-10-01
+T02027,Services,SME,2020-01-01
+T02028,Health & Beauty,SME,2025-07-01
+T02029,Fashion & Apparel,Large,2019-03-01
+T02030,Fashion & Apparel,Large,2021-07-01
+T02031,Fashion & Apparel,Large,2023-11-01
+T02032,Food & Beverage  ,SME,2021-02-01
+T02033,Home & Furnishing,Mid,2020-09-01
+T02034,Fashion & Apparel,SME,2016-08-01
+T02035,,SME,2021-02-01
+T02036,Home & Furnishing,SME,2019-08-01
+T02037,Fashion & Apparel,Mid,2019-03-01
+T02038,Fashion & Apparel,Mid,2021-08-01
+T02039,Fashion & Apparel,SME,2020-08-01
+T02040,Fashion & Apparel,SME,2023-09-01
+T02041,Services,SME,2020-01-01
+T02042,Electronics,SME,2020-06-01
+T02043,Fashion & Apparel,SME,2017-09-01
+T02044,Food & Beverage,Mid,2018-05-01
+T02045,Fashion & Apparel,SME,2018-10-01
+T02046,Food & Beverage,SME,2019-08-01
+T02047,Services,SME,2016-10-01
+T02048,Grocery,Mid,2019-12-01
+T02049,Food & Beverage,Mid,2022-06-01
+T02050,Entertainment,Mid,2025-09-01
+T02051,Services,SME,2020-07-01
+T02052,,SME,2022-09-01
+T02053,Fashion & Apparel,SME,2024-10-01
+T02054,Entertainment,SME,2021-05-01
+T02055,Health & Beauty,Mid,2019-02-01
+T02056,Services,Mid,2024-03-01
+T02057,Health & Beauty,SME,2018-11-01
+T02058,Fashion & Apparel,SME,2021-08-01
+T02059,Fashion & Apparel,SME,2020-12-01
+T02060,Services,SME,2023-01-01
+T02061,Fashion & Apparel,Mid,2016-05-01
+T02062,Food & Beverage,Mid,2021-07-01
+T02062,Food & Beverage,MID,2021-07-01
+T02063,Electronics,SME,2018-02-01
+T02064,,SME,2019-10-01
+T02065,Services,SME,2022-11-01
+T02066,Health & Beauty,SME,2018-11-01
+T02067,Services,SME,2024-03-01
+T02068,Health & Beauty,Mid,2019-11-01
+T02069,Electronics,Mid,2022-03-01
+T02070,Grocery,Mid,2019-07-01
+T02071,,Mid,2024-09-01
+T02072,Food & Beverage,SME,2019-07-01
+T02073,Grocery,SME,2019-08-01
+T02074,Fashion & Apparel  ,SME,2020-06-01
+T02075,Fashion & Apparel,SME,2019-09-01
+T02076,Health & Beauty,SME,2021-11-01
+T02077,Fashion & Apparel,Mid,2020-09-01
+T02078,Fashion & Apparel,SME,2016-08-01
+T02079,Food & Beverage,SME,2021-07-01
+T02080,Home & Furnishing,Mid,2018-11-01
+T02081,Health & Beauty,Mid,2018-10-01
+T02082,Food & Beverage,Mid,2021-12-01
+T02083,Food & Beverage,Mid,2024-01-01
+T02084,Food & Beverage,Large,2020-05-01
+T02085,Fashion & Apparel,Large,2023-02-01
+T02086,Services,SME,2019-06-01
+T02087,Services,SME,2021-10-01
+T02088,Food & Beverage,SME,2019-04-01
+T02089,Electronics,SME,2024-09-01
+T02090,Food & Beverage,SME,2018-02-01
+T02091,Health & Beauty,SME,2021-10-01
+T02092,Electronics,SME,2025-01-01
+T02093,Services,Mid,2017-10-01
+T02094,Electronics,SME,2020-09-01
+T02095,Health & Beauty,SME,2018-10-01
+T02096,Electronics,SME,2018-09-01
+T02097,Health & Beauty,SME,2021-10-01
+T02098,Food & Beverage,SME,2018-10-01
+T02099,Food & Beverage,SME,2022-07-01
+T02100,Food & Beverage,SME,2019-07-01
+T02101,Health & Beauty,SME,2021-11-01
+T02102,Health & Beauty,SME,2020-08-01
+T02103,Entertainment,SME,2022-11-01
+T02104,Health & Beauty  ,SME,2019-07-01
+T02105,Fashion & Apparel,SME,2024-09-01
+T02105,Fashion & Apparel,SME,2024-09-01
+T02106,Health & Beauty,SME,2020-10-01
+T02107,Home & Furnishing,SME,2019-12-01
+T02108,Fashion & Apparel,SME,2022-05-01
+T02109,Food & Beverage  ,SME,2019-11-01
+T02110,Food & Beverage,Large,2020-11-01
+T02111,Food & Beverage,SME,2020-02-01
+T02112,Health & Beauty,SME,2019-11-01
+T02113,Health & Beauty,SME,2022-01-01
+T02114,Health & Beauty,SME,2025-10-01
+T02115,Home & Furnishing,SME,2018-12-01
+T02116,Entertainment,SME,2020-01-01
+T02117,Fashion & Apparel,SME,2018-07-01
+T02118,Services,SME,2023-10-01
+T02119,Grocery,SME,2019-11-01
+T02120,Health & Beauty,SME,2022-06-01
+T02121,Food & Beverage,SME,2020-10-01
+T02122,Food & Beverage,SME,2021-02-01
+T02123,Food & Beverage,SME,2019-09-01
+T02124,Services,Mid,2020-12-01
+T02125,Home & Furnishing,SME,2021-08-01
+T02126,Fashion & Apparel,Mid,2020-06-01
+T02127,Entertainment,SME,2021-08-01
+T02128,Fashion & Apparel,Mid,2017-04-01
+T02129,Food & Beverage,Mid,2024-10-01
+T02130,Fashion & Apparel,SME,2019-09-01
+T02131,Home & Furnishing,Mid,2020-09-01
+T02132,Fashion & Apparel,SME,2017-05-01
+T02133,Fashion & Apparel,Mid,2020-06-01
+T02134,Food & Beverage,Mid,2024-07-01
+T02135,Services,SME,2019-05-01
+T02136,Health & Beauty,SME,2022-08-01
+T02137,Health & Beauty,SME,2018-04-01
+T02138,Services,SME,2019-10-01
+T02139,Fashion & Apparel,SME,2024-12-01
+T02140,Fashion & Apparel,SME,2020-12-01
+T02141,Services,SME,2024-01-01
+T02142,Fashion & Apparel,SME,2019-06-01
+T02143,Fashion & Apparel,SME,2017-05-01
+T02144,Entertainment,SME,2016-07-01
+T02145,Services,SME,2018-04-01
+T02146,Services,Mid,2020-01-01
+T02147,Entertainment,Mid,2022-03-01
+T02148,Fashion & Apparel,SME,2020-11-01
+T02149,Food & Beverage,SME,2018-02-01
+T02150,Food & Beverage,SME,2019-02-01
+T02151,Home & Furnishing,SME,2019-12-01
+T02152,Fashion & Apparel,SME,2022-07-01
+T02153,Entertainment,SME,2021-03-01
+T02154,Services,Mid,2018-07-01
+T02155,Fashion & Apparel,Mid,2021-09-01
+T02156,Food & Beverage,SME,2019-10-01
+T02157,Fashion & Apparel,SME,2025-02-01
+T02158,Fashion & Apparel,SME,2018-05-01
+T02159,Fashion & Apparel,SME,2021-07-01
+T02160,Services,SME,2020-04-01
+T02161,,SME,2016-03-01
+T02162,Home & Furnishing,SME,2023-02-01
+T02163,Health & Beauty,SME,2018-06-01
+T02164,Grocery,SME,2022-07-01
+T02165,Services,SME,2016-05-01
+T02166,Fashion & Apparel,SME,2017-03-01
+T02167,Food & Beverage,SME,2021-05-01
+T02168,Fashion & Apparel,SME,2018-09-01
+T02169,Home & Furnishing,SME,2020-10-01
+T02170,Services,SME,2020-07-01
+T02171,Services,SME,2018-06-01
+T02172,Services,SME,2020-02-01
+T02173,Services,SME,2024-05-01
+T02174,,SME,2019-09-01
+T02175,Grocery,SME,2019-09-01
+T02176,Fashion & Apparel,Mid,2017-06-01
+T02177,Electronics,Mid,2022-10-01
+T02178,Fashion & Apparel,SME,2020-05-01
+T02179,Food & Beverage,Mid,2016-12-01
+T02180,Fashion & Apparel  ,Mid,2016-04-01
+T02181,Food & Beverage,SME,2017-04-01
+T02182,Grocery,SME,2022-06-01
+T02183,Grocery,SME,2021-02-01
+T02184,Food & Beverage,SME,2023-05-01
+T02185,Grocery,SME,2020-12-01
+T02186,Entertainment,SME,2024-05-01
+T02187,Fashion & Apparel,SME,2020-10-01
+T02188,Food & Beverage,SME,2021-04-01
+T02189,Services,Mid,2018-09-01
+T02190,Health & Beauty,Mid,2021-10-01
+T02191,Grocery,Mid,2024-11-01
+T02192,Food & Beverage,SME,2018-08-01
+T02193,Fashion & Apparel,SME,2022-04-01
+T02194,Fashion & Apparel,SME,2019-07-01
+T02195,Entertainment,SME,2024-11-01
+T02196,Home & Furnishing,Mid,2019-11-01
+T02197,Food & Beverage,Mid,2021-12-01
+T02198,Health & Beauty,Mid,2019-02-01
+T02199,Fashion & Apparel,SME,2020-04-01
+T02200,Food & Beverage,SME,2023-05-01
+T02201,Grocery,SME,2019-02-01
+T02202,Fashion & Apparel,SME,2021-03-01
+T02203,Food & Beverage,SME,2020-02-01
+T02204,Services,SME,2025-03-01
+T02205,Health & Beauty,Mid,2018-11-01
+T02206,Fashion & Apparel,Mid,2023-12-01
+T02207,Fashion & Apparel,SME,2021-04-01
+T02208,Fashion & Apparel,Mid,2019-09-01
+T02209,Food & Beverage,SME,2016-03-01
+T02210,Health & Beauty,SME,2020-02-01
+T02211,Services,SME,2020-05-01
+T02212,Fashion & Apparel,Mid,2018-05-01
+T02213,Fashion & Apparel,Mid,2020-08-01
+T02214,Fashion & Apparel,SME,2018-09-01
+T02215,Services,SME,2020-02-01
+T02216,Food & Beverage,SME,2022-05-01
+T02217,Home & Furnishing,SME,2020-07-01
+T02218,Health & Beauty  ,Mid,2018-02-01
+T02219,Health & Beauty,Mid,2023-07-01
+T02220,Food & Beverage,Large,2018-08-01
+T02221,Food & Beverage,SME,2020-03-01
+T02222,Services,Mid,2017-01-01
+T02223,Food & Beverage,Mid,2020-04-01
+T02224,IT & Software,Large,2018-07-01
+T02225,Public Sector / NGO,Mid,2020-07-01
+T02226,BPO / Shared Services,Large,2018-07-01
+T02227,IT & Software,Large,2024-08-01
+T02228,Media & Marketing,SME,2020-05-01
+T02229,IT & Software,Mid,2021-04-01
+T02230,Pharma & Healthcare,SME,2019-09-01
+T02231,Finance & Insurance,SME,2020-01-01
+T02232,Engineering,SME,2025-02-01
+T02233,Professional Services,SME,2020-03-01
+T02234,IT & Software,SME,2020-12-01
+T02235,Public Sector / NGO,Mid,2021-08-01
+T02236,Pharma & Healthcare,Mid,2024-09-01
+T02237,,Mid,2018-04-01
+T02238,Engineering,Mid,2021-12-01
+T02239,Media & Marketing,Mid,2025-11-01
+T02240,IT & Software,Large,2020-01-01
+T02241,Finance & Insurance  ,Large,2023-02-01
+T02242,Finance & Insurance,Mid,2018-02-01
+T02243,Professional Services,Mid,2024-07-01
+T02244,Engineering,Mid,2018-11-01
+T02245,IT & Software,SME,2017-09-01
+T02246,IT & Software,Large,2018-10-01
+T02247,IT & Software,Large,2024-01-01
+T02248,Education,Mid,2016-09-01
+T02249,Media & Marketing,Mid,2016-11-01
+T02250,Professional Services,Mid,2020-04-01
+T02251,Public Sector / NGO,Mid,2025-05-01
+T02252,IT & Software,SME,2020-02-01
+T02253,Education,SME,2023-06-01
+T02254,IT & Software,Mid,2020-02-01
+T02255,,Mid,2025-04-01
+T02256,Finance & Insurance,Mid,2016-07-01
+T02257,Public Sector / NGO,Mid,2023-10-01
+T02258,Finance & Insurance,SME,2018-05-01
+T02259,BPO / Shared Services,Large,2021-04-01
+T02260,IT & Software,Large,2024-06-01
+T02261,IT & Software,Mid,2021-02-01
+T02262,Professional Services,Mid,2017-08-01
+T02263,Education,Mid,2023-03-01
+T02264,IT & Software,Mid,2020-05-01
+T02265,,Mid,2023-12-01
+T02266,Engineering,Mid,2018-05-01
+T02267,Pharma & Healthcare,Mid,2021-08-01
+T02268,Public Sector / NGO  ,Mid,2024-09-01
+T02269,Public Sector / NGO,SME,2017-02-01
+T02270,Engineering,Mid,2017-05-01
+T02271,Engineering,Mid,2022-06-01
+T02272,BPO / Shared Services  ,Mid,2021-06-01
+T02273,Finance & Insurance,Mid,2017-02-01
+T02274,Finance & Insurance,SME,2020-01-01
+T02275,,SME,2023-06-01
+T02276,BPO / Shared Services,Mid,2019-06-01
+T02277,Public Sector / NGO,SME,2022-10-01
+T02278,IT & Software,Mid,2019-06-01
+T02279,BPO / Shared Services,Mid,2018-10-01
+T02280,Pharma & Healthcare,SME,2020-04-01
+T02281,Public Sector / NGO,SME,2024-08-01
+T02282,Education  ,SME,2021-02-01
+T02283,Public Sector / NGO,SME,2024-03-01
+T02284,Finance & Insurance,SME,2018-03-01
+T02285,Professional Services,SME,2020-02-01
+T02286,Education,Mid,2018-07-01
+T02287,BPO / Shared Services,Mid,2023-09-01
+T02288,Finance & Insurance,Mid,2021-02-01
+T02289,Finance & Insurance,SME,2021-05-01
+T02290,IT & Software,SME,2019-11-01
+T02291,IT & Software,SME,2023-03-01
+T02292,IT & Software,Mid,2019-03-01
+T02293,IT & Software,Mid,2022-05-01
+T02294,Finance & Insurance,SME,2019-04-01
+T02295,Professional Services,Mid,2019-09-01
+T02296,Engineering,SME,2020-10-01
+T02297,IT & Software  ,SME,2019-03-01
+T02298,Pharma & Healthcare,SME,2023-10-01
+T02299,Professional Services,Mid,2021-07-01
+T02300,Professional Services,SME,2019-02-01
+T02301,Finance & Insurance,Mid,2017-12-01
+T02302,Professional Services  ,Mid,2020-06-01
+T02303,IT & Software,Mid,2023-07-01
+T02304,Public Sector / NGO,SME,2019-02-01
+T02305,IT & Software,SME,2022-04-01
+T02306,Professional Services,SME,2025-05-01
+T02307,Engineering,Mid,2016-09-01
+T02308,Education,Mid,2021-10-01
+T02309,Engineering,Mid,2024-12-01
+T02310,Media & Marketing,Large,2020-01-01
+T02311,BPO / Shared Services,Large,2025-02-01
+T02312,IT & Software,Mid,2019-10-01
+T02313,BPO / Shared Services,Mid,2022-12-01
+T02314,BPO / Shared Services,SME,2020-11-01
+T02315,Professional Services,SME,2025-12-01
+T02316,Finance & Insurance,Mid,2018-06-01
+T02317,Professional Services,Mid,2023-09-01
+T02318,Engineering,SME,2020-05-01
+T02319,Public Sector / NGO,MID,2017-03-01
+T02319,Public Sector / NGO,Mid,2017-03-01
+T02320,BPO / Shared Services,Mid,2020-04-01
+T02321,Finance & Insurance,Large,2018-06-01
+T02322,IT & Software,Large,2021-09-01
+T02323,IT & Software,Large,2024-10-01
+T02324,IT & Software  ,SME,2019-10-01
+T02325,IT & Software,SME,2018-07-01
+T02326,IT & Software,SME,2018-07-01
+T02327,Media & Marketing  ,Mid,2016-04-01
+T02328,IT & Software,Mid,2025-02-01
+T02329,Professional Services,Mid,2020-10-01
+T02330,Professional Services,Mid,2024-03-01
+T02331,IT & Software,SME,2020-06-01
+T02332,Finance & Insurance,SME,2020-02-01
+T02333,Media & Marketing,SME,2023-05-01
+T02334,,Mid,2020-04-01
+T02335,IT & Software,Mid,2020-05-01
+T02336,,SME,2020-08-01
+T02337,Finance & Insurance,SME,2021-03-01
+T02338,Education,SME,2022-09-01
+T02339,Professional Services,SME,2021-09-01
+T02340,Finance & Insurance,SME,2023-08-01
+T02341,BPO / Shared Services,Mid,2016-07-01
+T02342,Professional Services,SME,2017-04-01
+T02343,Professional Services  ,SME,2022-05-01
+T02344,Finance & Insurance,Mid,2019-04-01
+T02345,IT & Software,SME,2021-04-01
+T02346,IT & Software,SME,2021-09-01
+T02347,Finance & Insurance,SME,2020-02-01
+T02348,BPO / Shared Services,SME,2023-05-01
+T02349,Engineering,SME,2018-02-01
+T02350,Public Sector / NGO,SME,2017-10-01
+T02351,Professional Services,SME,2023-05-01
+T02352,Media & Marketing,Mid,2021-04-01
+T02353,Education,SME,2019-03-01
+T02354,Finance & Insurance,SME,2018-03-01
+T02355,Professional Services,SME,2018-06-01
+T02356,IT & Software,Mid,2018-05-01
+T02357,Pharma & Healthcare,Mid,2025-05-01
+T02358,IT & Software,Mid,2018-02-01
+T02359,IT & Software  ,Mid,2023-04-01
+T02360,Education,SME,2018-06-01
+T02361,IT & Software,Mid,2021-03-01
+T02362,Professional Services,SME,2016-06-01
+T02363,,SME,2018-08-01
+T02364,Education,SME,2021-10-01
+T02365,Media & Marketing,SME,2025-12-01
+T02366,Professional Services,Mid,2020-08-01
+T02367,Professional Services,SME,2020-06-01
+T02368,BPO / Shared Services,Mid,2019-09-01
+T02369,Professional Services,Mid,2019-02-01
+T02370,BPO / Shared Services  ,Mid,2022-04-01
+T02371,Finance & Insurance,Mid,2025-07-01
+T02372,BPO / Shared Services,Mid,2021-08-01
+T02373,Finance & Insurance,Mid,2018-10-01
+T02374,IT & Software,Mid,2023-01-01
+T02375,BPO / Shared Services,SME,2019-03-01
+T02376,Professional Services,SME,2022-05-01
+T02377,Public Sector / NGO,SME,2021-03-01
+T02378,IT & Software,Mid,2020-04-01
+T02379,IT & Software,Mid,2023-06-01
+T02380,Media & Marketing,SME,2019-08-01
+T02381,,SME,2025-01-01
+T02382,Education,SME,2016-08-01
+T02383,IT & Software,Large,2020-06-01
+T02384,BPO / Shared Services,Large,2023-07-01
+T02385,BPO / Shared Services,SME,2020-11-01
+T02386,Pharma & Healthcare,SME,2023-12-01
+T02387,Finance & Insurance,SME,2020-10-01
+T02388,Engineering,SME,2019-11-01
+T02389,BPO / Shared Services,SME,2020-01-01
+T02390,Public Sector / NGO,Mid,2019-02-01
+T02391,IT & Software,Mid,2018-06-01
+T02392,Professional Services,Mid,2020-12-01
+T02393,IT & Software,SME,2018-09-01
+T02394,Finance & Insurance,SME,2023-11-01
+T02395,BPO / Shared Services,SME,2017-05-01
+T02396,Pharma & Healthcare,SME,2017-11-01
+T02397,Engineering,Large,2020-08-01
+T02398,Pharma & Healthcare,SME,2020-10-01
+T02399,Professional Services,Mid,2019-11-01
+T02400,Professional Services,Mid,2024-12-01
+T02401,Engineering,SME,2018-11-01
+T02402,Professional Services,SME,2022-06-01
+T02403,Engineering,SME,2019-01-01
+T02404,IT & Software,SME,2020-09-01
+T02405,IT & Software,SME,2024-10-01
+T02406,IT & Software,SME,2021-06-01
+T02407,Pharma & Healthcare,SME,2018-07-01
+T02408,Engineering,SME,2022-02-01
+T02409,Professional Services,SME,2020-03-01
+T02410,BPO / Shared Services  ,SME,2025-10-01
+T02411,Finance & Insurance  ,Mid,2019-03-01
+T02412,Finance & Insurance,Mid,2024-04-01
+T02413,Finance & Insurance,SME,2018-12-01
+T02414,,Mid,2019-03-01
+T02415,Professional Services,SME,2016-02-01
+T02416,Professional Services,SME,2021-08-01
+T02417,Media & Marketing,SME,2025-04-01
+T02418,Finance & Insurance,Mid,2021-09-01
+T02419,Professional Services,Mid,2019-10-01
+T02420,Finance & Insurance,SME,2018-08-01
+T02421,Finance & Insurance,Mid,2019-06-01
+T02422,BPO / Shared Services,SME,2019-10-01
+T02423,IT & Software,SME,2020-06-01
+T02424,IT & Software,SME,2023-07-01
+T02425,BPO / Shared Services,SME,2018-06-01
+T02426,Media & Marketing,Mid,2020-04-01
+T02427,Public Sector / NGO,Mid,2025-07-01
+T02428,IT & Software,SME,2018-10-01
+T02429,Professional Services,SME,2022-02-01
+T02430,BPO / Shared Services,SME,2025-05-01
+T02431,BPO / Shared Services,SME,2018-04-01
+T02432,BPO / Shared Services,SME,2023-10-01
+T02433,Finance & Insurance,Mid,2019-04-01
+T02434,IT & Software,SME,2019-08-01
+T02435,BPO / Shared Services,Mid,2019-08-01
+T02435,BPO / Shared Services,MID,2019-08-01
+T02436,Engineering,Mid,2019-08-01
+T02437,IT & Software,Mid,2025-07-01
+T02438,Finance & Insurance,Mid,2018-06-01
+T02439,IT & Software,Mid,2021-01-01
+T02440,Professional Services,Mid,2024-03-01
+T02441,Engineering,Mid,2020-04-01
+T02442,Media & Marketing,SME,2021-08-01
+T02443,Professional Services,SME,2020-11-01
+T02444,Finance & Insurance,SME,2018-09-01
+T02445,Pharma & Healthcare,Mid,2019-10-01
+T02446,,Mid,2022-11-01
+T02447,IT & Software,SME,2018-07-01
+T02448,Media & Marketing,Mid,2018-04-01
+T02449,Finance & Insurance,SME,2020-03-01
+T02450,Engineering,SME,2020-03-01
+T02451,IT & Software,SME,2022-07-01
+T02452,Media & Marketing  ,Mid,2021-06-01
+T02453,Pharma & Healthcare  ,SME,2018-03-01
+T02454,Finance & Insurance,SME,2025-02-01
+T02455,,Large,2020-06-01
+T02456,Pharma & Healthcare,Mid,2019-09-01
+T02457,IT & Software,Mid,2024-11-01
+T02458,Professional Services,SME,2019-09-01
+T02459,IT & Software,SME,2018-10-01
+T02460,IT & Software,Mid,2021-06-01
+T02461,Professional Services,SME,2018-12-01
+T02462,Pharma & Healthcare,Mid,2019-10-01
+T02463,Public Sector / NGO,Mid,2025-11-01
+T02464,Public Sector / NGO,SME,2020-02-01
+T02465,Pharma & Healthcare,SME,2024-04-01
+T02466,IT & Software,Mid,2018-06-01
+T02467,IT & Software,Mid,2020-02-01
+T02468,BPO / Shared Services  ,SME,2020-03-01
+T02469,Finance & Insurance,SME,2020-05-01
+T02470,BPO / Shared Services,SME,2020-08-01
+T02471,Professional Services,SME,2025-12-01
+T02472,IT & Software,SME,2020-01-01
+T02473,Public Sector / NGO,SME,2025-08-01
+T02474,IT & Software,SME,2018-09-01
+T02475,BPO / Shared Services,Mid,2020-06-01
+T02476,BPO / Shared Services,Mid,2023-09-01
+T02477,Professional Services,Mid,2018-03-01
+T02478,BPO / Shared Services,Mid,2023-04-01
+T02479,Professional Services,SME,2020-11-01
+T02480,Finance & Insurance,SME,2019-06-01
+T02481,Public Sector / NGO,Large,2019-01-01
+T02482,IT & Software,Large,2022-04-01
+T02483,BPO / Shared Services,Mid,2020-02-01
+T02484,BPO / Shared Services,SME,2020-06-01
+T02485,Media & Marketing,SME,2020-02-01
+T02486,Engineering,SME,2020-12-01
+T02487,Education,Mid,2019-11-01
+T02488,Professional Services,Mid,2017-12-01
+T02489,Engineering,SME,2018-03-01
+T02490,Pharma & Healthcare  ,SME,2023-01-01
+T02491,,Mid,2019-06-01
+T02492,Professional Services,Mid,2020-01-01
+T02493,IT & Software,SME,2018-08-01
+T02494,IT & Software,SME,2019-10-01
+T02495,Media & Marketing,SME,2023-11-01
+T02496,,Mid,2016-10-01
+T02497,Finance & Insurance,SME,2021-02-01
+T02498,BPO / Shared Services,Mid,2020-07-01
+T02499,Media & Marketing,Mid,2018-01-01
+T02500,Education,SME,2018-04-01
+T02501,IT & Software,SME,2016-09-01
+T02502,BPO / Shared Services,SME,2021-12-01
+T02503,Professional Services  ,Mid,2018-02-01
+T02504,Engineering,SME,2019-06-01
+T02505,IT & Software,SME,2022-07-01
+T02506,Finance & Insurance,Mid,2019-04-01
+T02507,Media & Marketing,Mid,2022-05-01
+T02508,BPO / Shared Services,SME,2019-11-01
+T02509,Pharma & Healthcare,Mid,2021-08-01
+T02510,IT & Software,Mid,2020-05-01
+T02511,IT & Software,Mid,2018-08-01
+T02512,Professional Services,Mid,2020-08-01
+T02513,Pharma & Healthcare,Mid,2020-02-01
+T02514,Finance & Insurance,SME,2021-02-01
+T02515,BPO / Shared Services,SME,2020-08-01
+T02516,Engineering,Mid,2019-05-01
+T02517,,Mid,2021-06-01
+T02518,Professional Services,Mid,2024-10-01
+T02519,BPO / Shared Services,Mid,2020-09-01
+T02520,IT & Software,Mid,2017-06-01
+T02521,IT & Software,Mid,2020-07-01
+T02522,BPO / Shared Services,Mid,2023-09-01
+T02523,Pharma & Healthcare,SME,2019-08-01
+T02524,BPO / Shared Services,SME,2023-01-01
+T02525,Media & Marketing,SME,2018-05-01
+T02526,Pharma & Healthcare,Mid,2020-09-01
+T02527,BPO / Shared Services,Mid,2021-06-01
+T02528,BPO / Shared Services,Mid,2018-08-01
+T02529,IT & Software,Mid,2021-03-01
+T02530,Professional Services,SME,2019-11-01
+T02531,Finance & Insurance,SME,2023-04-01
+T02532,Pharma & Healthcare,SME,2020-03-01
+T02533,Engineering,SME,2018-01-01
+T02534,BPO / Shared Services,SME,2019-10-01
+T02535,IT & Software,Mid,2019-04-01
+T02536,Engineering,Mid,2025-05-01
+T02537,IT & Software,SME,2020-07-01
+T02538,Professional Services,SME,2025-08-01
+T02539,Education,SME,2020-12-01
+T02540,IT & Software,Mid,2018-11-01
+T02541,Professional Services,Mid,2020-10-01
+T02542,Public Sector / NGO,SME,2019-02-01
+T02543,Professional Services,SME,2016-04-01
+T02544,Public Sector / NGO,Mid,2020-11-01
+T02545,Media & Marketing,SME,2023-03-01
+T02546,IT & Software,SME,2020-01-01
+T02547,BPO / Shared Services,SME,2018-06-01
+T02548,Professional Services,SME,2024-08-01
+T02549,Media & Marketing  ,Mid,2018-10-01
+T02550,BPO / Shared Services,Large,2018-07-01
+T02551,IT & Software,Mid,2017-02-01
+T02552,Professional Services,Large,2018-08-01
+T02553,Professional Services,SME,2021-03-01
+T02554,Professional Services,SME,2019-07-01
+T02555,BPO / Shared Services,SME,2022-11-01
+T02556,BPO / Shared Services,Mid,2018-03-01
+T02557,BPO / Shared Services,Mid,2022-03-01
+T02558,IT & Software,Mid,2018-10-01
+T02559,Finance & Insurance,Mid,2020-08-01
+T02560,Professional Services,Large,2020-04-01
+T02561,Public Sector / NGO,Large,2023-10-01
+T02562,,Mid,2018-02-01
+T02563,Professional Services,Mid,2023-12-01
+T02564,BPO / Shared Services,SME,2019-02-01
+T02565,BPO / Shared Services,SME,2024-03-01
+T02566,IT & Software,SME,2019-06-01
+T02567,Professional Services,SME,2020-03-01
+T02568,BPO / Shared Services  ,Mid,2019-09-01
+T02569,IT & Software,Mid,2024-03-01
+T02570,Media & Marketing,Large,2018-03-01
+T02571,BPO / Shared Services,Mid,2019-06-01
+T02572,IT & Software,Mid,2018-12-01
+T02573,BPO / Shared Services,Mid,2019-10-01
+T02574,Engineering,SME,2019-02-01
+T02575,IT & Software,SME,2023-03-01
+T02576,IT & Software,SME,2017-05-01
+T02577,IT & Software,SME,2016-04-01
+T02578,Finance & Insurance,Mid,2019-01-01
+T02579,Professional Services,Mid,2020-05-01
+T02580,IT & Software,SME,2022-02-01
+T02581,Engineering,Mid,2017-05-01
+T02582,Professional Services,Mid,2025-01-01
+T02583,,SME,2019-12-01
+T02584,IT & Software,Mid,2018-07-01
+T02585,,Mid,2023-08-01
+T02586,Professional Services  ,SME,2019-12-01
+T02587,Professional Services,SME,2023-06-01
+T02588,Media & Marketing,Mid,2022-06-01
+T02589,IT & Software,SME,2017-09-01
+T02590,BPO / Shared Services,SME,2021-06-01
+T02591,Education  ,SME,2025-01-01
+T02592,Media & Marketing,SME,2016-09-01
+T02593,BPO / Shared Services,SME,2019-05-01
+T02594,Education,SME,2024-03-01
+T02595,BPO / Shared Services  ,SME,2019-09-01
+T02596,Professional Services,SME,2022-12-01
+T02597,BPO / Shared Services,SME,2025-05-01
+T02598,IT & Software,SME,2020-06-01
+T02599,BPO / Shared Services,SME,2024-05-01
+T02600,BPO / Shared Services,Mid,2019-07-01
+T02601,Education,SME,2020-05-01
+T02602,BPO / Shared Services,SME,2018-06-01
+T02603,Professional Services,Mid,2018-10-01
+T02604,BPO / Shared Services,SME,2020-10-01
+T02605,BPO / Shared Services,Mid,2020-07-01
+T02606,Media & Marketing,Mid,2018-11-01
+T02607,BPO / Shared Services,Mid,2024-04-01
+T02608,Finance & Insurance,SME,2019-03-01
+T02609,BPO / Shared Services,SME,2018-01-01
+T02610,BPO / Shared Services,SME,2019-11-01
+T02611,IT & Software,SME,2018-07-01
+T02612,IT & Software,SME,2017-06-01
+T02613,IT & Software,SME,2024-01-01
+T02614,Pharma & Healthcare,Mid,2016-12-01
+T02615,Education,SME,2019-04-01
+T02616,IT & Software,SME,2024-10-01
+T02617,IT & Software,SME,2019-01-01
+T02618,Finance & Insurance,SME,2025-11-01
+T02619,Finance & Insurance,SME,2020-08-01
+T02620,Pharma & Healthcare,Mid,2018-05-01
+T02621,Pharma & Healthcare,Large,2019-04-01
+T02622,IT & Software,Large,2023-09-01
+T02623,Finance & Insurance,SME,2019-12-01
+T02624,BPO / Shared Services,Mid,2019-12-01
+T02625,Finance & Insurance,SME,2019-03-01
+T02626,Engineering,Mid,2019-01-01
+T02627,Public Sector / NGO,Mid,2025-04-01
+T02628,Professional Services,SME,2018-03-01
+T02629,BPO / Shared Services,Mid,2018-08-01
+T02630,Professional Services,Mid,2021-09-01
+T02631,Media & Marketing,Mid,2025-04-01
+T02632,BPO / Shared Services,Mid,2020-03-01
+T02633,BPO / Shared Services,Mid,2017-08-01
+T02634,Public Sector / NGO,Mid,2022-09-01
+T02635,IT & Software  ,Mid,2018-03-01
+T02636,Professional Services,Mid,2021-02-01
+T02637,BPO / Shared Services,SME,2019-12-01
+T02638,Professional Services,SME,2020-09-01
+T02639,,Mid,2018-08-01
+T02640,Finance & Insurance,Mid,2022-03-01
+T02641,Professional Services,Mid,2025-10-01
+T02642,IT & Software,Mid,2020-11-01
+T02643,Engineering,Mid,2025-06-01
+T02644,Professional Services,SME,2020-06-01
+T02645,Public Sector / NGO,SME,2020-09-01
+T02646,Pharma & Healthcare,SME,2025-09-01
+T02647,Education  ,Mid,2018-05-01
+T02648,BPO / Shared Services,Mid,2025-04-01
+T02649,IT & Software,SME,2018-03-01
+T02650,Finance & Insurance  ,Mid,2020-03-01
+T02651,Pharma & Healthcare,SME,2018-08-01
+T02652,Pharma & Healthcare  ,SME,2021-12-01
+T02653,IT & Software,Mid,2019-04-01
+T02654,Education,Mid,2025-01-01
+T02655,Engineering,SME,2020-11-01
+T02656,IT & Software,Mid,2022-07-01
+T02657,Professional Services,Mid,2022-01-01
+T02658,Pharma & Healthcare,Mid,2021-03-01
+T02659,BPO / Shared Services,SME,2020-01-01
+T02660,Professional Services,SME,2018-02-01
+T02661,IT & Software  ,SME,2019-03-01
+T02662,IT & Software,SME,2022-09-01
+T02663,BPO / Shared Services,SME,2016-09-01
+T02664,Pharma & Healthcare,Mid,2018-02-01
+T02665,Professional Services,Mid,2021-12-01
+T02666,Engineering,SME,2024-03-01
+T02667,Pharma & Healthcare,Mid,2025-02-01
+T02668,BPO / Shared Services,SME,2020-06-01
+T02669,Professional Services,SME,2018-12-01
+T02670,Finance & Insurance,SME,2019-08-01
+T02671,Pharma & Healthcare,SME,2023-06-01
+T02672,Pharma & Healthcare,Mid,2018-06-01
+T02673,IT & Software,Mid,2021-08-01
+T02674,Finance & Insurance,SME,2019-07-01
+T02675,IT & Software,Mid,2019-08-01
+T02676,BPO / Shared Services,Mid,2022-12-01
+T02677,BPO / Shared Services,Mid,2019-08-01
+T02678,IT & Software,Mid,2025-10-01
+T02679,Pharma & Healthcare,Mid,2020-01-01
+T02680,Professional Services,SME,2017-05-01
+T02681,Entertainment,Mid,2021-08-01
+T02682,Food & Beverage,Mid,2024-10-01
+T02683,Fashion & Apparel,SME,2019-06-01
+T02684,Health & Beauty,SME,2020-10-01
+T02685,,SME,2019-02-01
+T02686,Health & Beauty,SME,2018-04-01
+T02687,Fashion & Apparel,SME,2019-02-01
+T02688,Home & Furnishing,SME,2020-06-01
+T02689,Home & Furnishing,Mid,2020-06-01
+T02690,Food & Beverage,Mid,2017-10-01
+T02691,,Mid,2022-12-01
+T02692,Health & Beauty,Mid,2020-02-01
+T02693,Fashion & Apparel,SME,2020-12-01
+T02694,Fashion & Apparel,SME,2018-12-01
+T02695,Fashion & Apparel,SME,2023-01-01
+T02696,Home & Furnishing,SME,2021-07-01
+T02697,Electronics,SME,2021-12-01
+T02698,Food & Beverage,SME,2024-07-01
+T02699,Fashion & Apparel,Large,2019-07-01
+T02700,Fashion & Apparel,SME,2019-08-01
+T02701,Health & Beauty,SME,2021-05-01
+T02702,Electronics,SME,2019-01-01
+T02703,Fashion & Apparel,Mid,2019-08-01
+T02704,Food & Beverage,SME,2020-03-01
+T02705,Food & Beverage,SME,2023-04-01
+T02706,Health & Beauty,SME,2020-02-01
+T02707,Fashion & Apparel,SME,2021-05-01
+T02708,Home & Furnishing,SME,2023-07-01
+T02709,,Mid,2018-07-01
+T02710,Health & Beauty,Mid,2024-08-01
+T02711,Electronics,Mid,2020-10-01
+T02712,Food & Beverage,SME,2018-09-01
+T02713,Food & Beverage,SME,2022-02-01
+T02714,Services,SME,2019-10-01
+T02715,Fashion & Apparel,SME,2022-11-01
+T02716,Grocery,SME,2025-02-01
+T02717,Fashion & Apparel,SME,2020-11-01
+T02718,Grocery,SME,2018-04-01
+T02719,Health & Beauty,Mid,2018-02-01
+T02720,Home & Furnishing,Mid,2022-04-01
+T02721,Fashion & Apparel,Mid,2025-06-01
+T02722,Fashion & Apparel,SME,2018-08-01
+T02723,Grocery,SME,2018-07-01
+T02724,Fashion & Apparel,SME,2020-05-01
+T02725,Fashion & Apparel,SME,2019-06-01
+T02726,Grocery,SME,2024-07-01
+T02727,Services,SME,2019-05-01
+T02728,Food & Beverage,SME,2020-07-01
+T02729,Health & Beauty,SME,2025-04-01
+T02730,Food & Beverage,SME,2022-02-01
+T02731,Electronics,SME,2016-04-01
+T02732,Fashion & Apparel,SME,2021-04-01
+T02733,Food & Beverage  ,SME,2019-12-01
+T02734,Health & Beauty,SME,2019-04-01
+T02735,Food & Beverage,SME,2020-09-01
+T02736,Grocery,SME,2021-11-01
+T02737,Food & Beverage,SME,2024-05-01
+T02738,Home & Furnishing,SME,2021-06-01
+T02739,Fashion & Apparel,SME,2024-07-01
+T02740,Health & Beauty  ,SME,2020-10-01
+T02741,Services,SME,2024-10-01
+T02742,Grocery,SME,2019-08-01
+T02743,Fashion & Apparel,Large,2020-03-01
+T02744,Grocery,Large,2025-01-01
+T02745,Health & Beauty,SME,2018-12-01
+T02746,Services,Mid,2020-10-01
+T02747,,SME,2019-09-01
+T02748,Food & Beverage,SME,2021-04-01
+T02749,Electronics,SME,2019-04-01
+T02750,Fashion & Apparel,SME,2021-04-01
+T02751,Home & Furnishing,SME,2020-05-01
+T02752,Fashion & Apparel,Mid,2018-12-01
+T02753,Fashion & Apparel,Mid,2022-03-01
+T02754,Fashion & Apparel,SME,2020-05-01
+T02755,Health & Beauty,Mid,2021-07-01
+T02756,Services,Mid,2019-08-01
+T02757,Electronics,SME,2020-01-01
+T02758,Food & Beverage,Mid,2018-07-01
+T02759,Fashion & Apparel,Mid,2025-01-01
+T02760,Fashion & Apparel,Mid,2018-11-01
+T02761,Entertainment,Mid,2021-12-01
+T02762,Food & Beverage,Mid,2024-01-01
+T02763,Home & Furnishing,SME,2017-05-01
+T02764,Grocery,SME,2019-02-01
+T02765,Fashion & Apparel,SME,2019-05-01
+T02766,Food & Beverage,Mid,2018-02-01
+T02767,Fashion & Apparel,Mid,2023-08-01
+T02768,,SME,2019-01-01
+T02769,Services,SME,2020-06-01
+T02770,Electronics,SME,2023-07-01
+T02771,Grocery,Mid,2017-10-01
+T02772,Fashion & Apparel,Mid,2025-12-01
+T02773,Food & Beverage,SME,2021-02-01
+T02774,Services,SME,2019-11-01
+T02775,Services,SME,2024-12-01
+T02776,Food & Beverage,SME,2019-02-01
+T02777,Fashion & Apparel  ,Mid,2016-10-01
+T02778,Services,Mid,2023-12-01
+T02779,Health & Beauty,Mid,2020-02-01
+T02780,Health & Beauty,SME,2019-11-01
+T02781,Services,SME,2022-10-01
+T02782,,SME,2020-12-01
+T02783,Food & Beverage,Mid,2019-02-01
+T02784,Food & Beverage,Mid,2021-07-01
+T02785,Health & Beauty,Mid,2016-08-01
+T02786,Home & Furnishing,Mid,2022-03-01
+T02787,Food & Beverage,SME,2019-03-01
+T02788,Health & Beauty,SME,2024-12-01
+T02789,Fashion & Apparel,SME,2019-02-01
+T02790,Services,SME,2022-03-01
+T02791,Health & Beauty,SME,2020-04-01
+T02792,Fashion & Apparel,SME,2025-06-01
+T02793,Food & Beverage,SME,2019-10-01
+T02794,Food & Beverage,SME,2019-06-01
+T02795,Home & Furnishing,SME,2020-05-01
+T02796,Fashion & Apparel,SME,2021-07-01
+T02797,Fashion & Apparel,SME,2019-08-01
+T02798,Food & Beverage,SME,2021-10-01
+T02798,Food & Beverage,SME,2021-10-01
+T02799,Health & Beauty,SME,2024-11-01
+T02800,Services,Mid,2020-10-01
+T02801,Fashion & Apparel,Mid,2023-04-01
+T02802,Grocery,SME,2018-08-01
+T02803,Services,SME,2020-06-01
+T02804,Fashion & Apparel,SME,2023-07-01
+T02805,Fashion & Apparel,SME,2019-08-01
+T02806,Fashion & Apparel,SME,2022-11-01
+T02807,Food & Beverage,SME,2018-07-01
+T02808,Home & Furnishing,SME,2021-08-01
+T02809,Grocery  ,Mid,2017-08-01
+T02810,Food & Beverage,SME,2020-03-01
+T02811,Fashion & Apparel,SME,2024-02-01
+T02812,Fashion & Apparel,SME,2020-10-01
+T02813,Health & Beauty,SME,2024-02-01
+T02814,Food & Beverage,SME,2020-07-01
+T02815,Grocery,Mid,2020-08-01
+T02816,Fashion & Apparel,SME,2020-10-01
+T02817,Entertainment,Mid,2019-02-01
+T02818,Fashion & Apparel,SME,2017-01-01
+T02819,Fashion & Apparel,SME,2019-01-01
+T02820,Services,SME,2022-04-01
+T02821,Grocery,SME,2017-07-01
+T02822,Food & Beverage,SME,2024-12-01
+T02823,Food & Beverage,Mid,2018-12-01
+T02824,Fashion & Apparel,Mid,2024-01-01
+T02825,Electronics,Mid,2016-08-01
+T02826,Fashion & Apparel,SME,2019-05-01
+T02827,Fashion & Apparel,Mid,2019-10-01
+T02828,Home & Furnishing  ,SME,2021-02-01
+T02829,Fashion & Apparel,SME,2023-08-01
+T02830,Food & Beverage,Large,2019-07-01
+T02831,Health & Beauty,SME,2018-02-01
+T02832,Food & Beverage,SME,2025-01-01
+T02833,Fashion & Apparel,Mid,2019-12-01
+T02834,Electronics,Mid,2022-02-01
+T02835,Entertainment,SME,2017-01-01
+T02836,Electronics,SME,2020-04-01
+T02837,Food & Beverage,SME,2019-04-01
+T02838,Health & Beauty,Mid,2022-01-01
+T02839,Fashion & Apparel,Mid,2020-06-01
+T02840,Food & Beverage,Mid,2020-08-01
+T02841,Health & Beauty,SME,2019-02-01
+T02842,Fashion & Apparel,Mid,2019-11-01
+T02843,Services  ,Mid,2024-08-01
+T02844,Health & Beauty,SME,2020-11-01
+T02845,Fashion & Apparel,SME,2019-07-01
+T02846,Electronics,SME,2021-02-01
+T02847,Food & Beverage,Mid,2021-10-01
+T02848,Fashion & Apparel,SME,2018-04-01
+T02849,Services,Mid,2020-06-01
+T02850,Health & Beauty,Mid,2019-06-01
+T02851,Home & Furnishing,Mid,2020-04-01
+T02852,Food & Beverage  ,Mid,2018-11-01
+T02853,Services,Mid,2024-12-01
+T02854,Health & Beauty,SME,2019-07-01
+T02855,Fashion & Apparel,SME,2022-05-01
+T02856,Food & Beverage,SME,2020-03-01
+T02857,Services,SME,2019-10-01
+T02858,Food & Beverage,SME,2022-11-01
+T02859,Fashion & Apparel,SME,2020-07-01
+T02860,Entertainment,SME,2025-08-01
+T02861,Services,Mid,2018-06-01
+T02862,Grocery,SME,2020-06-01
+T02863,Food & Beverage,SME,2024-09-01
+T02864,Food & Beverage,Mid,2019-02-01
+T02865,Entertainment,SME,2018-12-01
+T02866,Fashion & Apparel,SME,2022-02-01
+T02867,Fashion & Apparel,SME,2020-04-01
+T02868,Health & Beauty,SME,2021-08-01
+T02869,Food & Beverage,Mid,2018-12-01
+T02870,Entertainment,Mid,2022-01-01
+T02871,Health & Beauty,SME,2017-04-01
+T02872,Fashion & Apparel,SME,2025-09-01
+T02873,Food & Beverage,SME,2017-02-01
+T02874,Grocery,SME,2025-04-01
+T02875,Home & Furnishing,SME,2019-07-01
+T02876,Services,SME,2020-10-01
+T02877,,Mid,2020-10-01
+T02878,Fashion & Apparel,Mid,2024-06-01
+T02879,Food & Beverage,SME,2020-11-01
+T02880,Fashion & Apparel  ,SME,2019-06-01
+T02881,Fashion & Apparel,SME,2017-06-01
+T02882,Services,SME,2019-05-01
+T02883,,SME,2016-03-01
+T02884,Entertainment,SME,2023-08-01
+T02885,Home & Furnishing,SME,2018-05-01
+T02886,Health & Beauty,SME,2018-08-01
+T02887,Home & Furnishing,SME,2018-08-01
+T02888,Health & Beauty,SME,2023-06-01
+T02889,Entertainment,SME,2019-07-01
+T02890,Health & Beauty,SME,2023-02-01
+T02891,Food & Beverage,SME,2018-02-01
+T02892,Fashion & Apparel,SME,2021-03-01
+T02893,Fashion & Apparel,SME,2025-02-01
+T02894,Electronics,SME,2019-02-01
+T02895,Fashion & Apparel,SME,2021-10-01
+T02896,Fashion & Apparel,SME,2023-12-01
+T02897,Fashion & Apparel,Mid,2020-09-01
+T02898,Electronics,Large,2020-08-01
+T02899,Fashion & Apparel,Large,2022-09-01
+T02900,Services,SME,2022-06-01
+T02901,Food & Beverage,SME,2021-07-01
+T02902,Food & Beverage,SME,2016-07-01
+T02903,Health & Beauty,Mid,2019-10-01
+T02904,Fashion & Apparel,Mid,2017-09-01
+T02905,Health & Beauty,Mid,2024-07-01
+T02906,Fashion & Apparel,SME,2020-11-01
+T02907,Health & Beauty,SME,2023-04-01
+T02908,Health & Beauty,SME,2018-01-01
+T02909,Fashion & Apparel,SME,2018-11-01
+T02910,Food & Beverage,SME,2019-07-01
+T02911,Fashion & Apparel,SME,2025-05-01
+T02912,Services,SME,2019-09-01
+T02913,Food & Beverage,SME,2019-12-01
+T02914,Food & Beverage,SME,2025-05-01
+T02915,Services,SME,2018-03-01
+T02916,Food & Beverage,SME,2021-05-01
+T02917,Health & Beauty,SME,2022-01-01
+T02918,Engineering,SME,2020-09-01
+T02919,IT & Software,SME,2025-05-01
+T02920,Public Sector / NGO,SME,2021-03-01
+T02921,Pharma & Healthcare,SME,2022-09-01
+T02922,Pharma & Healthcare,Mid,2019-05-01
+T02923,Public Sector / NGO,Mid,2025-08-01
+T02924,IT & Software,Mid,2018-03-01
+T02925,IT & Software,Mid,2021-09-01
+T02926,Professional Services  ,Mid,2020-08-01
+T02927,Engineering,SME,2017-02-01
+T02928,Professional Services,SME,2022-07-01
+T02929,IT & Software,Mid,2019-09-01
+T02930,Finance & Insurance,Mid,2025-11-01
+T02931,IT & Software,SME,2021-05-01
+T02932,IT & Software,Mid,2019-12-01
+T02933,IT & Software,Mid,2023-01-01
+T02934,,SME,2021-04-01
+T02935,Media & Marketing,Large,2020-04-01
+T02936,Media & Marketing,Large,2022-09-01
+T02937,Professional Services,Large,2025-10-01
+T02938,Public Sector / NGO,Mid,2019-06-01
+T02939,BPO / Shared Services,Mid,2021-07-01
+T02940,IT & Software  ,Mid,2025-01-01
+T02941,BPO / Shared Services,SME,2020-06-01
+T02942,BPO / Shared Services,Large,2016-04-01
+T02943,Professional Services,Large,2025-06-01
+T02944,Professional Services,SME,2018-11-01
+T02945,IT & Software,Mid,2020-12-01
+T02946,IT & Software,Mid,2020-09-01
+T02947,BPO / Shared Services,SME,2020-01-01
+T02948,Public Sector / NGO,SME,2023-04-01
+T02949,IT & Software,Mid,2018-06-01
+T02950,BPO / Shared Services,Mid,2024-11-01
+T02951,Finance & Insurance  ,Mid,2016-04-01
+T02952,BPO / Shared Services,Mid,2023-07-01
+T02953,IT & Software,SME,2019-02-01
+T02954,,SME,2025-02-01
+T02955,BPO / Shared Services,SME,2023-01-01
+T02956,IT & Software,SME,2018-10-01
+T02957,Finance & Insurance,SME,2022-02-01
+T02958,IT & Software,SME,2016-02-01
+T02959,BPO / Shared Services,Mid,2019-06-01
+T02960,Professional Services,Mid,2025-04-01
+T02961,BPO / Shared Services,Mid,2017-02-01
+T02962,IT & Software,Mid,2024-03-01
+T02963,BPO / Shared Services,SME,2021-05-01
+T02964,IT & Software,SME,2019-04-01
+T02965,Pharma & Healthcare,SME,2020-07-01
+T02966,Media & Marketing,Mid,2020-07-01
+T02967,IT & Software,Mid,2023-10-01
+T02968,Media & Marketing,Large,2019-12-01
+T02969,Pharma & Healthcare,Large,2025-03-01
+T02970,BPO / Shared Services,SME,2016-04-01
+T02971,Pharma & Healthcare,SME,2025-01-01
+T02972,IT & Software,Mid,2019-01-01
+T02973,Finance & Insurance,Mid,2019-01-01
+T02974,BPO / Shared Services,Mid,2022-12-01
+T02975,,Mid,2021-06-01
+T02976,Professional Services,Mid,2017-04-01
+T02977,IT & Software,Mid,2022-05-01
+T02978,Engineering,SME,2021-09-01
+T02979,Pharma & Healthcare,SME,2025-03-01
+T02980,Public Sector / NGO,Large,2020-06-01
+T02981,Education,Mid,2020-08-01
+T02982,BPO / Shared Services,SME,2019-12-01
+T02983,Finance & Insurance,SME,2025-07-01
+T02984,Public Sector / NGO,SME,2019-04-01
+T02985,Media & Marketing,SME,2025-05-01
+T02986,Pharma & Healthcare,Mid,2019-06-01
+T02987,IT & Software  ,Large,2019-04-01
+T02988,IT & Software,Mid,2018-08-01
+T02989,BPO / Shared Services,Mid,2023-11-01
+T02990,IT & Software,SME,2018-12-01
+T02991,Pharma & Healthcare,SME,2025-03-01
+T02992,IT & Software,Mid,2017-02-01
+T02993,Education,SME,2022-03-01
+T02994,IT & Software,SME,2018-05-01
+T02995,Pharma & Healthcare,Mid,2016-05-01
+T02996,Media & Marketing,Mid,2022-07-01
+T02997,BPO / Shared Services,Mid,2017-09-01
+T02998,Media & Marketing,SME,2017-01-01
+T02999,Engineering,SME,2025-08-01
+T03000,Engineering,Mid,2018-06-01
+T03001,Education,Mid,2022-03-01
+T03002,Public Sector / NGO,SME,2019-11-01
+T03003,BPO / Shared Services,Mid,2018-08-01
+T03004,BPO / Shared Services,Mid,2022-04-01
+T03005,IT & Software,SME,2016-06-01
+T03006,Education,SME,2020-08-01
+T03007,Professional Services,SME,2020-07-01
+T03008,Public Sector / NGO,SME,2023-09-01
+T03009,IT & Software,Large,2017-12-01
+T03010,Engineering,Mid,2018-07-01
+T03011,Pharma & Healthcare,Mid,2019-04-01
+T03012,Education,Mid,2022-10-01
+T03013,Pharma & Healthcare,Mid,2018-11-01
+T03014,IT & Software,Mid,2025-03-01
+T03015,Engineering,Mid,2021-07-01
+T03016,IT & Software,SME,2019-02-01
+T03017,Professional Services,SME,2025-05-01
+T03018,Pharma & Healthcare,SME,2019-11-01
+T03019,Professional Services,SME,2025-02-01
+T03020,Finance & Insurance,SME,2018-08-01
+T03021,BPO / Shared Services,Mid,2018-08-01
+T03022,Public Sector / NGO,Mid,2021-03-01
+T03023,Professional Services,Mid,2021-05-01
+T03024,Professional Services,Mid,2018-02-01
+T03025,Professional Services,Mid,2020-01-01
+T03026,IT & Software,SME,2019-12-01
+T03027,BPO / Shared Services,SME,2023-07-01
+T03028,Pharma & Healthcare  ,SME,2018-09-01
+T03029,IT & Software,Mid,2019-01-01
+T03030,IT & Software  ,Mid,2024-03-01
+T03031,Pharma & Healthcare,Mid,2019-06-01
+T03032,Engineering,Mid,2022-07-01
+T03033,Professional Services,Mid,2025-09-01
+T03034,Finance & Insurance,Mid,2021-04-01
+T03035,Engineering,SME,2018-06-01
+T03036,Engineering,SME,2017-07-01
+T03037,BPO / Shared Services  ,SME,2024-10-01
+T03038,Public Sector / NGO,SME,2018-07-01
+T03039,IT & Software,SME,2024-05-01
+T03040,Public Sector / NGO,Mid,2020-06-01
+T03041,,SME,2020-08-01
+T03042,Food & Beverage  ,SME,2020-12-01
+T03043,Services,SME,2024-01-01
+T03044,Electronics,Mid,2021-04-01
+T03045,Fashion & Apparel,Mid,2024-11-01
+T03046,Home & Furnishing,SME,2019-12-01
+T03047,Food & Beverage,SME,2019-11-01
+T03048,Electronics,SME,2020-09-01
+T03049,Fashion & Apparel,Mid,2020-01-01
+T03050,Health & Beauty,Mid,2023-04-01
+T03051,Health & Beauty,SME,2019-06-01
+T03052,Food & Beverage,Mid,2021-04-01
+T03053,Fashion & Apparel,Mid,2025-01-01
+T03054,Health & Beauty,SME,2020-01-01
+T03055,Home & Furnishing,SME,2023-01-01
+T03056,Food & Beverage,SME,2019-07-01
+T03057,Fashion & Apparel,SME,2021-06-01
+T03058,Fashion & Apparel,SME,2023-11-01
+T03059,Food & Beverage,SME,2016-11-01
+T03060,Food & Beverage,Mid,2022-03-01
+T03061,Services,Mid,2025-07-01
+T03062,Electronics,SME,2019-06-01
+T03063,,SME,2023-04-01
+T03064,Food & Beverage,SME,2024-09-01
+T03065,Fashion & Apparel,SME,2018-12-01
+T03066,Health & Beauty,Mid,2020-10-01
+T03067,Electronics,SME,2020-11-01
+T03068,Food & Beverage,Mid,2018-06-01
+T03069,Food & Beverage,SME,2018-07-01
+T03070,Health & Beauty,SME,2022-11-01
+T03071,Grocery,Mid,2023-01-01
+T03072,Electronics,SME,2020-10-01
+T03073,Entertainment,SME,2023-10-01
+T03074,Fashion & Apparel,SME,2018-09-01
+T03075,Food & Beverage,SME,2024-01-01
+T03076,Fashion & Apparel,SME,2019-03-01
+T03077,Electronics,SME,2022-06-01
+T03078,Electronics,SME,2017-02-01
+T03079,Grocery,SME,2025-09-01
+T03080,Services,SME,2019-09-01
+T03081,Services  ,SME,2023-02-01
+T03082,Electronics,SME,2020-07-01
+T03083,Food & Beverage,SME,2024-06-01
+T03084,Health & Beauty,SME,2019-05-01
+T03085,Electronics,Large,2021-03-01
+T03086,Health & Beauty,Mid,2018-04-01
+T03087,Electronics,SME,2019-08-01
+T03088,Fashion & Apparel,Mid,2018-09-01
+T03089,Food & Beverage,SME,2020-11-01
+T03090,Services,SME,2019-08-01
+T03091,Fashion & Apparel,SME,2017-08-01
+T03092,Health & Beauty,SME,2025-12-01
+T03093,Electronics,SME,2024-04-01
+T03094,Fashion & Apparel,SME,2019-04-01
+T03095,,SME,2025-01-01
+T03096,Fashion & Apparel  ,Mid,2020-02-01
+T03097,Food & Beverage,Mid,2022-05-01
+T03098,Services,Mid,2017-05-01
+T03099,Services,SME,2020-04-01
+T03100,Food & Beverage,SME,2025-07-01
+T03101,Food & Beverage,SME,2019-12-01
+T03102,Fashion & Apparel,Mid,2018-10-01
+T03103,Electronics  ,Mid,2024-09-01
+T03104,Food & Beverage,SME,2019-05-01
+T03105,Fashion & Apparel,SME,2020-01-01
+T03106,Electronics,SME,2022-06-01
+T03107,Services,Mid,2022-05-01
+T03108,Services,Mid,2020-08-01
+T03109,Home & Furnishing,SME,2018-05-01
+T03110,Services,SME,2020-10-01
+T03111,Fashion & Apparel,SME,2023-01-01
+T03112,Fashion & Apparel,SME,2018-06-01
+T03113,Electronics,SME,2022-06-01
+T03114,Electronics,SME,2021-12-01
+T03115,Health & Beauty,SME,2021-02-01
+T03116,Electronics,SME,2019-05-01
+T03117,Food & Beverage,SME,2021-07-01
+T03118,,SME,2020-08-01
+T03119,Home & Furnishing,SME,2023-02-01
+T03120,Fashion & Apparel,SME,2018-04-01
+T03121,Entertainment,SME,2022-01-01
+T03122,Health & Beauty,SME,2025-04-01
+T03123,Fashion & Apparel,Mid,2020-08-01
+T03124,Electronics,Large,2018-08-01
+T03125,Food & Beverage,Large,2022-04-01
+T03126,Fashion & Apparel,Mid,2019-02-01
+T03127,Food & Beverage,Mid,2022-06-01
+T03128,Food & Beverage,Mid,2025-07-01
+T03129,Food & Beverage,SME,2018-08-01
+T03130,Food & Beverage,SME,2022-03-01
+T03131,Fashion & Apparel,Mid,2019-11-01
+T03132,Fashion & Apparel,Mid,2023-04-01
+T03133,Food & Beverage,SME,2018-06-01
+T03134,Services,SME,2023-12-01
+T03135,Electronics,SME,2019-09-01
+T03136,Home & Furnishing,SME,2025-01-01
+T03137,Fashion & Apparel,SME,2021-09-01
+T03138,Food & Beverage,Mid,2019-07-01
+T03139,Fashion & Apparel,Mid,2022-08-01
+T03140,Electronics,SME,2020-03-01
+T03141,Fashion & Apparel,SME,2020-09-01
+T03142,Fashion & Apparel,Mid,2020-07-01
+T03143,Home & Furnishing,Mid,2018-02-01
+T03144,Fashion & Apparel,Mid,2021-04-01
+T03145,Fashion & Apparel  ,SME,2017-06-01
+T03146,Food & Beverage,SME,2020-09-01
+T03147,Services,SME,2024-07-01
+T03148,Services  ,SME,2018-03-01
+T03149,Services,SME,2018-08-01
+T03150,Food & Beverage,SME,2019-03-01
+T03151,Fashion & Apparel,SME,2018-05-01
+T03152,Grocery,SME,2021-12-01
+T03153,Services,SME,2024-05-01
+T03154,Health & Beauty,SME,2018-12-01
+T03155,Health & Beauty,SME,2024-06-01
+T03156,Food & Beverage,Mid,2020-09-01
+T03157,Fashion & Apparel,SME,2021-04-01
+T03158,Fashion & Apparel,SME,2021-02-01
+T03159,Health & Beauty,SME,2021-08-01
+T03160,Health & Beauty,SME,2018-11-01
+T03161,Fashion & Apparel,SME,2020-11-01
+T03162,Health & Beauty,SME,2019-10-01
+T03163,Electronics,SME,2021-11-01
+T03164,Fashion & Apparel,SME,2025-11-01
+T03165,Food & Beverage,SME,2019-07-01
+T03166,Home & Furnishing,Mid,2020-12-01
+T03166,Home & Furnishing,MID,2020-12-01
+T03167,Home & Furnishing,Mid,2023-07-01
+T03168,Food & Beverage,SME,2020-07-01
+T03169,Fashion & Apparel,SME,2022-11-01
+T03170,Services,SME,2019-09-01
+T03171,Fashion & Apparel,SME,2020-11-01
+T03172,Services,SME,2024-01-01
+T03173,Home & Furnishing,Mid,2020-11-01
+T03174,Fashion & Apparel,SME,2018-11-01
+T03175,Food & Beverage,SME,2022-01-01
+T03176,Food & Beverage,SME,2020-09-01
+T03177,Services  ,SME,2020-03-01
+T03178,Fashion & Apparel,SME,2025-04-01
+T03179,Electronics,SME,2018-03-01
+T03180,Health & Beauty,SME,2021-05-01
+T03181,Electronics,Mid,2020-03-01
+T03182,Health & Beauty  ,SME,2019-01-01
+T03183,Health & Beauty,SME,2022-05-01
+T03184,Food & Beverage,Mid,2019-02-01
+T03185,Electronics,SME,2021-07-01
+T03186,Fashion & Apparel,SME,2023-05-01
+T03187,Health & Beauty,Mid,2019-09-01
+T03188,Food & Beverage,SME,2020-06-01
+T03189,Entertainment,SME,2023-05-01
+T03190,Health & Beauty,SME,2021-09-01
+T03191,Health & Beauty,SME,2020-07-01
+T03192,Entertainment,SME,2019-09-01
+T03193,Entertainment,Mid,2020-03-01
+T03194,Health & Beauty,SME,2016-12-01
+T03195,Electronics,SME,2019-05-01
+T03196,Fashion & Apparel,SME,2018-11-01
+T03197,,SME,2023-02-01
+T03198,Home & Furnishing,SME,2018-09-01
+T03199,Electronics,SME,2020-01-01
+T03200,Health & Beauty,SME,2018-06-01
+T03201,Health & Beauty,Mid,2017-07-01
+T03202,Food & Beverage,SME,2020-08-01
+T03203,Food & Beverage,Mid,2020-08-01
+T03204,Electronics,SME,2019-07-01
+T03205,Food & Beverage,SME,2020-04-01
+T03206,Grocery,SME,2020-03-01
+T03207,Entertainment,SME,2020-05-01
+T03208,,SME,2024-02-01
+T03209,Electronics,SME,2020-01-01
+T03210,IT & Software,SME,2019-02-01
+T03211,,SME,2024-03-01
+T03212,IT & Software,Large,2020-02-01
+T03213,BPO / Shared Services,Mid,2021-02-01
+T03214,Engineering,SME,2018-11-01
+T03215,IT & Software,SME,2025-04-01
+T03216,Professional Services,SME,2016-05-01
+T03217,Engineering,Mid,2020-10-01
+T03218,Education  ,SME,2019-06-01
+T03219,Finance & Insurance,SME,2018-01-01
+T03220,Engineering,SME,2017-09-01
+T03221,Engineering,Mid,2019-05-01
+T03222,Media & Marketing,Mid,2024-07-01
+T03223,Professional Services,SME,2020-11-01
+T03224,IT & Software,SME,2020-10-01
+T03225,Education,Mid,2019-03-01
+T03226,BPO / Shared Services,Mid,2024-04-01
+T03227,IT & Software,SME,2018-10-01
+T03228,BPO / Shared Services,SME,2020-06-01
+T03229,BPO / Shared Services,SME,2025-11-01
+T03230,Professional Services,SME,2020-05-01
+T03231,Education,SME,2025-01-01
+T03232,Pharma & Healthcare,SME,2019-05-01
+T03233,IT & Software,Mid,2018-08-01
+T03234,Professional Services,Mid,2024-11-01
+T03235,Media & Marketing,Mid,2020-08-01
+T03236,IT & Software,Mid,2025-10-01
+T03237,BPO / Shared Services,Mid,2019-05-01
+T03238,,Mid,2021-01-01
+T03239,Professional Services,SME,2021-11-01
+T03240,Engineering,SME,2019-01-01
+T03241,Professional Services,SME,2017-09-01
+T03242,Engineering,SME,2020-03-01
+T03243,BPO / Shared Services,SME,2020-08-01
+T03244,Finance & Insurance,SME,2020-03-01
+T03245,Professional Services,Mid,2020-01-01
+T03246,BPO / Shared Services,SME,2019-02-01
+T03247,Professional Services,SME,2020-07-01
+T03248,Pharma & Healthcare,SME,2024-01-01
+T03249,Engineering,SME,2018-11-01
+T03250,Education,SME,2025-01-01
+T03251,IT & Software,SME,2017-02-01
+T03252,IT & Software  ,SME,2022-06-01
+T03253,Engineering,SME,2025-12-01
+T03254,Media & Marketing,SME,2020-01-01
+T03255,Education,SME,2017-05-01
+T03256,IT & Software,SME,2019-12-01
+T03257,Professional Services,Large,2019-12-01
+T03258,IT & Software,Large,2025-02-01
+T03259,Public Sector / NGO,Mid,2020-07-01
+T03260,Finance & Insurance,Mid,2024-01-01
+T03261,Media & Marketing,SME,2019-12-01
+T03262,Professional Services,SME,2019-10-01
+T03263,Finance & Insurance,SME,2025-07-01
+T03264,IT & Software,SME,2019-10-01
+T03265,IT & Software,Mid,2020-02-01
+T03266,Finance & Insurance,Mid,2018-01-01
+T03267,BPO / Shared Services,SME,2019-02-01
+T03268,IT & Software,SME,2020-01-01
+T03269,IT & Software,Mid,2019-09-01
+T03270,Professional Services,SME,2020-08-01
+T03271,Media & Marketing,SME,2024-04-01
+T03272,Professional Services,Mid,2019-12-01
+T03273,IT & Software,SME,2020-09-01
+T03274,BPO / Shared Services,SME,2019-04-01
+T03275,IT & Software  ,SME,2022-06-01
+T03276,Finance & Insurance,SME,2025-11-01
+T03277,Engineering,SME,2018-08-01
+T03278,Finance & Insurance  ,Mid,2016-06-01
+T03279,Engineering,Mid,2018-10-01
+T03280,Professional Services  ,Mid,2018-08-01
+T03281,Professional Services,SME,2020-03-01
+T03282,Public Sector / NGO,SME,2025-05-01
+T03283,Professional Services,Mid,2020-10-01
+T03284,Pharma & Healthcare,Mid,2018-03-01
+T03285,,SME,2020-07-01
+T03286,Engineering,Mid,2018-04-01
+T03287,Professional Services,Mid,2024-04-01
+T03288,BPO / Shared Services,Large,2020-11-01
+T03289,BPO / Shared Services,SME,2018-04-01
+T03290,Finance & Insurance,Mid,2018-07-01
+T03291,BPO / Shared Services,Mid,2024-04-01
+T03292,Engineering,SME,2018-10-01
+T03293,IT & Software,SME,2018-04-01
+T03294,Professional Services,Large,2018-12-01
+T03295,Finance & Insurance,Large,2022-02-01
+T03296,,Large,2018-04-01
+T03297,BPO / Shared Services,Mid,2020-04-01
+T03298,BPO / Shared Services,Mid,2024-04-01
+T03299,IT & Software,Mid,2019-06-01
+T03300,Media & Marketing,SME,2018-01-01
+T03301,Pharma & Healthcare,Mid,2020-08-01
+T03302,BPO / Shared Services,SME,2016-07-01
+T03303,Public Sector / NGO,Mid,2018-11-01
+T03304,BPO / Shared Services,SME,2018-12-01
+T03305,Finance & Insurance,SME,2021-03-01
+T03306,Media & Marketing,Mid,2020-09-01
+T03307,IT & Software,SME,2020-02-01
+T03308,IT & Software,SME,2023-05-01
+T03309,Engineering,SME,2018-05-01
+T03310,Finance & Insurance,Mid,2018-08-01
+T03311,BPO / Shared Services,Mid,2022-01-01
+T03312,BPO / Shared Services,Mid,2025-04-01
+T03313,Finance & Insurance,Mid,2020-03-01
+T03314,Education,Mid,2019-12-01
+T03315,Public Sector / NGO,Mid,2023-09-01
+T03316,BPO / Shared Services,SME,2019-12-01
+T03317,Finance & Insurance,SME,2021-06-01
+T03318,BPO / Shared Services,SME,2024-08-01
+T03319,BPO / Shared Services,Mid,2018-12-01
+T03320,Professional Services,SME,2020-05-01
+T03321,BPO / Shared Services,SME,2018-09-01
+T03322,IT & Software,SME,2021-06-01
+T03323,IT & Software,Mid,2019-07-01
+T03324,Pharma & Healthcare,Mid,2024-10-01
+T03325,,SME,2019-02-01
+T03326,IT & Software,SME,2019-02-01
+T03327,Pharma & Healthcare,Mid,2017-06-01
+T03328,Finance & Insurance,Mid,2020-11-01
+T03329,Professional Services,SME,2019-06-01
+T03330,Finance & Insurance,SME,2021-04-01
+T03331,Pharma & Healthcare,Mid,2020-02-01
+T03332,Professional Services,SME,2019-07-01
+T03333,Professional Services,SME,2019-08-01
+T03334,IT & Software,Mid,2020-01-01
+T03335,Finance & Insurance,SME,2019-02-01
+T03336,IT & Software,SME,2022-12-01
+T03337,IT & Software,Mid,2019-09-01
+T03338,Professional Services,SME,2019-08-01
+T03339,IT & Software,SME,2025-03-01
+T03340,Professional Services,Mid,2018-05-01
+T03341,BPO / Shared Services,SME,2019-09-01
+T03342,IT & Software,Mid,2018-03-01
+T03343,IT & Software,Mid,2021-09-01
+T03344,BPO / Shared Services,Mid,2021-05-01
+T03345,IT & Software,Mid,2024-06-01
+T03346,IT & Software,SME,2019-04-01
+T03347,Media & Marketing,Mid,2016-08-01
+T03348,IT & Software,SME,2019-10-01
+T03349,BPO / Shared Services,SME,2018-02-01
+T03350,IT & Software,SME,2022-01-01
+T03351,BPO / Shared Services,SME,2016-10-01
+T03352,IT & Software,SME,2022-07-01
+T03353,Professional Services,SME,2020-07-01
+T03354,IT & Software,Mid,2017-01-01
+T03355,Media & Marketing,Mid,2018-10-01
+T03356,,SME,2020-02-01
+T03357,BPO / Shared Services,SME,2020-05-01
+T03358,Pharma & Healthcare,SME,2021-06-01
+T03359,BPO / Shared Services,SME,2022-09-01
+T03360,IT & Software,SME,2017-02-01
+T03361,Pharma & Healthcare,Mid,2017-02-01
+T03362,BPO / Shared Services,Mid,2022-11-01
+T03363,IT & Software,SME,2019-07-01
+T03364,Education,SME,2020-01-01
+T03365,Education,Mid,2020-09-01
+T03366,IT & Software,Mid,2017-11-01
+T03367,,SME,2016-11-01
+T03368,IT & Software  ,SME,2019-10-01
+T03369,IT & Software,SME,2019-10-01
+T03370,IT & Software,SME,2025-12-01
+T03371,IT & Software,SME,2019-09-01
+T03372,Professional Services,SME,2018-10-01
+T03373,Finance & Insurance,SME,2020-06-01
+T03374,IT & Software,SME,2025-07-01
+T03375,IT & Software,Mid,2020-05-01
+T03376,Pharma & Healthcare,Mid,2023-07-01
+T03377,Engineering,SME,2018-09-01
+T03378,BPO / Shared Services,SME,2022-07-01
+T03379,IT & Software,Mid,2020-07-01
+T03380,,SME,2019-06-01
+T03381,Finance & Insurance,SME,2021-02-01
+T03382,Professional Services,Large,2018-09-01
+T03383,BPO / Shared Services,Large,2024-10-01
+T03384,Media & Marketing,SME,2019-11-01
+T03385,Fashion & Apparel,SME,2022-06-01
+T03386,Food & Beverage,SME,2017-03-01
+T03387,Food & Beverage,SME,2023-02-01
+T03388,Health & Beauty,SME,2021-12-01
+T03389,Services,SME,2018-05-01
+T03390,Health & Beauty,SME,2016-10-01
+T03391,Electronics,SME,2024-09-01
+T03392,Grocery,SME,2016-09-01
+T03393,Electronics,SME,2020-05-01
+T03394,Food & Beverage,SME,2019-12-01
+T03395,Fashion & Apparel,SME,2022-05-01
+T03396,Services  ,SME,2020-06-01
+T03397,Electronics,Mid,2019-07-01
+T03398,Electronics,SME,2019-02-01
+T03398,Electronics,SME,2019-02-01
+T03399,Home & Furnishing,SME,2024-09-01
+T03400,Services,Mid,2021-11-01
+T03401,Health & Beauty,SME,2024-08-01
+T03402,Fashion & Apparel,SME,2017-11-01
+T03403,Electronics,SME,2023-12-01
+T03404,Health & Beauty,SME,2016-03-01
+T03405,Food & Beverage,SME,2021-07-01
+T03406,Fashion & Apparel,Large,2020-07-01
+T03407,Services,SME,2021-08-01
+T03408,Fashion & Apparel,SME,2024-03-01
+T03409,Electronics,SME,2019-12-01
+T03410,Fashion & Apparel,SME,2023-05-01
+T03411,Home & Furnishing,SME,2020-03-01
+T03412,Fashion & Apparel,SME,2024-04-01
+T03413,Health & Beauty,Mid,2020-11-01
+T03414,Fashion & Apparel,Mid,2025-04-01
+T03415,Home & Furnishing,SME,2019-05-01
+T03416,Entertainment,SME,2020-07-01
+T03417,Health & Beauty,SME,2024-02-01
+T03418,Services,SME,2022-03-01
+T03419,Fashion & Apparel,SME,2019-03-01
+T03420,Fashion & Apparel,SME,2023-06-01
+T03421,Health & Beauty,Mid,2020-09-01
+T03422,Food & Beverage,SME,2021-07-01
+T03423,Services,SME,2023-02-01
+T03424,Health & Beauty,SME,2021-06-01
+T03425,Health & Beauty,SME,2022-06-01
+T03426,Health & Beauty  ,SME,2025-01-01
+T03427,Fashion & Apparel,SME,2020-09-01
+T03428,Fashion & Apparel,SME,2020-12-01
+T03429,Health & Beauty,Mid,2020-03-01
+T03430,Food & Beverage,Mid,2025-09-01
+T03431,Fashion & Apparel,Mid,2021-11-01
+T03432,Health & Beauty,Mid,2025-05-01
+T03433,Health & Beauty,SME,2019-02-01
+T03434,Home & Furnishing,SME,2023-12-01
+T03435,Health & Beauty,SME,2020-12-01
+T03436,Services,SME,2019-02-01
+T03437,Food & Beverage,SME,2025-03-01
+T03438,Fashion & Apparel,SME,2019-08-01
+T03439,Services,SME,2025-09-01
+T03440,Health & Beauty,SME,2019-07-01
+T03441,Health & Beauty,SME,2020-02-01
+T03442,Fashion & Apparel,SME,2021-10-01
+T03443,Grocery,SME,2021-05-01
+T03444,Health & Beauty,SME,2025-02-01
+T03445,Home & Furnishing,SME,2016-06-01
+T03446,Fashion & Apparel,SME,2022-07-01
+T03447,Health & Beauty,Mid,2020-10-01
+T03448,Food & Beverage,SME,2020-02-01
+T03449,Home & Furnishing,Mid,2017-02-01
+T03450,Health & Beauty,Mid,2022-04-01
+T03451,Services,SME,2021-11-01
+T03452,Services,SME,2020-11-01
+T03453,Grocery,SME,2020-07-01
+T03454,Home & Furnishing,SME,2020-03-01
+T03455,Fashion & Apparel,SME,2020-01-01
+T03456,Food & Beverage,SME,2022-10-01
+T03457,Entertainment  ,SME,2019-12-01
+T03458,Food & Beverage,SME,2024-03-01
+T03459,Fashion & Apparel,Mid,2021-06-01
+T03460,Grocery,Mid,2019-10-01
+T03461,Services,Mid,2023-11-01
+T03462,Grocery,SME,2017-03-01
+T03463,Food & Beverage,SME,2023-07-01
+T03464,Fashion & Apparel,SME,2023-08-01
+T03465,Services,SME,2020-08-01
+T03466,Food & Beverage,SME,2023-10-01
+T03467,,SME,2017-01-01
+T03468,Electronics,SME,2018-06-01
+T03469,Fashion & Apparel,SME,2025-04-01
+T03470,Fashion & Apparel  ,SME,2019-05-01
+T03471,Health & Beauty,Mid,2016-05-01
+T03472,,Mid,2025-11-01
+T03473,Grocery,SME,2020-01-01
+T03474,Fashion & Apparel,SME,2023-12-01
+T03475,Food & Beverage,SME,2019-07-01
+T03476,Food & Beverage,SME,2021-09-01
+T03477,Fashion & Apparel,SME,2024-12-01
+T03478,Health & Beauty,SME,2019-05-01
+T03479,Services,SME,2021-08-01
+T03480,Electronics,SME,2025-12-01
+T03481,Fashion & Apparel  ,SME,2025-06-01
+T03482,Fashion & Apparel,SME,2018-09-01
+T03483,Food & Beverage,SME,2023-07-01
+T03484,Fashion & Apparel,SME,2019-12-01
+T03485,Food & Beverage,SME,2023-02-01
+T03486,Health & Beauty,SME,2018-04-01
+T03487,Fashion & Apparel,SME,2023-02-01
+T03488,Services,SME,2019-07-01
+T03489,Fashion & Apparel,SME,2020-04-01
+T03490,Home & Furnishing,SME,2024-09-01
+T03491,Food & Beverage,SME,2018-06-01
+T03492,,SME,2024-01-01
+T03493,Food & Beverage,SME,2020-07-01
+T03494,Food & Beverage,SME,2022-09-01
+T03495,Fashion & Apparel,SME,2019-10-01
+T03496,Food & Beverage  ,SME,2022-08-01
+T03497,Home & Furnishing,Mid,2019-07-01
+T03498,Fashion & Apparel,Mid,2022-03-01
+T03499,Electronics,SME,2018-07-01
+T03500,Fashion & Apparel,SME,2018-09-01
+T03501,Home & Furnishing,SME,2025-02-01
+T03502,Grocery,SME,2018-12-01
+T03503,Health & Beauty,SME,2022-07-01
+T03504,Food & Beverage,SME,2024-05-01
+T03505,Food & Beverage,SME,2018-12-01
+T03506,Health & Beauty,SME,2022-01-01
+T03507,Home & Furnishing,Mid,2018-11-01
+T03508,Health & Beauty,Mid,2022-12-01
+T03509,Food & Beverage,SME,2019-07-01
+T03510,Home & Furnishing,SME,2021-10-01
+T03511,Health & Beauty,SME,2018-07-01
+T03512,Fashion & Apparel,SME,2019-02-01
+T03513,Grocery,SME,2021-07-01
+T03514,Services,SME,2024-12-01
+T03515,Fashion & Apparel,SME,2023-05-01
+T03516,Home & Furnishing,SME,2020-12-01
+T03517,,SME,2023-03-01
+T03518,Food & Beverage,Mid,2019-08-01
+T03519,Home & Furnishing,Mid,2022-07-01
+T03520,Food & Beverage,SME,2016-06-01
+T03521,Home & Furnishing,SME,2016-11-01
+T03522,Electronics,SME,2020-11-01
+T03523,Food & Beverage,SME,2021-10-01
+T03524,Food & Beverage,SME,2025-03-01
+T03525,Health & Beauty,SME,2020-01-01
+T03526,Fashion & Apparel,SME,2018-07-01
+T03527,Health & Beauty,SME,2025-12-01
+T03528,Services,Mid,2020-01-01
+T03529,Food & Beverage,Mid,2025-03-01
+T03530,Services,SME,2019-07-01
+T03531,Fashion & Apparel,SME,2024-02-01
+T03532,Health & Beauty,SME,2021-04-01
+T03533,Fashion & Apparel,SME,2020-06-01
+T03534,Food & Beverage,SME,2020-03-01
+T03535,Health & Beauty  ,SME,2022-05-01
+T03536,Fashion & Apparel,SME,2025-08-01
+T03537,Food & Beverage,SME,2018-02-01
+T03538,Fashion & Apparel,SME,2023-04-01
+T03539,Electronics,SME,2019-09-01
+T03540,Services,SME,2024-02-01
+T03541,Fashion & Apparel,SME,2019-09-01
+T03542,Fashion & Apparel,SME,2023-08-01
+T03543,Fashion & Apparel,SME,2020-06-01
+T03544,Health & Beauty,SME,2020-07-01
+T03545,Food & Beverage,SME,2024-08-01
+T03546,Grocery,SME,2020-04-01
+T03547,Fashion & Apparel,SME,2020-02-01
+T03548,Electronics,SME,2019-11-01
+T03549,Services,SME,2025-05-01
+T03550,Electronics,Mid,2018-06-01
+T03551,Fashion & Apparel,Mid,2022-05-01
+T03552,Entertainment,SME,2019-01-01
+T03553,Entertainment,SME,2024-04-01
+T03554,Services  ,Mid,2020-11-01
+T03555,Services,Mid,2019-10-01
+T03556,Food & Beverage,Mid,2023-02-01
+T03557,Electronics,SME,2018-10-01
+T03558,Services,SME,2025-04-01
+T03559,Health & Beauty,SME,2021-04-01
+T03560,Grocery,SME,2024-06-01
+T03561,Food & Beverage  ,SME,2019-05-01
+T03562,Food & Beverage,SME,2025-03-01
+T03563,Health & Beauty,SME,2019-09-01
+T03564,Fashion & Apparel,SME,2022-01-01
+T03565,Food & Beverage,SME,2019-12-01
+T03566,Food & Beverage,SME,2022-01-01
+T03567,Fashion & Apparel,SME,2020-03-01
+T03568,Fashion & Apparel,SME,2018-10-01
+T03569,Food & Beverage,SME,2024-08-01
+T03570,Food & Beverage,SME,2018-12-01
+T03571,Fashion & Apparel  ,SME,2022-11-01
+T03572,Fashion & Apparel,SME,2020-01-01
+T03573,Services,SME,2022-12-01
+T03574,Food & Beverage,SME,2020-07-01
+T03575,Health & Beauty,SME,2019-07-01
+T03576,Services,SME,2021-11-01
+T03577,Food & Beverage,SME,2020-05-01
+T03578,Home & Furnishing,SME,2021-12-01
+T03579,Grocery,SME,2019-05-01
+T03580,Electronics,Mid,2020-12-01
+T03581,Fashion & Apparel,Mid,2023-02-01
+T03582,Fashion & Apparel,SME,2023-04-01
+T03583,Home & Furnishing  ,Mid,2019-03-01
+T03584,Home & Furnishing,SME,2022-11-01
+T03585,Fashion & Apparel,Mid,2022-01-01
+T03586,Food & Beverage,SME,2016-04-01
+T03587,Electronics,SME,2023-03-01
+T03588,Fashion & Apparel,SME,2018-07-01
+T03589,Home & Furnishing,Mid,2018-08-01
+T03590,Electronics,Mid,2019-08-01
+T03591,Food & Beverage,Mid,2024-02-01
+T03592,Fashion & Apparel,Mid,2019-03-01
+T03593,Food & Beverage,SME,2021-03-01
+T03594,Fashion & Apparel,SME,2021-10-01
+T03595,Fashion & Apparel,SME,2017-11-01
+T03596,Home & Furnishing,SME,2025-12-01
+T03597,Entertainment,SME,2019-10-01
+T03598,Health & Beauty,SME,2020-01-01
+T03599,Electronics,SME,2020-12-01
+T03600,Health & Beauty,SME,2019-11-01
+T03601,Health & Beauty,SME,2020-07-01
+T03602,Home & Furnishing,SME,2021-04-01
+T03603,Food & Beverage,SME,2024-04-01
+T03604,Professional Services,Mid,2018-08-01
+T03605,IT & Software,SME,2020-03-01
+T03606,Finance & Insurance,Mid,2019-08-01
+T03607,Professional Services,Mid,2024-09-01
+T03608,IT & Software,Mid,2021-10-01
+T03609,IT & Software,SME,2025-07-01
+T03609,IT & Software,SME,2025-07-01
+T03610,Engineering,SME,2019-01-01
+T03611,Finance & Insurance,SME,2024-12-01
+T03612,Public Sector / NGO,SME,2019-08-01
+T03613,Education,Mid,2021-03-01
+T03614,IT & Software,Mid,2024-05-01
+T03615,IT & Software  ,SME,2017-12-01
+T03616,Professional Services,SME,2019-01-01
+T03617,Public Sector / NGO,Mid,2021-02-01
+T03618,Professional Services,SME,2020-07-01
+T03619,Professional Services,SME,2023-08-01
+T03620,IT & Software,SME,2017-05-01
+T03621,IT & Software,Large,2016-09-01
+T03622,IT & Software,Mid,2019-09-01
+T03623,Finance & Insurance,Mid,2024-11-01
+T03624,Professional Services,Mid,2019-09-01
+T03625,IT & Software,Mid,2025-03-01
+T03626,Public Sector / NGO,SME,2017-12-01
+T03627,Professional Services,SME,2020-01-01
+T03628,,Large,2018-07-01
+T03629,BPO / Shared Services,SME,2019-04-01
+T03630,Finance & Insurance,SME,2022-10-01
+T03631,Education,SME,2021-12-01
+T03632,Professional Services,SME,2025-01-01
+T03633,Media & Marketing,Large,2019-07-01
+T03634,BPO / Shared Services,Large,2022-08-01
+T03635,Professional Services,SME,2023-03-01
+T03636,IT & Software,SME,2021-02-01
+T03637,Professional Services,SME,2019-12-01
+T03638,Professional Services,SME,2021-03-01
+T03639,Pharma & Healthcare,SME,2019-10-01
+T03640,IT & Software,SME,2022-12-01
+T03641,IT & Software,Large,2020-12-01
+T03642,Public Sector / NGO,Mid,2018-04-01
+T03643,IT & Software,Mid,2021-05-01
+T03644,BPO / Shared Services,Mid,2023-06-01
+T03645,Professional Services  ,Mid,2020-07-01
+T03646,Professional Services,SME,2018-04-01
+T03647,IT & Software  ,SME,2023-06-01
+T03648,Finance & Insurance,Mid,2020-02-01
+T03649,IT & Software,Mid,2018-06-01
+T03650,IT & Software,Mid,2020-01-01
+T03651,Engineering  ,Mid,2020-06-01
+T03652,Pharma & Healthcare,Mid,2025-06-01
+T03653,Professional Services,Mid,2021-10-01
+T03654,,Mid,2025-07-01
+T03655,BPO / Shared Services,SME,2018-12-01
+T03656,Engineering,SME,2024-02-01
+T03657,Engineering,Mid,2018-12-01
+T03658,Engineering,Mid,2022-01-01
+T03659,Pharma & Healthcare,SME,2018-08-01
+T03660,BPO / Shared Services,SME,2023-01-01
+T03661,BPO / Shared Services,Mid,2021-12-01
+T03662,Engineering,Mid,2020-08-01
+T03663,IT & Software,SME,2021-07-01
+T03664,Media & Marketing,SME,2020-05-01
+T03665,Finance & Insurance,SME,2019-01-01
+T03666,Finance & Insurance,SME,2020-12-01
+T03667,BPO / Shared Services,SME,2019-07-01
+T03668,IT & Software,SME,2022-10-01
+T03669,Engineering,Mid,2020-07-01
+T03670,IT & Software,Mid,2024-02-01
+T03671,Pharma & Healthcare,Mid,2021-05-01
+T03672,Engineering,Mid,2024-10-01
+T03673,Media & Marketing,Mid,2019-02-01
+T03674,Professional Services,Mid,2022-08-01
+T03675,Finance & Insurance,SME,2019-01-01
+T03676,IT & Software,Mid,2020-07-01
+T03677,Professional Services,SME,2018-05-01
+T03678,Finance & Insurance,SME,2022-11-01
+T03679,IT & Software,SME,2022-06-01
+T03680,,SME,2018-05-01
+T03681,IT & Software,Mid,2019-04-01
+T03682,BPO / Shared Services,Mid,2017-12-01
+T03683,Professional Services,SME,2020-05-01
+T03684,Public Sector / NGO,SME,2018-06-01
+T03685,IT & Software,SME,2023-11-01
+T03686,Professional Services,Large,2020-01-01
+T03687,Pharma & Healthcare,SME,2021-10-01
+T03688,Media & Marketing,Mid,2019-11-01
+T03689,Public Sector / NGO,Large,2021-03-01
+T03690,Professional Services,Large,2024-05-01
+T03691,IT & Software  ,SME,2021-06-01
+T03692,IT & Software,Mid,2021-06-01
+T03693,Public Sector / NGO,SME,2020-12-01
+T03694,IT & Software,SME,2020-06-01
+T03695,Pharma & Healthcare,SME,2022-10-01
+T03696,Media & Marketing,Mid,2016-05-01
+T03697,IT & Software,SME,2018-11-01
+T03698,Finance & Insurance,SME,2016-02-01
+T03699,Finance & Insurance,SME,2018-09-01
+T03700,Public Sector / NGO,SME,2018-10-01
+T03701,IT & Software,SME,2018-10-01
+T03702,IT & Software  ,Mid,2020-05-01
+T03703,IT & Software,SME,2020-10-01
+T03704,IT & Software,Mid,2021-02-01
+T03705,Engineering,SME,2017-08-01
+T03706,IT & Software,SME,2025-09-01
+T03707,IT & Software,SME,2016-07-01
+T03708,BPO / Shared Services,SME,2023-09-01
+T03709,IT & Software,SME,2020-11-01
+T03710,Professional Services  ,SME,2024-04-01
+T03711,BPO / Shared Services,Mid,2018-04-01
+T03712,BPO / Shared Services,Mid,2025-08-01
+T03713,IT & Software,Mid,2021-09-01
+T03714,Media & Marketing,Mid,2020-02-01
+T03715,Professional Services,Mid,2025-11-01
+T03716,BPO / Shared Services  ,SME,2016-02-01
+T03717,Media & Marketing,SME,2018-10-01
+T03718,Engineering,SME,2016-12-01
+T03719,Engineering,SME,2023-12-01
+T03720,BPO / Shared Services,Mid,2017-07-01
+T03721,BPO / Shared Services,Mid,2025-06-01
+T03722,BPO / Shared Services,SME,2020-11-01
+T03723,Education,SME,2020-05-01
+T03724,Professional Services,Mid,2021-09-01
+T03725,IT & Software,Mid,2018-12-01
+T03726,Finance & Insurance,Mid,2019-04-01
+T03727,BPO / Shared Services,SME,2022-10-01
+T03728,Professional Services,SME,2020-07-01
+T03729,BPO / Shared Services,SME,2023-10-01
+T03730,Media & Marketing,SME,2018-09-01
+T03731,Engineering,Mid,2021-04-01
+T03732,Professional Services,Mid,2024-11-01
+T03733,Public Sector / NGO,SME,2018-07-01
+T03734,BPO / Shared Services,SME,2021-12-01
+T03735,IT & Software,SME,2017-09-01
+T03736,Engineering,Mid,2018-10-01
+T03737,Education,Mid,2016-05-01
+T03738,Engineering,Mid,2025-02-01
+T03739,Education,SME,2019-01-01
+T03740,IT & Software,Mid,2018-10-01
+T03741,IT & Software,Mid,2024-12-01
+T03742,Engineering,SME,2018-09-01
+T03743,IT & Software  ,SME,2019-08-01
+T03744,IT & Software,SME,2023-04-01
+T03745,Finance & Insurance,Mid,2021-08-01
+T03746,Pharma & Healthcare,Mid,2025-05-01
+T03747,IT & Software,Mid,2019-07-01
+T03748,BPO / Shared Services,Mid,2018-03-01
+T03749,IT & Software,Large,2020-11-01
+T03750,IT & Software,Large,2024-06-01
+T03751,Public Sector / NGO,Mid,2020-04-01
+T03752,,Mid,2025-05-01
+T03753,BPO / Shared Services,SME,2019-06-01
+T03754,IT & Software,Mid,2021-03-01
+T03755,BPO / Shared Services,Mid,2022-08-01
+T03756,Professional Services,Mid,2020-04-01
+T03757,Professional Services,SME,2019-12-01
+T03758,IT & Software,SME,2018-09-01
+T03759,Finance & Insurance,SME,2023-04-01
+T03760,BPO / Shared Services,Mid,2020-12-01
+T03761,BPO / Shared Services,Mid,2020-02-01
+T03762,IT & Software,SME,2021-05-01
+T03763,IT & Software,SME,2024-08-01
+T03764,Professional Services,SME,2017-05-01
+T03765,Professional Services,Mid,2022-04-01
+T03766,BPO / Shared Services  ,SME,2021-12-01
+T03767,Pharma & Healthcare,SME,2024-11-01
+T03768,BPO / Shared Services,Mid,2019-05-01
+T03769,IT & Software,Mid,2025-01-01
+T03770,IT & Software,SME,2018-04-01
+T03771,Professional Services,SME,2020-10-01
+T03772,BPO / Shared Services,Large,2018-08-01
+T03773,BPO / Shared Services,Mid,2020-02-01
+T03774,BPO / Shared Services,Mid,2025-02-01
+T03775,Professional Services,Mid,2019-04-01
+T03776,IT & Software,SME,2020-04-01
+T03777,Media & Marketing,SME,2023-11-01
+T03778,IT & Software,Mid,2019-06-01
+T03779,IT & Software,Mid,2025-04-01
+T03780,IT & Software,Large,2020-05-01
+T03781,IT & Software,Large,2025-04-01
+T03782,BPO / Shared Services,SME,2020-11-01
+T03783,,Mid,2020-07-01
+T03784,IT & Software  ,Mid,2025-08-01
+T03785,BPO / Shared Services,Mid,2017-08-01
+T03786,IT & Software,Mid,2022-11-01
+T03787,IT & Software  ,SME,2021-03-01
+T03788,Pharma & Healthcare,Mid,2017-11-01
+T03789,IT & Software,Mid,2017-08-01
+T03790,IT & Software,SME,2023-02-01
+T03791,Professional Services,Mid,2021-05-01
+T03792,BPO / Shared Services,Mid,2018-11-01
+T03793,Pharma & Healthcare,Mid,2024-07-01
+T03794,IT & Software,SME,2021-04-01
+T03795,Pharma & Healthcare,Large,2021-10-01
+T03796,Finance & Insurance,Large,2025-03-01
+T03797,Professional Services,SME,2019-04-01
+T03798,Engineering,SME,2019-10-01
+T03799,BPO / Shared Services,SME,2025-12-01
+T03800,IT & Software,SME,2018-06-01
+T03801,IT & Software,SME,2023-08-01
+T03802,Engineering,SME,2019-07-01
+T03803,Public Sector / NGO,SME,2024-11-01
+T03804,BPO / Shared Services,Mid,2019-09-01
+T03805,Education,SME,2016-10-01
+T03806,IT & Software,Mid,2019-05-01
+T03807,Finance & Insurance,Mid,2019-07-01
+T03808,Engineering,Mid,2024-07-01
+T03809,,Mid,2020-08-01
+T03810,BPO / Shared Services,Mid,2025-10-01
+T03811,Pharma & Healthcare,Mid,2019-11-01
+T03812,IT & Software,Mid,2025-07-01
+T03813,IT & Software,Mid,2019-09-01
+T03814,Professional Services,SME,2019-06-01
+T03815,Professional Services,SME,2024-07-01
+T03816,IT & Software,Mid,2016-05-01
+T03817,BPO / Shared Services,SME,2016-04-01
+T03818,Engineering,SME,2024-02-01
+T03819,Professional Services,Mid,2019-05-01
+T03820,BPO / Shared Services,SME,2020-06-01
+T03821,IT & Software,SME,2017-04-01
+T03822,IT & Software,Mid,2020-11-01
+T03823,Finance & Insurance,Mid,2025-05-01
+T03824,BPO / Shared Services,SME,2021-02-01
+T03825,Finance & Insurance,Mid,2019-02-01
+T03826,BPO / Shared Services,Mid,2020-02-01
+T03827,Finance & Insurance,SME,2019-11-01
+T03828,Education,SME,2017-03-01
+T03829,BPO / Shared Services,SME,2022-01-01
+T03830,IT & Software  ,Mid,2019-09-01
+T03831,IT & Software,Mid,2020-03-01
+T03832,,SME,2017-01-01
+T03833,,SME,2022-05-01
+T03834,IT & Software,Mid,2022-07-01
+T03835,IT & Software,SME,2019-02-01
+T03836,Finance & Insurance,SME,2025-06-01
+T03837,Engineering,SME,2020-09-01
+T03838,Finance & Insurance,SME,2023-10-01
+T03839,IT & Software,SME,2022-11-01
+T03840,Engineering,SME,2017-12-01
+T03841,,SME,2023-12-01
+T03842,BPO / Shared Services,Mid,2021-04-01
+T03843,BPO / Shared Services,SME,2021-12-01
+T03844,BPO / Shared Services  ,Mid,2018-04-01
+T03845,Education,SME,2019-02-01
+T03846,BPO / Shared Services,Mid,2019-08-01
+T03847,BPO / Shared Services,Mid,2023-08-01
+T03848,IT & Software,SME,2019-06-01
+T03849,Finance & Insurance,SME,2016-05-01
+T03850,IT & Software,SME,2023-04-01
+T03851,IT & Software,SME,2017-07-01
+T03852,IT & Software,SME,2021-07-01
+T03853,BPO / Shared Services,SME,2024-10-01
+T03854,Engineering,Mid,2019-12-01
+T03855,Professional Services,SME,2022-05-01
+T03856,Pharma & Healthcare,SME,2019-02-01
+T03857,BPO / Shared Services,SME,2022-11-01
+T03858,Finance & Insurance,SME,2018-03-01
+T03859,Pharma & Healthcare,SME,2025-06-01
+T03860,Pharma & Healthcare,SME,2020-06-01
+T03861,IT & Software,SME,2025-04-01
+T03862,Professional Services,SME,2022-02-01
+T03863,,Mid,2020-10-01
+T03864,Engineering,SME,2023-02-01
+T03865,IT & Software,SME,2025-10-01
+T03866,Engineering,SME,2024-12-01
+T03867,IT & Software,SME,2020-12-01
+T03868,IT & Software,SME,2025-07-01
+T03869,Education,SME,2021-06-01
+T03870,IT & Software,SME,2024-11-01
+T03871,IT & Software,SME,2017-12-01
+T03872,Engineering,Mid,2016-04-01
+T03873,Pharma & Healthcare  ,Mid,2024-08-01
+T03874,IT & Software,SME,2019-11-01
+T03875,,Mid,2020-09-01
+T03876,Finance & Insurance,Mid,2023-10-01
+T03877,IT & Software,SME,2020-05-01
+T03878,BPO / Shared Services,SME,2023-02-01
+T03879,Professional Services,Mid,2020-05-01
+T03880,Professional Services,Mid,2024-01-01
+T03881,Finance & Insurance,Mid,2018-09-01
+T03882,Media & Marketing  ,Mid,2023-01-01
+T03883,BPO / Shared Services,Mid,2018-10-01
+T03884,,Mid,2020-10-01
+T03885,Professional Services,SME,2022-06-01
+T03886,BPO / Shared Services,SME,2022-04-01
+T03887,IT & Software,SME,2019-10-01
+T03888,BPO / Shared Services,Mid,2018-05-01
+T03889,IT & Software,SME,2017-01-01
+T03890,Finance & Insurance,Mid,2018-10-01
+T03891,Professional Services,Mid,2022-06-01
+T03892,IT & Software,SME,2020-10-01
+T03893,IT & Software,SME,2017-09-01
+T03894,IT & Software,SME,2018-08-01
+T03895,Engineering,SME,2021-11-01
+T03896,BPO / Shared Services,Mid,2020-06-01
+T03897,Finance & Insurance,Mid,2019-05-01
+T03898,Education,Mid,2023-07-01
+T03899,Food & Beverage,Mid,2018-05-01
+T03900,Food & Beverage,SME,2019-12-01
+T03901,Fashion & Apparel,SME,2024-02-01
+T03902,Food & Beverage,SME,2021-06-01
+T03903,Services,SME,2023-02-01
+T03904,Health & Beauty,SME,2021-05-01
+T03905,Home & Furnishing,Mid,2019-07-01
+T03906,Electronics,Mid,2022-05-01
+T03907,Food & Beverage,Mid,2025-07-01
+T03908,Health & Beauty,SME,2018-04-01
+T03909,Entertainment,SME,2022-05-01
+T03910,Food & Beverage,Mid,2018-04-01
+T03911,Food & Beverage,SME,2018-09-01
+T03912,Fashion & Apparel,SME,2022-01-01
+T03913,Food & Beverage,SME,2024-02-01
+T03914,Grocery  ,Mid,2016-11-01
+T03915,Fashion & Apparel,Mid,2025-01-01
+T03916,Fashion & Apparel  ,SME,2019-11-01
+T03917,Services,SME,2020-04-01
+T03918,Home & Furnishing,Mid,2016-12-01
+T03919,Home & Furnishing,SME,2020-07-01
+T03920,Electronics,SME,2017-08-01
+T03921,Electronics,SME,2019-06-01
+T03922,Health & Beauty,Mid,2019-10-01
+T03923,Health & Beauty,Mid,2025-08-01
+T03924,Electronics,SME,2021-02-01
+T03925,,SME,2024-05-01
+T03926,Services  ,Mid,2018-04-01
+T03927,Fashion & Apparel,Mid,2024-01-01
+T03928,Food & Beverage,SME,2022-01-01
+T03929,Fashion & Apparel  ,SME,2025-03-01
+T03930,Health & Beauty,Mid,2021-10-01
+T03931,Health & Beauty,SME,2020-05-01
+T03932,Services,SME,2020-06-01
+T03933,Fashion & Apparel,SME,2023-12-01
+T03934,Fashion & Apparel,Mid,2024-06-01
+T03935,Electronics  ,SME,2020-05-01
+T03936,Fashion & Apparel,SME,2020-05-01
+T03937,Home & Furnishing,Mid,2020-11-01
+T03938,Services,SME,2019-06-01
+T03939,Health & Beauty,SME,2024-12-01
+T03940,Fashion & Apparel,SME,2020-12-01
+T03941,Food & Beverage,SME,2020-12-01
+T03942,,SME,2018-03-01
+T03943,Grocery,SME,2024-03-01
+T03944,Food & Beverage,Mid,2019-07-01
+T03945,Fashion & Apparel,SME,2017-01-01
+T03946,Services,SME,2020-09-01
+T03947,Grocery,SME,2024-09-01
+T03948,Home & Furnishing,Mid,2019-03-01
+T03949,Food & Beverage,Mid,2018-05-01
+T03950,Food & Beverage,Mid,2019-05-01
+T03951,Food & Beverage,SME,2019-02-01
+T03952,Fashion & Apparel,SME,2020-05-01
+T03953,Food & Beverage,SME,2023-09-01
+T03954,Fashion & Apparel,Mid,2021-07-01
+T03955,Fashion & Apparel  ,Mid,2025-02-01
+T03956,Home & Furnishing,SME,2020-01-01
+T03957,Fashion & Apparel,SME,2022-01-01
+T03958,Services,Mid,2019-04-01
+T03959,Grocery  ,Mid,2025-05-01
+T03960,,SME,2020-12-01
+T03961,Food & Beverage,SME,2019-09-01
+T03962,Food & Beverage,SME,2020-04-01
+T03963,Fashion & Apparel,SME,2024-07-01
+T03964,Fashion & Apparel,SME,2019-04-01
+T03965,Home & Furnishing,Mid,2021-06-01
+T03966,Home & Furnishing,SME,2020-09-01
+T03967,Fashion & Apparel,SME,2019-12-01
+T03968,Electronics,SME,2020-06-01
+T03969,Entertainment,SME,2021-04-01
+T03970,Health & Beauty,SME,2019-01-01
+T03971,Food & Beverage,Mid,2019-06-01
+T03972,Food & Beverage,Mid,2024-10-01
+T03973,Food & Beverage,SME,2021-08-01
+T03974,Home & Furnishing,SME,2018-05-01
+T03975,Entertainment,Large,2017-04-01
+T03976,Fashion & Apparel,Large,2025-09-01
+T03977,Food & Beverage,SME,2019-02-01
+T03978,Home & Furnishing  ,SME,2021-06-01
+T03979,Health & Beauty,SME,2025-01-01
+T03980,Grocery,SME,2019-01-01
+T03981,Services,SME,2017-09-01
+T03982,Fashion & Apparel,SME,2021-08-01
+T03983,Home & Furnishing,SME,2019-11-01
+T03984,Health & Beauty,SME,2016-02-01
+T03985,,SME,2020-07-01
+T03986,Fashion & Apparel,SME,2025-08-01
+T03987,Home & Furnishing  ,SME,2021-03-01
+T03988,,SME,2018-06-01
+T03989,Food & Beverage,SME,2016-05-01
+T03990,Home & Furnishing,SME,2022-02-01
+T03991,Fashion & Apparel,SME,2018-04-01
+T03992,Entertainment,SME,2017-10-01
+T03993,Fashion & Apparel  ,Mid,2020-09-01
+T03994,Food & Beverage,Mid,2025-02-01
+T03995,Fashion & Apparel,SME,2017-03-01
+T03996,Electronics,SME,2020-06-01
+T03997,Health & Beauty,SME,2023-07-01
+T03998,Entertainment,SME,2018-03-01
+T03999,Entertainment,SME,2019-02-01
+T04000,Fashion & Apparel,SME,2025-09-01
+T04001,Electronics,SME,2020-04-01
+T04002,Food & Beverage,SME,2024-06-01
+T04003,Health & Beauty,Mid,2025-01-01
+T04004,Fashion & Apparel,Mid,2021-09-01
+T04005,Food & Beverage,Large,2016-02-01
+T04006,Food & Beverage,Large,2021-08-01
+T04007,Health & Beauty,SME,2020-01-01
+T04008,Entertainment,SME,2022-06-01
+T04009,Health & Beauty,SME,2017-03-01
+T04010,Food & Beverage,SME,2022-08-01
+T04011,Food & Beverage,SME,2025-10-01
+T04012,Grocery,SME,2020-11-01
+T04013,Fashion & Apparel,SME,2023-07-01
+T04014,Fashion & Apparel,SME,2020-12-01
+T04015,Food & Beverage,SME,2020-12-01
+T04016,Fashion & Apparel,SME,2019-04-01
+T04017,Food & Beverage,SME,2020-05-01
+T04018,Electronics,SME,2023-06-01
+T04019,Fashion & Apparel,SME,2024-08-01
+T04020,Fashion & Apparel,SME,2020-07-01
+T04021,Electronics,SME,2025-03-01
+T04022,Food & Beverage,SME,2016-09-01
+T04023,Food & Beverage,SME,2018-02-01
+T04024,Food & Beverage,SME,2023-08-01
+T04025,Health & Beauty,SME,2019-05-01
+T04026,Health & Beauty,SME,2024-08-01
+T04027,Fashion & Apparel,SME,2018-04-01
+T04028,Fashion & Apparel,SME,2024-10-01
+T04029,Food & Beverage,SME,2016-02-01
+T04030,Fashion & Apparel,SME,2024-07-01
+T04031,Food & Beverage,SME,2019-03-01
+T04032,Fashion & Apparel,SME,2023-07-01
+T04033,Electronics,Mid,2020-05-01
+T04034,Health & Beauty,Mid,2019-03-01
+T04035,Health & Beauty,SME,2021-09-01
+T04036,,SME,2018-07-01
+T04037,Food & Beverage,SME,2024-12-01
+T04038,Fashion & Apparel,Mid,2019-10-01
+T04039,Fashion & Apparel,SME,2019-06-01
+T04040,Services,SME,2017-07-01
+T04041,Grocery,SME,2024-02-01
+T04042,Fashion & Apparel,SME,2018-09-01
+T04043,Fashion & Apparel,SME,2024-11-01
+T04044,Fashion & Apparel,SME,2020-04-01
+T04045,Fashion & Apparel  ,SME,2019-12-01
+T04046,,SME,2023-05-01
+T04047,Fashion & Apparel,SME,2025-06-01
+T04048,Fashion & Apparel,SME,2019-09-01
+T04049,Health & Beauty,SME,2025-12-01
+T04050,Electronics,SME,2020-06-01
+T04051,Fashion & Apparel,SME,2020-09-01
+T04052,Food & Beverage,SME,2025-11-01
+T04053,Fashion & Apparel,SME,2020-02-01
+T04054,Food & Beverage,SME,2023-06-01
+T04055,Health & Beauty,SME,2018-12-01
+T04056,Grocery,SME,2024-08-01
+T04057,Services,SME,2018-05-01
+T04058,Fashion & Apparel,SME,2024-07-01
+T04059,Health & Beauty,SME,2016-02-01
+T04060,Food & Beverage,SME,2023-12-01
+T04061,Services,Large,2020-11-01
+T04062,Electronics,Large,2024-10-01
+T04063,Fashion & Apparel,SME,2020-01-01
+T04064,Health & Beauty,SME,2022-03-01
+T04065,Food & Beverage,Mid,2019-05-01
+T04066,Fashion & Apparel,SME,2019-11-01
+T04067,Food & Beverage,SME,2017-06-01
+T04068,Electronics,SME,2022-07-01
+T04069,Services,SME,2019-11-01
+T04070,Services,SME,2022-06-01
+T04071,Fashion & Apparel,SME,2020-12-01
+T04072,Food & Beverage,SME,2024-08-01
+T04073,Fashion & Apparel,SME,2019-10-01
+T04074,Health & Beauty  ,SME,2025-08-01
+T04075,Services,Mid,2019-10-01
+T04076,Fashion & Apparel,Mid,2024-05-01
+T04077,Health & Beauty  ,Mid,2019-06-01
+T04078,Food & Beverage,Mid,2025-06-01
+T04079,Fashion & Apparel,SME,2020-07-01
+T04080,Services,SME,2018-08-01
+T04081,Fashion & Apparel,SME,2025-03-01
+T04082,Home & Furnishing,SME,2020-10-01
+T04083,Food & Beverage,SME,2021-02-01
+T04084,Services,SME,2023-11-01
+T04085,Food & Beverage  ,Mid,2021-06-01
+T04086,Fashion & Apparel,MID,2019-04-01
+T04086,Fashion & Apparel,Mid,2019-04-01
+T04087,Fashion & Apparel,Mid,2019-12-01
+T04088,Food & Beverage  ,Mid,2023-05-01
+T04089,IT & Software,SME,2018-06-01
+T04090,,SME,2021-08-01
+T04091,Public Sector / NGO,SME,2020-01-01
+T04092,Finance & Insurance,SME,2021-02-01
+T04093,IT & Software,Mid,2018-08-01
+T04094,Professional Services,SME,2021-05-01
+T04095,Finance & Insurance,Mid,2020-04-01
+T04096,Pharma & Healthcare,Mid,2023-08-01
+T04097,IT & Software,SME,2020-04-01
+T04098,IT & Software,SME,2025-08-01
+T04099,IT & Software,Mid,2018-05-01
+T04100,Public Sector / NGO,Mid,2023-03-01
+T04101,Professional Services,SME,2019-03-01
+T04102,Pharma & Healthcare,Mid,2021-04-01
+T04103,Pharma & Healthcare,SME,2021-03-01
+T04104,Education,Mid,2018-03-01
+T04105,Media & Marketing,Mid,2021-05-01
+T04106,Professional Services,SME,2019-11-01
+T04107,Pharma & Healthcare,SME,2020-01-01
+T04108,Professional Services,SME,2020-09-01
+T04109,BPO / Shared Services,SME,2017-04-01
+T04110,Professional Services,SME,2025-05-01
+T04111,IT & Software,Mid,2018-08-01
+T04112,Media & Marketing,Mid,2025-03-01
+T04113,IT & Software,SME,2019-12-01
+T04114,BPO / Shared Services,SME,2025-03-01
+T04115,Professional Services,SME,2020-10-01
+T04116,Finance & Insurance,SME,2023-11-01
+T04117,IT & Software,SME,2018-10-01
+T04118,Engineering,SME,2023-12-01
+T04119,Engineering,Mid,2019-05-01
+T04120,IT & Software,Mid,2024-07-01
+T04121,Finance & Insurance,Mid,2020-08-01
+T04122,Professional Services,Mid,2025-09-01
+T04123,IT & Software,SME,2021-07-01
+T04124,IT & Software,Mid,2018-05-01
+T04125,Pharma & Healthcare,Mid,2021-03-01
+T04126,BPO / Shared Services,Large,2018-07-01
+T04127,Media & Marketing,SME,2017-10-01
+T04128,Professional Services,SME,2020-05-01
+T04129,IT & Software,SME,2019-05-01
+T04130,Professional Services  ,Mid,2020-06-01
+T04131,BPO / Shared Services,SME,2018-04-01
+T04132,Media & Marketing,SME,2019-09-01
+T04133,IT & Software,SME,2023-05-01
+T04134,Professional Services,Mid,2020-06-01
+T04135,,Mid,2018-02-01
+T04136,IT & Software,Mid,2018-05-01
+T04137,Pharma & Healthcare,Mid,2023-12-01
+T04138,BPO / Shared Services  ,Mid,2019-02-01
+T04139,Public Sector / NGO,Mid,2018-03-01
+T04140,IT & Software,Mid,2021-05-01
+T04141,BPO / Shared Services,SME,2019-12-01
+T04142,IT & Software,SME,2023-05-01
+T04143,Pharma & Healthcare,Large,2018-12-01
+T04144,Media & Marketing,Large,2022-04-01
+T04145,IT & Software,Mid,2020-10-01
+T04146,BPO / Shared Services,Mid,2022-04-01
+T04147,BPO / Shared Services,SME,2018-12-01
+T04148,BPO / Shared Services,SME,2022-02-01
+T04149,IT & Software,SME,2018-04-01
+T04150,Pharma & Healthcare,Mid,2018-12-01
+T04151,IT & Software,SME,2020-12-01
+T04152,Finance & Insurance,Mid,2018-10-01
+T04153,IT & Software,Mid,2021-12-01
+T04154,Public Sector / NGO,SME,2019-02-01
+T04155,Professional Services,SME,2017-07-01
+T04156,Finance & Insurance,SME,2018-04-01
+T04157,Professional Services,SME,2022-09-01
+T04158,Pharma & Healthcare  ,SME,2025-10-01
+T04159,IT & Software,SME,2017-08-01
+T04160,IT & Software,SME,2023-02-01
+T04161,Finance & Insurance,SME,2019-08-01
+T04162,BPO / Shared Services,SME,2022-10-01
+T04163,,SME,2019-11-01
+T04164,IT & Software,SME,2023-01-01
+T04165,Finance & Insurance,Large,2018-12-01
+T04166,IT & Software,Mid,2019-04-01
+T04167,Engineering,SME,2018-07-01
+T04168,Engineering,Mid,2016-08-01
+T04169,Education  ,Mid,2022-03-01
+T04170,Finance & Insurance,SME,2018-07-01
+T04171,BPO / Shared Services,Mid,2019-07-01
+T04172,Professional Services,Mid,2019-04-01
+T04173,BPO / Shared Services,Mid,2022-05-01
+T04174,Professional Services,Mid,2019-12-01
+T04175,Finance & Insurance,SME,2017-12-01
+T04176,IT & Software  ,SME,2018-02-01
+T04177,IT & Software,SME,2020-07-01
+T04178,IT & Software,SME,2023-08-01
+T04179,Professional Services,SME,2018-04-01
+T04180,Engineering,SME,2021-02-01
+T04181,Finance & Insurance,SME,2020-09-01
+T04182,BPO / Shared Services,Mid,2018-12-01
+T04183,IT & Software,SME,2019-01-01
+T04184,Finance & Insurance,SME,2018-08-01
+T04185,BPO / Shared Services,SME,2024-11-01
+T04186,IT & Software,Large,2016-08-01
+T04187,IT & Software,SME,2019-03-01
+T04188,Professional Services,SME,2022-10-01
+T04189,IT & Software,SME,2025-11-01
+T04190,Professional Services,SME,2022-09-01
+T04191,Engineering,SME,2019-11-01
+T04192,Engineering,Mid,2018-01-01
+T04193,Education,SME,2018-03-01
+T04194,BPO / Shared Services,Mid,2017-11-01
+T04195,Engineering,SME,2019-05-01
+T04196,IT & Software,Mid,2019-02-01
+T04197,IT & Software,SME,2017-04-01
+T04198,Pharma & Healthcare,SME,2023-04-01
+T04199,IT & Software,Mid,2016-05-01
+T04200,Professional Services,SME,2019-11-01
+T04201,Professional Services,SME,2018-02-01
+T04202,Professional Services,SME,2018-04-01
+T04203,IT & Software,Mid,2021-11-01
+T04204,Engineering,Mid,2018-12-01
+T04205,Pharma & Healthcare  ,Mid,2024-01-01
+T04206,IT & Software,SME,2019-08-01
+T04207,IT & Software,SME,2025-07-01
+T04208,IT & Software,Mid,2019-08-01
+T04209,IT & Software,SME,2020-09-01
+T04210,BPO / Shared Services,SME,2023-10-01
+T04211,BPO / Shared Services,SME,2019-07-01
+T04212,IT & Software,Mid,2020-03-01
+T04213,Media & Marketing,Mid,2023-04-01
+T04214,IT & Software,Mid,2019-07-01
+T04215,BPO / Shared Services  ,Mid,2022-12-01
+T04216,IT & Software,Large,2019-05-01
+T04217,Engineering,Large,2022-07-01
+T04218,BPO / Shared Services,SME,2019-09-01
+T04219,Finance & Insurance,Mid,2020-02-01
+T04220,Pharma & Healthcare,Mid,2023-11-01
+T04221,Finance & Insurance,SME,2021-12-01
+T04222,IT & Software,SME,2025-04-01
+T04223,Public Sector / NGO,Mid,2020-12-01
+T04224,Finance & Insurance,Mid,2024-01-01
+T04225,BPO / Shared Services,SME,2021-02-01
+T04226,Professional Services  ,SME,2019-01-01
+T04227,Engineering,SME,2022-09-01
+T04228,Finance & Insurance,Mid,2019-09-01
+T04229,IT & Software,Large,2019-06-01
+T04230,BPO / Shared Services,Mid,2020-10-01
+T04231,IT & Software,Mid,2023-11-01
+T04232,IT & Software,Mid,2020-02-01
+T04233,Public Sector / NGO,Mid,2020-10-01
+T04234,IT & Software,SME,2019-02-01
+T04235,,Mid,2020-09-01
+T04236,Professional Services,Mid,2018-03-01
+T04237,BPO / Shared Services,Mid,2018-07-01
+T04238,,SME,2016-03-01
+T04239,Engineering,Mid,2017-04-01
+T04240,BPO / Shared Services  ,Mid,2020-07-01
+T04241,Professional Services,Mid,2024-08-01
+T04242,Finance & Insurance,Mid,2020-06-01
+T04243,Professional Services,Mid,2018-03-01
+T04244,IT & Software,Mid,2024-04-01
+T04245,IT & Software,Mid,2021-05-01
+T04246,Finance & Insurance,SME,2019-01-01
+T04247,BPO / Shared Services,SME,2022-01-01
+T04248,IT & Software  ,SME,2020-10-01
+T04249,Media & Marketing,Mid,2018-09-01
+T04250,Pharma & Healthcare,Mid,2022-01-01
+T04251,Professional Services,Mid,2021-05-01
+T04252,Professional Services,Mid,2019-10-01
+T04253,Professional Services,SME,2019-01-01
+T04254,Media & Marketing,SME,2022-05-01
+T04255,Education,SME,2018-07-01
+T04256,BPO / Shared Services,Mid,2020-02-01
+T04257,Pharma & Healthcare,Large,2019-11-01
+T04257,Pharma & Healthcare,LARGE,2019-11-01
+T04258,IT & Software,SME,2018-03-01
+T04259,IT & Software,SME,2022-10-01
+T04260,Pharma & Healthcare  ,Mid,2018-10-01
+T04261,Food & Beverage,SME,2020-05-01
+T04262,Grocery,SME,2023-08-01
+T04263,Entertainment,SME,2019-02-01
+T04264,Services,Mid,2020-06-01
+T04265,Food & Beverage,Mid,2021-04-01
+T04266,Fashion & Apparel,Mid,2018-02-01
+T04267,Entertainment,Mid,2021-08-01
+T04268,Electronics  ,Mid,2024-12-01
+T04269,Fashion & Apparel,SME,2019-06-01
+T04270,Grocery,SME,2018-09-01
+T04271,Food & Beverage,SME,2022-05-01
+T04272,Electronics,SME,2019-10-01
+T04273,Fashion & Apparel,SME,2023-05-01
+T04274,Fashion & Apparel,SME,2025-07-01
+T04275,Electronics,SME,2016-08-01
+T04276,Food & Beverage,SME,2022-12-01
+T04277,Food & Beverage,SME,2022-02-01
+T04278,Food & Beverage  ,Mid,2019-10-01
+T04279,Fashion & Apparel,SME,2019-07-01
+T04280,Health & Beauty,SME,2022-10-01
+T04281,Health & Beauty,SME,2020-02-01
+T04282,Fashion & Apparel,SME,2024-12-01
+T04283,Fashion & Apparel,SME,2017-01-01
+T04284,Home & Furnishing,SME,2020-01-01
+T04285,Fashion & Apparel,Mid,2020-07-01
+T04286,Fashion & Apparel,Mid,2023-07-01
+T04287,Home & Furnishing,Mid,2018-09-01
+T04288,,Mid,2025-07-01
+T04289,Fashion & Apparel,SME,2016-08-01
+T04290,Electronics,SME,2023-11-01
+T04291,Fashion & Apparel,Mid,2019-10-01
+T04292,Food & Beverage,Mid,2022-11-01
+T04293,Fashion & Apparel,Mid,2019-03-01
+T04294,Fashion & Apparel,SME,2019-10-01
+T04295,Home & Furnishing  ,SME,2021-02-01
+T04296,Fashion & Apparel,Mid,2018-03-01
+T04297,Entertainment,SME,2019-06-01
+T04298,Health & Beauty,SME,2020-11-01
+T04299,,SME,2016-12-01
+T04300,Fashion & Apparel,SME,2022-03-01
+T04301,Fashion & Apparel  ,SME,2019-12-01
+T04302,Fashion & Apparel,SME,2020-08-01
+T04303,Fashion & Apparel,SME,2025-12-01
+T04304,Fashion & Apparel,SME,2020-05-01
+T04305,Food & Beverage,Mid,2020-09-01
+T04306,,SME,2020-05-01
+T04307,Entertainment  ,SME,2019-07-01
+T04308,,SME,2022-09-01
+T04309,Electronics,SME,2025-02-01
+T04310,Food & Beverage,Mid,2019-12-01
+T04311,,Mid,2021-06-01
+T04312,Electronics,SME,2018-11-01
+T04313,Health & Beauty,SME,2025-06-01
+T04314,,SME,2020-09-01
+T04315,Engineering,SME,2019-03-01
+T04316,BPO / Shared Services,SME,2024-08-01
+T04317,IT & Software,Mid,2018-01-01
+T04318,IT & Software,SME,2017-04-01
+T04319,Engineering,SME,2025-05-01
+T04320,BPO / Shared Services,SME,2020-05-01
+T04321,Finance & Insurance,Mid,2019-09-01
+T04322,IT & Software,Mid,2023-06-01
+T04323,IT & Software,SME,2019-02-01
+T04324,Finance & Insurance,SME,2022-07-01
+T04325,Education,Mid,2019-04-01
+T04326,IT & Software,Mid,2025-06-01
+T04327,IT & Software,SME,2016-06-01
+T04328,IT & Software,Mid,2018-06-01
+T04329,IT & Software,Mid,2021-11-01
+T04330,Education,Mid,2018-10-01
+T04331,BPO / Shared Services,Mid,2018-06-01
+T04332,BPO / Shared Services,Mid,2024-04-01
+T04333,Finance & Insurance,SME,2018-03-01
+T04334,Professional Services,Mid,2016-03-01
+T04335,Education,Mid,2019-05-01
+T04336,Media & Marketing,Mid,2024-07-01
+T04337,BPO / Shared Services,Mid,2019-03-01
+T04338,IT & Software,Mid,2024-04-01
+T04339,Pharma & Healthcare,Mid,2019-05-01
+T04340,IT & Software,SME,2021-05-01
+T04341,BPO / Shared Services,SME,2018-10-01
+T04342,Professional Services,SME,2020-01-01
+T04343,BPO / Shared Services,SME,2019-05-01
+T04344,Media & Marketing,SME,2020-03-01
+T04345,Finance & Insurance,SME,2020-06-01
+T04346,Finance & Insurance,SME,2025-10-01
+T04347,Engineering  ,SME,2018-07-01
+T04348,BPO / Shared Services,SME,2019-03-01
+T04349,,SME,2020-10-01
+T04350,Pharma & Healthcare,Mid,2018-04-01
+T04351,,Mid,2022-11-01
+T04352,BPO / Shared Services,Mid,2017-12-01
+T04353,Pharma & Healthcare,Mid,2021-03-01
+T04354,BPO / Shared Services,SME,2020-04-01
+T04355,Engineering,SME,2023-09-01
+T04356,IT & Software,Mid,2018-03-01
+T04357,Professional Services,SME,2020-11-01
+T04358,BPO / Shared Services,SME,2018-03-01
+T04359,Professional Services,Mid,2020-02-01
+T04360,Pharma & Healthcare,Mid,2023-06-01
+T04361,BPO / Shared Services,SME,2017-09-01
+T04362,Professional Services,SME,2022-10-01
+T04363,BPO / Shared Services,SME,2019-06-01
+T04364,Media & Marketing,SME,2022-08-01
+T04365,Engineering,Mid,2018-09-01
+T04366,Professional Services,Mid,2024-12-01
+T04367,BPO / Shared Services,SME,2018-06-01
+T04368,Professional Services,SME,2021-02-01
+T04369,BPO / Shared Services,SME,2022-07-01
+T04370,BPO / Shared Services,SME,2019-06-01
+T04371,,SME,2023-03-01
+T04372,IT & Software,Mid,2019-04-01
+T04373,Finance & Insurance,Large,2021-02-01
+T04374,IT & Software,Mid,2019-04-01
+T04375,Public Sector / NGO,Mid,2022-06-01
+T04376,BPO / Shared Services,Mid,2022-01-01
+T04377,Engineering,Mid,2020-06-01
+T04378,Finance & Insurance,Mid,2018-09-01
+T04379,BPO / Shared Services,SME,2020-03-01
+T04380,Pharma & Healthcare,SME,2023-07-01
+T04381,,SME,2016-11-01
+T04382,IT & Software,SME,2020-02-01
+T04383,IT & Software  ,SME,2018-04-01
+T04384,Pharma & Healthcare,Large,2018-09-01
+T04385,IT & Software,Mid,2018-06-01
+T04386,Pharma & Healthcare,SME,2020-11-01
+T04387,Media & Marketing,Mid,2020-06-01
+T04388,BPO / Shared Services,Mid,2023-12-01
+T04389,Pharma & Healthcare,Mid,2021-02-01
+T04390,IT & Software,Mid,2018-09-01
+T04391,Pharma & Healthcare,Mid,2024-04-01
+T04392,Education  ,Mid,2018-08-01
+T04393,BPO / Shared Services,Large,2020-05-01
+T04394,IT & Software,Large,2023-10-01
+T04395,BPO / Shared Services,SME,2018-12-01
+T04396,Professional Services,Mid,2020-04-01
+T04397,BPO / Shared Services,SME,2021-08-01
+T04398,Finance & Insurance,SME,2025-09-01
+T04399,Engineering,SME,2017-01-01
+T04400,IT & Software,SME,2022-06-01
+T04401,Professional Services,Mid,2019-07-01
+T04402,Professional Services,Mid,2022-12-01
+T04403,Finance & Insurance,SME,2017-08-01
+T04404,BPO / Shared Services,SME,2016-10-01
+T04405,BPO / Shared Services,Mid,2018-09-01
+T04406,IT & Software,SME,2019-06-01
+T04407,Finance & Insurance  ,SME,2023-11-01
+T04408,BPO / Shared Services,SME,2016-12-01
+T04409,Pharma & Healthcare,SME,2024-07-01
+T04410,IT & Software,SME,2019-11-01
+T04411,IT & Software,SME,2020-11-01
+T04412,IT & Software,SME,2018-06-01
+T04413,Public Sector / NGO,Mid,2018-10-01
+T04414,Pharma & Healthcare,Mid,2018-10-01
+T04415,Professional Services,SME,2020-08-01
+T04416,Engineering  ,SME,2025-12-01
+T04417,BPO / Shared Services,Mid,2019-06-01
+T04418,Finance & Insurance,Mid,2025-10-01
+T04419,IT & Software,Mid,2020-11-01
+T04420,IT & Software,Large,2019-12-01
+T04421,Professional Services,Large,2024-02-01
+T04422,,SME,2018-04-01
+T04423,BPO / Shared Services,SME,2020-05-01
+T04424,IT & Software,Mid,2018-08-01
+T04425,Engineering,Mid,2022-03-01
+T04426,Finance & Insurance,SME,2018-07-01
+T04427,BPO / Shared Services,SME,2020-01-01
+T04428,IT & Software,SME,2019-10-01
+T04429,IT & Software,SME,2023-06-01
+T04430,Engineering,SME,2023-11-01
+T04431,IT & Software,SME,2021-03-01
+T04432,Professional Services,Mid,2020-05-01
+T04433,,Mid,2021-03-01
+T04434,Professional Services,SME,2019-12-01
+T04435,IT & Software,Large,2021-06-01
+T04436,Public Sector / NGO,Large,2024-11-01
+T04437,IT & Software,SME,2022-02-01
+T04438,Pharma & Healthcare,SME,2018-09-01
+T04439,BPO / Shared Services,SME,2021-04-01
+T04440,Finance & Insurance,SME,2020-08-01
+T04441,BPO / Shared Services,Mid,2017-04-01
+T04442,BPO / Shared Services,Mid,2025-06-01
+T04443,BPO / Shared Services,Mid,2020-08-01
+T04444,Public Sector / NGO,Mid,2023-11-01
+T04445,IT & Software,SME,2020-05-01
+T04446,Media & Marketing,Mid,2021-04-01
+T04447,,SME,2020-04-01
+T04448,Engineering,SME,2025-07-01
+T04449,Media & Marketing,Large,2018-03-01

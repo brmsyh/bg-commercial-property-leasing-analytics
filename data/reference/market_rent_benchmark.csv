@@ -1,0 +1,17 @@
+unit_type,city,grade,benchmark_rent_eur_sqm,source
+Office,Sofia,A,20.0,Broker market report Q4-2025
+Office,Sofia,B,13.5,Broker market report Q4-2025
+Office,Plovdiv,A,12.5,Broker market report Q4-2025
+Office,Plovdiv,B,9.5,Broker market report Q4-2025
+Office,Varna,A,12.5,Broker market report Q4-2025
+Office,Varna,B,9.0,Broker market report Q4-2025
+Office,Burgas,A,11.5,Broker market report Q4-2025
+Office,Burgas,B,8.5,Broker market report Q4-2025
+Retail,Sofia,A,31.5,Broker market report Q4-2025
+Retail,Sofia,B,21.5,Broker market report Q4-2025
+Retail,Plovdiv,A,20.5,Broker market report Q4-2025
+Retail,Plovdiv,B,14.5,Broker market report Q4-2025
+Retail,Varna,A,18.0,Broker market report Q4-2025
+Retail,Varna,B,16.0,Broker market report Q4-2025
+Retail,Burgas,A,16.0,Broker market report Q4-2025
+Retail,Burgas,B,13.5,Broker market report Q4-2025
